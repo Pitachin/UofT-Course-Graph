@@ -1,7 +1,16 @@
 import requests
 from bs4 import BeautifulSoup, Tag
 import json
-from typing import Any
+
+URL = {
+    'art&sci': 'https://artsci.calendar.utoronto.ca/search-courses',
+    'utm': 'https://utm.calendar.utoronto.ca/course-search',
+    'utsc': 'https://utsc.calendar.utoronto.ca/search-courses',
+}
+
+
+
+
 
 def _extract_text(tag: Tag | None) -> str | None:
     """Return the text of tag. If it is None then return None."""
@@ -45,14 +54,21 @@ def _parse_course(
     Missing optional fields are represented by None.
     """
 
-    title = _extract_text(
-            course.select_one(
+    title_tag = course.select_one(
                 '.js-views-accordion-group-header > div'
             )
-        )
 
-    assert title is not None and ' - ' in title, \
-        f'Page: {page}\nInvalid title:{title}\nHTML: \n{course.prettify()}'
+    assert title_tag is not None
+
+    title = title_tag.get('aria-label')
+    # utsg case
+    if title is None or ' - ' not in title:
+        title = _extract_text(title_tag)
+    # utm case
+    if title is not None:
+        title = title.replace(' • ', ' - ', 1)
+
+    print(repr(title))
 
     code, name = title.split(' - ', 1)
 
@@ -119,9 +135,9 @@ def scrape_courses(url: str) -> list[dict[str, str | None]]:
     return all_courses
 
 if __name__ == '__main__':
-    url = 'https://artsci.calendar.utoronto.ca/search-courses'
-
-    all_courses = scrape_courses(url)
-    _save_json(all_courses, 'artsci_raw.json')
+    url = 'https://utsc.calendar.utoronto.ca/course-search'
+    
+    all_courses = scrape_courses(URL['utsc'])
+    _save_json(all_courses, 'utsc_raw.json')
 
     print(f'Successfully scraped {len(all_courses)} courses.')
