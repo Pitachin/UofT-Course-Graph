@@ -6,10 +6,21 @@ URL = {
     'art&sci': 'https://artsci.calendar.utoronto.ca/search-courses',
     'utm': 'https://utm.calendar.utoronto.ca/course-search',
     'utsc': 'https://utsc.calendar.utoronto.ca/search-courses',
+    'engineering': 'https://engineering.calendar.utoronto.ca/search-courses',
+    "daniels": "https://daniels.calendar.utoronto.ca/search-courses",
+    "kpe": "https://kpe.calendar.utoronto.ca/search-courses",
+    "ischool": "https://ischool.calendar.utoronto.ca/search-courses",
+    "music": "https://music.calendar.utoronto.ca/search-courses",
+    "nursing": "https://nursing.calendar.utoronto.ca/search-courses",
+    "pharmacy": "https://pharmacy.calendar.utoronto.ca/search-courses",
+    "md": "https://md.calendar.utoronto.ca/search-courses",
+    "sgs": "https://sgs.calendar.utoronto.ca/search-courses",
+    "oise": "https://oise.academic-guide.utoronto.ca/search-courses",
+    "law-jd": "https://jackmanlaw.utoronto.ca/jd-program/course-list",
+    "law-first-year": "https://jackmanlaw.utoronto.ca/jd-program/first-year-course-assignments",
+    "law-graduate": "https://jackmanlaw.utoronto.ca/graduate-programs/course-list",
+    "dentistry": "https://www.dentistry.utoronto.ca/sites/default/files/2026-11/2026-2027%20FACULTY-CALENDAR.pdf",
 }
-
-
-
 
 
 def _extract_text(tag: Tag | None) -> str | None:
@@ -137,7 +148,7 @@ def scrape_courses(url: str) -> list[dict[str, str | None]]:
 if __name__ == '__main__':
     url = 'https://utsc.calendar.utoronto.ca/course-search'
     
-    all_courses = scrape_courses(URL['utsc'])
-    _save_json(all_courses, 'utsc_raw.json')
+    all_courses = scrape_courses(URL['ischool'])
+    _save_json(all_courses, 'ischool_raw.json')
 
     print(f'Successfully scraped {len(all_courses)} courses.')

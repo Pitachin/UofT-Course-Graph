@@ -1,0 +1,5015 @@
+[
+    {
+        "code": "AER210H1",
+        "name": "Vector Calculus & Fluid Mechanics",
+        "prereq": "Prerequisite: ESC195H1",
+        "exclusion": "Exclusion: CHE211H1 , CHE221H1 , CME261H1 , CME270H1 , MAT291H1 or MIE312H1",
+        "corequisite": "Corequisite: MAT292H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER301H1",
+        "name": "Dynamics",
+        "prereq": "Prerequisite: AER210H1 , MAT185H1 and PHY180H1",
+        "exclusion": "Exclusion: MIE301H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER302H1",
+        "name": "Aircraft Flight",
+        "prereq": "Prerequisite: AER307H1 and AER301H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER303H1",
+        "name": "Aerospace Laboratory I",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": "Corequisite: AER307H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER304H1",
+        "name": "Aerospace Laboratory II",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": "Corequisite: AER373H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER306H1",
+        "name": "Introduction to Space Flight",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": "Corequisite: AER301H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER307H1",
+        "name": "Aerodynamics",
+        "prereq": "Prerequisite: AER210H1 or MIE312H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER310H1",
+        "name": "Gasdynamics",
+        "prereq": "Prerequisite: AER307H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER336H1",
+        "name": "Scientific Computing",
+        "prereq": "Prerequisite: ESC103H1 and MAT185H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER372H1",
+        "name": "Control Systems",
+        "prereq": "Prerequisite: MAT185H1 and MAT292H1",
+        "exclusion": "Exclusion: CHE322H1 , ECE356H1 or MIE404H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER373H1",
+        "name": "Mechanics of Solids and Structures",
+        "prereq": "Prerequisite: CIV102H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER406H1",
+        "name": "Aircraft Design",
+        "prereq": "Prerequisite: AER302H1 , AER307H1 and AER373H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER407H1",
+        "name": "Space Systems Design",
+        "prereq": "Prerequisite: AER301H1 , AER306H1 , AER372H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER501H1",
+        "name": "Computational Structural Mechanics and Design Optimization",
+        "prereq": "Prerequisite: AER373H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER503H1",
+        "name": "Aeroelasticity",
+        "prereq": "Prerequisite: AER307H1 and AER501H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER506H1",
+        "name": "Spacecraft Dynamics and Control",
+        "prereq": "Prerequisite: AER301H1 and AER372H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER507H1",
+        "name": "Introduction to Fusion Energy",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER510H1",
+        "name": "Aerospace Propulsion",
+        "prereq": "Prerequisite: AER310H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER515H1",
+        "name": "Combustion Processes",
+        "prereq": "Prerequisite: CHE260H1",
+        "exclusion": "Exclusion: MIE516H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "AER525H1",
+        "name": "Robotics",
+        "prereq": "Prerequisite: AER301H1 / MIE301H1 (or equivalent), AER372H1 / MIE404H1 (or equivalent). MIE404H1 (or equivalent) may be taken as a corequisite.",
+        "exclusion": "Exclusion: ECE470H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APM446H1",
+        "name": "Applied Nonlinear Equations",
+        "prereq": "Prerequisite: APM346H1 / MAT351Y1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APM466H1",
+        "name": "Mathematical Theory of Finance",
+        "prereq": "Prerequisite: APM346H1 , STA347H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: STA457H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS100H1",
+        "name": "Orientation to Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS105H1",
+        "name": "Computer Fundamentals",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS106H1",
+        "name": "Fundamentals of Computer Programming",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS110H1",
+        "name": "Engineering Chemistry and Materials Science",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS111H1",
+        "name": "Engineering Strategies & Practice I",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS112H1",
+        "name": "Engineering Strategies & Practice II",
+        "prereq": "Prerequisite: APS111H1 / ESC101H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS150H1",
+        "name": "Ethics in Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS160H1",
+        "name": "Mechanics",
+        "prereq": null,
+        "exclusion": "Exclusion: CIV100H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "APS162H1",
+        "name": "Calculus for Engineers I",
+        "prereq": null,
+        "exclusion": "Exclusion: MAT186H1 / MAT196H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS163H1",
+        "name": "Calculus for Engineers II",
+        "prereq": "Prerequisite: APS162H1 / MAT186H1",
+        "exclusion": "Exclusion: MAT187H1 / MAT197H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS164H1",
+        "name": "Introductory Chemistry from a Materials Perspective",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS191H1",
+        "name": "Introduction to Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS299Y0",
+        "name": "Summer Research Abroad",
+        "prereq": "Prerequisite: Pre-requisite: Students must have a cGPA of at least 3.0 and permission of their department.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS305H1",
+        "name": "Energy Policy",
+        "prereq": null,
+        "exclusion": "Exclusion: ENV350H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS330H1",
+        "name": "Interdisciplinary Studies for Sustainability & Innovation: How to Change the World",
+        "prereq": "Prerequisite: Must have completed at least 10.0 FCE in their current engineering degree program prior to the start of the course. Approval of the student's application for the course.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS360H1",
+        "name": "Applied Fundamentals of Deep Learning",
+        "prereq": "Prerequisite: APS105H1 / APS106H1 / ESC180H1 / CSC180H1 ; APS163/ MAT187H1 / ESC195H1 ; MAT185H1 / MAT188H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS380H1",
+        "name": "*Introduction to Electric Vehicle Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS420H1",
+        "name": "Technology, Engineering and Global Development",
+        "prereq": null,
+        "exclusion": "Exclusion: APS520H1 , APS420H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS440H1",
+        "name": "Making Sense of Accidents",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS441H1",
+        "name": "System-Theoretic Accident and Risk Analysis",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS470H1",
+        "name": "Engineering and Public Health",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS490Y1",
+        "name": "Multi-Disciplinary Capstone Design",
+        "prereq": "Prerequisite: Permission of student's home department",
+        "exclusion": "Exclusion: CHE430Y1 / CIV498H1 / MIE490Y1 / MIE491Y1 / ECE496Y1 / ESC470H1 / ESC471H1 / ESC472H1 / MSE498Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS500H1",
+        "name": "Negotiations in an Engineering Context",
+        "prereq": "Prerequisite: JRE420H1 or equivalent or instructor permission",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS502H1",
+        "name": "Financial Engineering",
+        "prereq": "Prerequisite: MAT186H1 , MAT187H1 , MAT188H1 , MIE236H1 , MIE237H1 , or equivalent.",
+        "exclusion": "Exclusion: MIE375H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS510H1",
+        "name": "Innovative Technologies and Organizations in Global Energy Systems",
+        "prereq": "Prerequisite: Undergraduate economics course",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS511H1",
+        "name": "Inventions and Patents for Engineers",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS521H1",
+        "name": "Building Organizations:  An Engineer's Business Toolkit",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "APS530H1",
+        "name": "Appropriate Technology & Design for Global Development",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME205H1",
+        "name": "Fundamentals of Biomedical Engineering",
+        "prereq": null,
+        "exclusion": "Exclusion: CHE353H1 or BIO130H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME330H1",
+        "name": "Patents in Biology and Medical Devices",
+        "prereq": "Prerequisite: CHE353H1 or BME205H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME331H1",
+        "name": "Physiological Control Systems",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME344H1",
+        "name": "Modeling, Dynamics, and Control of Biological Systems",
+        "prereq": "Prerequisite: MAT185H1 or equivalent; MAT292H1 or equivalent",
+        "exclusion": null,
+        "corequisite": "Corequisite: BME350H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME346H1",
+        "name": "Biomedical Engineering Technologies",
+        "prereq": "Prerequisite: BME205H1",
+        "exclusion": "Exclusion: BME440H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME350H1",
+        "name": "Biomedical Systems Engineering I: Organ Systems",
+        "prereq": "Prerequisite: BME205H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: BME395H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME352H1",
+        "name": "Biomaterials and Biocompatibility",
+        "prereq": "Prerequisite: BME205H1",
+        "exclusion": "Exclusion: MSE452H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME358H1",
+        "name": "Molecular Biophysics",
+        "prereq": "Prerequisite: BME205H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME395H1",
+        "name": "Biomedical Systems Engineering II: Cells and Tissues",
+        "prereq": null,
+        "exclusion": "Exclusion: CHE353H1",
+        "corequisite": "Corequisite: BME350H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME396H1",
+        "name": "Biomedical Systems Engineering III: Molecules and Cells",
+        "prereq": "Prerequisite: BME350H1 , BME395H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "BME410H1",
+        "name": "Regenerative Engineering",
+        "prereq": "Prerequisite: BME396H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME412H1",
+        "name": "Introduction to Biomolecular Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME428H1",
+        "name": "Biomedical Systems Engineering IV: Computational Systems Biology",
+        "prereq": "Prerequisite: BME350H1 , BME395H1 , BME396H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME440H1",
+        "name": "Biomedical Engineering Technology and Investigation",
+        "prereq": "Prerequisite: CHE353H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME445H1",
+        "name": "Neural Bioelectricity",
+        "prereq": "Prerequisite: ECE159H1 / ECE110H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME455H1",
+        "name": "Cellular and Molecular Bioengineering II",
+        "prereq": "Prerequisite: CHE353H1 and CHE354H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME460H1",
+        "name": "Biomaterial and Medical Device Product Development",
+        "prereq": "Prerequisite: BME352H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME466H1",
+        "name": "Drug Delivery at Biological Barriers and Interfaces",
+        "prereq": "Prerequisite: BME205H1 , CHE353H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME470H1",
+        "name": "Biomedical Systems Engineering Design",
+        "prereq": "Prerequisite: BME205H1",
+        "exclusion": "Exclusion: BME489H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME479H1",
+        "name": "Introduction to Biomedical Systems Engineering Design Concepts",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME488H1",
+        "name": "Introduction to Immunoengineering",
+        "prereq": "Prerequisite: BME395H1 / CHE354H1",
+        "exclusion": "Exclusion: IMM250H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME498Y1",
+        "name": "Biomedical Engineering Capstone Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME530H1",
+        "name": "Human Whole Body Biomechanics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "BME595H1",
+        "name": "Medical Imaging",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE112H1",
+        "name": "Physical Chemistry in Engineering Practice",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE113H1",
+        "name": "Concepts in Chemical and Biochemical Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE191H1",
+        "name": "Introduction to Chemical Engineering and Applied Chemistry",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE204H1",
+        "name": "Chemical Engineering and Applied Chemistry- Laboratory I",
+        "prereq": "Prerequisite: CHE112H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: CHE220H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE205H1",
+        "name": "Chemical Engineering and Applied Chemistry- Laboratory II",
+        "prereq": "Prerequisite: CHE204H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: CHE213H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE208H1",
+        "name": "Process Engineering",
+        "prereq": "Prerequisite: CHE112H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE210H1",
+        "name": "Heat and Mass Transfer",
+        "prereq": "Prerequisite: CHE211H1 , CHE221H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE211H1",
+        "name": "Fluid Mechanics",
+        "prereq": "Prerequisite: CIV100H1 , MAT187H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE213H1",
+        "name": "Applied Chemistry II - Organic Chemistry",
+        "prereq": "Prerequisite: CHE112H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE220H1",
+        "name": "Applied Chemistry I - Inorganic Chemistry",
+        "prereq": "Prerequisite: CHE112H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE221H1",
+        "name": "Calculus III",
+        "prereq": "Prerequisite: MAT186H1 , MAT187H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE222H1",
+        "name": "Process Dynamics: Modeling, Analysis and Simulation",
+        "prereq": "Prerequisite: APS105H1 / APS106H1 , CHE208H1 , CHE221H1 , MAT188H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE223H1",
+        "name": "Statistics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE230H1",
+        "name": "Environmental Chemistry",
+        "prereq": "Prerequisite: CHE112H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: CHE213H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE249H1",
+        "name": "Engineering Economic Analysis",
+        "prereq": "Prerequisite: CHE221H1 , CHE223H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE260H1",
+        "name": "Thermodynamics and Heat Transfer",
+        "prereq": null,
+        "exclusion": "Exclusion: CHE210H1 , CHE323H1 , CHE326H1 , CHE119H1 , MSE202H1 or MIE210H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "CHE299H1",
+        "name": "Communication",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE304H1",
+        "name": "Chemical Engineering and Applied Chemistry- Laboratory III",
+        "prereq": "Prerequisite: CHE205H1 , CHE208H1 , CHE210H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE305H1",
+        "name": "Chemical Engineering and Applied Chemistry- Laboratory IV",
+        "prereq": "Prerequisite: CHE304H1 , CHE323H1 , CHE332H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE308H1",
+        "name": "Energy Systems and Fuels: Global Needs, Challenges, and Technological Opportunities",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE311H1",
+        "name": "Separation Processes",
+        "prereq": "Prerequisite: CHE208H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE321H1",
+        "name": "Introduction to Machine Learning for Chemical Engineers ",
+        "prereq": "Prerequisite: APS105H1 / Aps106H1 , CHE221H1 , CHE223H1 (or equivalents)",
+        "exclusion": "Exclusion: CSC311H1 , ECE421H1 , MIE424H1 , ROB313H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE322H1",
+        "name": "Process Control",
+        "prereq": "Prerequisite: CHE222H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE323H1",
+        "name": "Engineering Thermodynamics",
+        "prereq": "Prerequisite: CHE112H1 , CHE221H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE324H1",
+        "name": "Process Design",
+        "prereq": "Prerequisite: CHE208H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE332H1",
+        "name": "Reaction Kinetics",
+        "prereq": "Prerequisite: CHE210H1 , CHE222H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE333H1",
+        "name": "Chemical Reaction Engineering",
+        "prereq": "Prerequisite: CHE323H1 , CHE324H1 , CHE332H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE334H1",
+        "name": "Team Strategies for Engineering Design",
+        "prereq": "Prerequisite: APS111H1 , APS112H1 , CHE324H1 , CHE332H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE353H1",
+        "name": "Engineering Biology",
+        "prereq": null,
+        "exclusion": "Exclusion: BME205H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE354H1",
+        "name": "Cellular and Molecular Biology",
+        "prereq": "Prerequisite: CHE353H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE374H1",
+        "name": "Economic Analysis and Decision Making",
+        "prereq": "Prerequisite: ESC194H1 , ESC103H1",
+        "exclusion": "Exclusion: CHE249H1 , CME368H1 / MIE258H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE375H1",
+        "name": "Engineering Finance and Economics",
+        "prereq": "Prerequisite: ESC103H1 , ESC194H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE391H1",
+        "name": "Organic Chemistry and Biochemistry",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE399H1",
+        "name": "Professional Engineering Consultancy",
+        "prereq": "Prerequisite: CHE299H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE403H1",
+        "name": "Professional Practice",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE412H1",
+        "name": "Advanced Reactor Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE416H1",
+        "name": "Chemical Engineering in Human Health",
+        "prereq": "Prerequisite: CHE353H1 , CHE354H1 / MIE331H1 ; BME205H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE430Y1",
+        "name": "Chemical Plant Design",
+        "prereq": "Prerequisite: CHE249H1 , CHE334H1 and two of CHE311H1 , CHE322H1 , CHE333H1 (or equivalent)",
+        "exclusion": "Exclusion: APS490Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE441H1",
+        "name": "Engineering Materials",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE450H1",
+        "name": "Bioprocess Technology and Design",
+        "prereq": "Prerequisite: CHE353H1 and CHE354H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE451H1",
+        "name": "Petroleum Processing",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE452H1",
+        "name": "Membrane Science and Technology",
+        "prereq": "Prerequisite: CHE210H1 / CHE260H1 / MIE313H1 / MSE332H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE460H1",
+        "name": "Environmental Pathways and Impact Assessment",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE462H1",
+        "name": "Food Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE467H1",
+        "name": "Environmental Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE469H1",
+        "name": "Fuel Cells and Electrochemical Conversion Devices",
+        "prereq": null,
+        "exclusion": "Exclusion: MIE517H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "CHE471H1",
+        "name": "Modelling in Biological and Chemical Systems",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE475H1",
+        "name": "Biocomposites: Mechanics and Bioinspiration",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE488H1",
+        "name": "Entrepreneurship and Business for Engineers",
+        "prereq": "Prerequisite: CHE249H1 / CHE374H1 / CME368H1 / ECE472H1 / MIE358H1",
+        "exclusion": "Exclusion: TEP234H1 , TEP432H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE499Y1",
+        "name": "Thesis",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE504H1",
+        "name": "Chemical Engineering and Applied Chemistry – Laboratory V",
+        "prereq": "Prerequisite: If an Undergraduate Student of Chemical Engineering and Applied Chemistry: CHE204, CHE205, CHE304, CHE305 If a Graduate Student of Chemical Engineering and Applied Chemistry: no prerequisite",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE507H1",
+        "name": "Data-based Modelling for Prediction and Control",
+        "prereq": "Prerequisite: CHE322H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE561H1",
+        "name": "Risk Based Safety Management",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE562H1",
+        "name": "Applied Chemistry IV - Applied Polymer Chemistry, Science and Engineering",
+        "prereq": null,
+        "exclusion": "Exclusion: CHM426H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE564H1",
+        "name": "Pulp and Paper Processes",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE565H1",
+        "name": "Aqueous Process Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE566H1",
+        "name": "Elements of Nuclear Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CHE568H1",
+        "name": "Nuclear Engineering",
+        "prereq": null,
+        "exclusion": "Exclusion: MIE414H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV100H1",
+        "name": "Mechanics",
+        "prereq": null,
+        "exclusion": "Exclusion: APS160H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV102H1",
+        "name": "Structures and Materials - An Introduction to Engineering Design",
+        "prereq": null,
+        "exclusion": "Exclusion: CIV100H1",
+        "corequisite": "Corequisite: PHY180H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV185H1",
+        "name": "Earth Systems Science",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV191H1",
+        "name": "Introduction to Civil Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV201H1",
+        "name": "Introduction to Civil Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV209H1",
+        "name": "Civil Engineering Materials",
+        "prereq": "Prerequisite: APS104H1 or MSE101H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV214H1",
+        "name": "Structural Analysis I",
+        "prereq": "Prerequisite: MAT188H1 , CME210H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV220H1",
+        "name": "Urban Engineering Ecology",
+        "prereq": "Prerequisite: CHE112H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: Civil Engineering students must also be enrolled in CIV282H1 .",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV235H1",
+        "name": "Civil Engineering Graphics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV250H1",
+        "name": "Hydraulics and Hydrology",
+        "prereq": "Prerequisite: CME270H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV280H1",
+        "name": "Management of Construction",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV282H1",
+        "name": "Engineering Communications I",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": "Corequisite: CIV220H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV300H1",
+        "name": "Terrestrial Energy Systems",
+        "prereq": null,
+        "exclusion": "Exclusion: ENV346H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV301H1",
+        "name": "Design of Hydro and Wind Electric Plants",
+        "prereq": null,
+        "exclusion": "Exclusion: EDV301H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV312H1",
+        "name": "Steel and Timber Design",
+        "prereq": "Prerequisite: CIV214H1 , CIV235H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV313H1",
+        "name": "Reinforced Concrete I",
+        "prereq": "Prerequisite: CIV312H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV324H1",
+        "name": "Geotechnical Engineering II",
+        "prereq": "Prerequisite: CME321H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV331H1",
+        "name": "Transport I - Introduction to Urban Transportation Systems",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=4"
+    },
+    {
+        "code": "CIV332H1",
+        "name": "Transport II - Performance",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV333H1",
+        "name": "Simulation Modelling: Principles and Applications",
+        "prereq": "Prerequisite: MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV334H1",
+        "name": "Transportation Data Analytics: Advanced Statistics and Machine Learning",
+        "prereq": "Prerequisite: MAT185H1 , MAT292H1 , MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV335H1",
+        "name": "Transportation Safety Analytics and Design",
+        "prereq": "Prerequisite: ESC101H1 , ESC102H1 , ESC204H1 , MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV336H1",
+        "name": "Fundamentals of Intelligent Transportation Systems and Traffic Management",
+        "prereq": "Prerequisite: ESC190H1 , MAT292H1 , MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV340H1",
+        "name": "Municipal Engineering",
+        "prereq": "Prerequisite: CIV250H1 and CME270H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV342H1",
+        "name": "Water and Wastewater Treatment Processes",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV370H1",
+        "name": "Collaborative Design Project I",
+        "prereq": "Prerequisite: ESC204H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV375H1",
+        "name": "Building Science",
+        "prereq": null,
+        "exclusion": "Exclusion: CIV575H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV380H1",
+        "name": "Sustainable Energy Systems",
+        "prereq": "Prerequisite: CIV375H1 , CIV220H1 , CME368H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV382Y1",
+        "name": "Civil Engineering Communication Portfolio",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV401H1",
+        "name": "Design and Optimization of Hydro and Wind Electric Plants",
+        "prereq": null,
+        "exclusion": "Exclusion: EDV301H1 , CIV301H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV406H1",
+        "name": "Advanced Mobility and Logistical Systems",
+        "prereq": "Prerequisite: CIV454H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV416H1",
+        "name": "Reinforced Concrete II",
+        "prereq": "Prerequisite: CIV313H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV420H1",
+        "name": "Construction Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV440H1",
+        "name": "Environmental Impact and Risk Assessment",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV454H1",
+        "name": "Urban Operations Research",
+        "prereq": "Prerequisite: MAT185H1 , MAT292H1 , MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV460H1",
+        "name": "Engineering Project Finance and Management",
+        "prereq": "Prerequisite: CHE374H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV470H1",
+        "name": "Collaborative Design Project II",
+        "prereq": "Prerequisite: CIV370H1 , ESC204H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV477H1",
+        "name": "Special Studies in Civil Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV488H1",
+        "name": "Entrepreneurship and Business for Engineers",
+        "prereq": null,
+        "exclusion": "Exclusion: TEP234H1 , TEP432H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV498H1",
+        "name": "Group Design Project",
+        "prereq": null,
+        "exclusion": "Exclusion: APS490Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV499H1",
+        "name": "Individual Project",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV501H1",
+        "name": "Building Energy Performance Simulation",
+        "prereq": "Prerequisite: CIV375H1 / CIV575H1 ; Note: Students may take CIV575H1 alongside this course to fulfill the pre-requisite.",
+        "exclusion": "Exclusion: n/a",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV510H1",
+        "name": "Solid Mechanics II",
+        "prereq": "Prerequisite: CME210H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV513H1",
+        "name": "Collaborative Engineering and Architectural Design Studio",
+        "prereq": "Prerequisite: CIV313H1 / CIV352H1 , CIV357H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV514H1",
+        "name": "Concrete Technology",
+        "prereq": "Prerequisite: CIV209H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV515H1",
+        "name": "Introduction to Structural Dynamics",
+        "prereq": "Prerequisite: CIV312H1 and CIV313H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV516H1",
+        "name": "Public Transit Operations and Planning",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV517H1",
+        "name": "Prestressed Concrete",
+        "prereq": "Prerequisite: CIV313H1 / CIV357H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=5"
+    },
+    {
+        "code": "CIV518H1",
+        "name": "Behaviour and Design of Steel Structures",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV519H1",
+        "name": "Structural Analysis II",
+        "prereq": "Prerequisite: CIV214H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV521H1",
+        "name": "Rock Mechanics",
+        "prereq": "Prerequisite: CME210H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV523H1",
+        "name": "Geotechnical Design",
+        "prereq": "Prerequisite: CME321H1 ; equivalent or permission of instructor",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV531H1",
+        "name": "Transport Planning",
+        "prereq": "Prerequisite: CME368H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV536H1",
+        "name": "Urban Activity, Air Pollution, and Health",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV541H1",
+        "name": "Environmental Biotechnology",
+        "prereq": "Prerequisite: CIV342H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV544H1",
+        "name": "Design of Timber Structures",
+        "prereq": "Prerequisite: Pre-requisites: CIV312 or equivalent, CIV313 or equivalent, and CIV214 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV550H1",
+        "name": "Water Resources Engineering",
+        "prereq": "Prerequisite: CIV250H1 , CIV340H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV575H1",
+        "name": "Studies in Building Science",
+        "prereq": null,
+        "exclusion": "Exclusion: CIV375H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV576H1",
+        "name": "Sustainable Buildings",
+        "prereq": "Prerequisite: CIV375H1 / CIV575H1 ; Note: Students may take CIV575H1 alongside this course to fulfill the pre-requisite.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV577H1",
+        "name": "Infrastructure for Sustainable Cities",
+        "prereq": "Prerequisite: CIV340H1 , [ CIV375H1 / CIV575H1 ]",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV578H1",
+        "name": "Design of Building Enclosures",
+        "prereq": "Prerequisite: CIV375H1 / CIV575H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CIV580H1",
+        "name": "Engineering and Management of Large Projects",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME210H1",
+        "name": "Solid Mechanics I",
+        "prereq": "Prerequisite: CIV100H1 , MAT186H1 , MAT187H1",
+        "exclusion": "Exclusion: CIV210H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME259H1",
+        "name": "Technology in Society and the Biosphere I",
+        "prereq": null,
+        "exclusion": "Exclusion: ESC203H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME261H1",
+        "name": "Engineering Mathematics I",
+        "prereq": "Prerequisite: MAT188H1 , MAT187H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME262H1",
+        "name": "Engineering Mathematics II",
+        "prereq": "Prerequisite: CME261H1",
+        "exclusion": "Exclusion: CME362H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME263H1",
+        "name": "Probability Theory for Civil and Mineral Engineers",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME270H1",
+        "name": "Fluid Mechanics I",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME321H1",
+        "name": "Geotechnical Engineering I",
+        "prereq": "Prerequisite: CME270H1 , CME210H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME358H1",
+        "name": "Survey CAMP (Civil and Mineral Practicals)",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME368H1",
+        "name": "Engineering Economics and Decision Making",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME499H1",
+        "name": "Individual Project",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME499Y1",
+        "name": "Individual Project",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME500H1",
+        "name": "Fundamentals of Acid Rock Drainage",
+        "prereq": "Prerequisite: APS110H1 / CHE112H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME525H1",
+        "name": "Tunneling and Urban Excavation",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME538H1",
+        "name": "Introduction to Data Science for Civil and Mineral Engineers ",
+        "prereq": "Prerequisite: MAT186H1 , MAT187H1 , MAT188H1 , APS106H1 , CME261H1 , CME263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CME549H1",
+        "name": "Groundwater Flow and Contamination",
+        "prereq": "Prerequisite: CME270H1 , CIV250H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CSC180H1",
+        "name": "Introduction to Computer Programming",
+        "prereq": null,
+        "exclusion": "Exclusion: APS105H1 , APS106H1 or CSC192H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=6"
+    },
+    {
+        "code": "CSC326H1",
+        "name": "Programming Languages",
+        "prereq": null,
+        "exclusion": "Exclusion: CSC324H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "CSC343H1",
+        "name": "Introduction to Databases",
+        "prereq": "Prerequisite: CSC111H1 / CSC165H1 / MAT102H5 / CSCA67H3 / MATA67H3 / CSC240H1 / ( MAT130H1 / MAT135H1 , MAT136H1 )/ ( MAT148H1 / MAT158H1 , MAT149H1 / MAT159H1 )/ MAT137Y1 / MAT157Y1 ; CSC207H1 / CSC207H5 / CSCB07H3 Prerequisite for Faculty of Applied Science and Engineering students: ( ESC194H1 , ESC195H1 )/ ( MAT186H1 , MAT187H1 )/ ( MAT194H1 , MAT195H1 ); ECE345H1 / ESC190H1",
+        "exclusion": "Exclusion: CSC343H5 , CSCC43H3 , MIE253H1 , MIE353H1 . NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "CSC384H1",
+        "name": "Introduction to Artificial Intelligence",
+        "prereq": "Prerequisite: CSC263H1 / CSC265H1 / CSC263H5 / CSCB63H3 , STA237H1 / STA247H1 / STA255H1 / STA257H1 / STAB57H3 / STAB52H3 . Notes: students enrolled in ASMAJ1446A who have completed at least 9.0 credits may substitute CSC111H1 / ( CSC148H1 , CSC165H1 / ( MAT148H1 , MAT149H1 )/ MAT137Y1 ) for CSC263H1 and STA220H1 / PSY201H1 for STA237H1 . Prerequisite for Applied Science and Engineering students: ECE345H1 / ECE358H1 / MIE245H1 ; ECE302H1 / STA286H1 / CHE223H1 / CME263H1 / MIE231H1 / MIE236H1 / MSE238H1 / ECE286H1",
+        "exclusion": "Exclusion: CSC384H5 , CSCD84H3 , MIE369H1 . NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "CSC467H1",
+        "name": "Compilers and Interpreters",
+        "prereq": "Prerequisite: ECE243H1 or ECE352H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE110H1",
+        "name": "Electrical Fundamentals",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE159H1",
+        "name": "Fundamentals of Electric Circuits",
+        "prereq": null,
+        "exclusion": "Exclusion: ECE110H1 or ECE212H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE191H1",
+        "name": "Introduction to Electrical and Computer Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE201H1",
+        "name": "Electrical and Computer Engineering Seminar",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE212H1",
+        "name": "Circuit Analysis",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE216H1",
+        "name": "Signals and Systems",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE221H1",
+        "name": "Electric and Magnetic Fields",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE231H1",
+        "name": "Introductory Electronics",
+        "prereq": "Prerequisite: ECE110H1 / ECE159H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE241H1",
+        "name": "Digital Systems",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE243H1",
+        "name": "Computer Organization",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE244H1",
+        "name": "Programming Fundamentals",
+        "prereq": "Prerequisite: APS105H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE253H1",
+        "name": "Digital and Computer Systems",
+        "prereq": null,
+        "exclusion": "Exclusion: ECE241H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE259H1",
+        "name": "Electromagnetism",
+        "prereq": "Prerequisite: ECE159H1 , AER210H1",
+        "exclusion": "Exclusion: MAT291H1 / ECE221H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE295H1",
+        "name": "Hardware Design and Communication",
+        "prereq": "Prerequisite: ECE231H1 , ECE241H1 , APS105H1",
+        "exclusion": "Exclusion: ECE297H1",
+        "corequisite": "Corequisite: ECE212H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE297H1",
+        "name": "Software Design and Communication",
+        "prereq": "Prerequisite: APS105H1 , ECE244H1",
+        "exclusion": "Exclusion: ECE295H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE302H1",
+        "name": "Probability and Applications",
+        "prereq": "Prerequisite: MAT290H1 and MAT291H1 and ECE216H1",
+        "exclusion": "Exclusion: ECE286H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE311H1",
+        "name": "Introduction to Control Systems",
+        "prereq": "Prerequisite: MAT290H1 , MAT291H1 , ECE216H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE313H1",
+        "name": "Energy Systems and Distributed Generation",
+        "prereq": null,
+        "exclusion": "Exclusion: ECE413H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE314H1",
+        "name": "Fundamentals of Electrical Energy Systems",
+        "prereq": "Prerequisite: ECE212H1 and ECE221H1 and ECE231H1",
+        "exclusion": "Exclusion: ECE349H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE316H1",
+        "name": "Communication Systems",
+        "prereq": "Prerequisite: ( MAT290H1 , ECE216H1 ) /( MAT389H1 , ECE355H1 )",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE318H1",
+        "name": "Fundamentals of Optics",
+        "prereq": "Prerequisite: ECE221H1 or ECE259H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE320H1",
+        "name": "Fields and Waves",
+        "prereq": "Prerequisite: ECE221H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE324H1",
+        "name": "Machine Intelligence, Software and Neural Networks",
+        "prereq": "Prerequisite: ESC190H1 , ECE421H1 , MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE326H1",
+        "name": "Programming Languages",
+        "prereq": null,
+        "exclusion": "Exclusion: CSC324H1 , CSC326H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE330H1",
+        "name": "Quantum and Semiconductor Physics",
+        "prereq": "Prerequisite: ECE221H1 / ECE231H1",
+        "exclusion": "Exclusion: MSE235H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE331H1",
+        "name": "Analog Electronics",
+        "prereq": "Prerequisite: ECE212H1 and ECE231H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=7"
+    },
+    {
+        "code": "ECE334H1",
+        "name": "Digital Electronics",
+        "prereq": "Prerequisite: ECE241H1 and ECE231H1 or ECE253H1 and ECE360H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE335H1",
+        "name": "Introduction to Electronic Devices",
+        "prereq": "Prerequisite: MAT291H1 and ECE221H1 and ECE231H1",
+        "exclusion": "Exclusion: MSE335H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE342H1",
+        "name": "Computer Hardware",
+        "prereq": "Prerequisite: ECE241H1 , ECE243H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE344H1",
+        "name": "Operating Systems",
+        "prereq": "Prerequisite: ECE244H1 and ECE243H1",
+        "exclusion": "Exclusion: ECE353H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE345H1",
+        "name": "Algorithms and Data Structures",
+        "prereq": "Prerequisite: ECE244H1 or equivalent with the permission of the Chair of the AI certificate/minor.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE349H1",
+        "name": "Introduction to Energy Systems",
+        "prereq": "Prerequisite: ECE259H1",
+        "exclusion": "Exclusion: ECE314H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE350H1",
+        "name": "Semiconductor Electronic Devices",
+        "prereq": "Prerequisite: PHY294H1",
+        "exclusion": "Exclusion: ECE335H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE352H1",
+        "name": "Computer Organization",
+        "prereq": "Prerequisite: ECE253H1",
+        "exclusion": "Exclusion: ECE342H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE353H1",
+        "name": "Systems Software",
+        "prereq": "Prerequisite: ESC190H1",
+        "exclusion": "Exclusion: ECE344H1 , CSC369H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE354H1",
+        "name": "Electronic Circuits",
+        "prereq": "Prerequisite: ECE360H1",
+        "exclusion": "Exclusion: ECE331H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE355H1",
+        "name": "Signal Analysis and Communication",
+        "prereq": "Prerequisite: MIE286H1",
+        "exclusion": "Exclusion: ECE216H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE356H1",
+        "name": "Introduction to Control Theory",
+        "prereq": "Prerequisite: MAT292H1",
+        "exclusion": "Exclusion: AER372H1 , BME344H1 , ECE311H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE357H1",
+        "name": "Electromagnetic Fields",
+        "prereq": "Prerequisite: ECE259H1",
+        "exclusion": "Exclusion: ECE320H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE358H1",
+        "name": "Foundations of Computing",
+        "prereq": "Prerequisite: ESC190H1",
+        "exclusion": "Exclusion: ECE345H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE360H1",
+        "name": "Electronics",
+        "prereq": "Prerequisite: ECE159H1",
+        "exclusion": "Exclusion: ECE231H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE361H1",
+        "name": "Computer Networks I",
+        "prereq": "Prerequisite: ECE302H1 / MIE286H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: ECE302H1 . (Students must take the co-requisite, ECE302H1 in the same term as ECE361H, OR in a term before taking ECE361H1 .)",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE363H1",
+        "name": "Communication Systems",
+        "prereq": "Prerequisite: MAT389H1 , ECE355H1",
+        "exclusion": "Exclusion: ECE316H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE367H1",
+        "name": "Matrix Algebra and Optimization",
+        "prereq": "Prerequisite: AER210H1 / MAT290H1 , MAT185H1 / MAT188H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE368H1",
+        "name": "Probabilistic Reasoning",
+        "prereq": "Prerequisite: ECE302H1 / MIE286H1",
+        "exclusion": "Exclusion: CSC412H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE381H1",
+        "name": "Foundations and Frontiers in Cybersecurity ",
+        "prereq": "Prerequisite: CHE223H1 / ECE302H1 / MIE231H1 / MIE236H1 / MIE286H1 / MSE238H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: ECE302H1 ; Note: Students may also take it ECE302H1 with ECE381H1 to fulfill the prerequisite.",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE390H1",
+        "name": "Embedded Systems and Applications",
+        "prereq": "Prerequisite: ECE241H1 , ECE243H1",
+        "exclusion": "Exclusion: MIE438H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE410H1",
+        "name": "Linear Control Systems",
+        "prereq": "Prerequisite: ECE311H1",
+        "exclusion": "Exclusion: ECE557H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE411H1",
+        "name": "Adaptive Control and Reinforcement Learning",
+        "prereq": "Prerequisite: ECE311H1 or ECE356H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE412H1",
+        "name": "Analog Signal Processing Circuits",
+        "prereq": "Prerequisite: ECE331H1 or ECE354H1",
+        "exclusion": "Exclusion: ECE512H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE417H1",
+        "name": "Digital Communication",
+        "prereq": "Prerequisite: ( ECE302H1 and ECE316H1 ) / MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE419H1",
+        "name": "Distributed Systems",
+        "prereq": "Prerequisite: ECE344H1 or ECE353H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE421H1",
+        "name": "Introduction to Machine Learning",
+        "prereq": "Prerequisite: CHE223H1 / ECE302H1 / MIE231H1 / MIE236H1 / MIE286H1 / MSE238H1",
+        "exclusion": "Exclusion: CSC411H1 , ECE521H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE422H1",
+        "name": "Radio and Microwave Wireless Systems",
+        "prereq": "Prerequisite: ECE320H1 or ECE357H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE424H1",
+        "name": "Microwave Circuits",
+        "prereq": null,
+        "exclusion": "Exclusion: ECE524H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE427H1",
+        "name": "Photonic Devices",
+        "prereq": "Prerequisite: ECE318H1 / ECE320H1 / ECE357H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=8"
+    },
+    {
+        "code": "ECE430H1",
+        "name": "Analog Integrated Circuits",
+        "prereq": "Prerequisite: ECE331H1 or ECE354H1",
+        "exclusion": "Exclusion: ECE530H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE431H1",
+        "name": "Digital Signal Processing",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE435H1",
+        "name": "Quantum Computing Hardware",
+        "prereq": "Prerequisite: ( ECE216H1 or ECE355H1 ) and ( ECE302H1 or MIE286H1 ) and ( ECE335H1 or ECE350H1 ) and ( ECE231H1 or ECE360H1 ) and ( ECE320H1 or ECE357H1 )",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE437H1",
+        "name": "VLSI Technology",
+        "prereq": "Prerequisite: ( ECE331H1 or ECE334H1 or ECE354H1 ) and ( ECE335H1 or ECE350H1 )",
+        "exclusion": "Exclusion: ECE535H1 and ECE534H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE441H1",
+        "name": "Interfacing & Modulating the Nervous System",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE442H1",
+        "name": "Introduction to Micro- and Nano-Fabrication Technologies",
+        "prereq": "Prerequisite: ECE335H1 or ECE350H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE444H1",
+        "name": "Software Engineering",
+        "prereq": "Prerequisite: ECE344H1 / ECE353H1 / ECE297H1",
+        "exclusion": "Exclusion: CSC444H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE445H1",
+        "name": "Neural Bioelectricity",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE446H1",
+        "name": "Audio, Acoustics and Sensing",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE448H1",
+        "name": "Biocomputation",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE454H1",
+        "name": "Computer Systems Programming",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE455H1",
+        "name": "Digital Signal Processing",
+        "prereq": "Prerequisite: ECE355H1",
+        "exclusion": "Exclusion: ECE362H1 , ECE431H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE461H1",
+        "name": "Internetworking",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE462H1",
+        "name": "Multimedia Systems",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE463H1",
+        "name": "Electric Drives",
+        "prereq": "Prerequisite: ECE314H1 / ECE315H1 / ECE349H1 / ECE359H1 , ECE311H1 / ECE356H1 / AER372H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: ECE311H1 / ECE356H1 / AER372H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE464H1",
+        "name": "Wireless Communication",
+        "prereq": "Prerequisite: ( ECE302H1 , ECE316H1 , ECE417H1 ) or ( ECE417H1 and MIE286H1 )",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE466H1",
+        "name": "Computer Networks II",
+        "prereq": "Prerequisite: ECE361H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE467H1",
+        "name": "Compilers & Interpreters",
+        "prereq": "Prerequisite: ECE243H1 / ECE352H1",
+        "exclusion": "Exclusion: CSC467H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE469H1",
+        "name": "Optical Communications and Networks",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE470H1",
+        "name": "Robot Modeling and Control",
+        "prereq": "Prerequisite: ECE311H1 or ECE356H1",
+        "exclusion": "Exclusion: AER525H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE472H1",
+        "name": "Engineering Economic Analysis & Entrepreneurship",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE484H1",
+        "name": "Quantum Information Processing: Algorithms & Software",
+        "prereq": "Prerequisite: MIE286H1 or ECE302H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE496Y1",
+        "name": "Design Project",
+        "prereq": "Prerequisite: Students taking capstone must have successfully completed 7 technical elective courses, or 6 technical elective courses plus ECE472H1 .",
+        "exclusion": "Exclusion: APS490Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE499H1",
+        "name": "Research Thesis",
+        "prereq": "Prerequisite: Approval of Associate Chair, Undergraduate",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE499Y1",
+        "name": "Research Thesis",
+        "prereq": "Prerequisite: Approval of Associate Chair, Undergraduate",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE516H1",
+        "name": "Intelligent Image Processing",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE520H1",
+        "name": "Power Electronics",
+        "prereq": "Prerequisite: ECE314H1 / ECE349H1 / ECE359H1",
+        "exclusion": "Exclusion: ECE514H1 , ECE533H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE526H1",
+        "name": "Power System Protection and Automation",
+        "prereq": "Prerequisite: ECE313H1 / ECE314H1 / ECE349H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE532H1",
+        "name": "Digital Systems Design",
+        "prereq": "Prerequisite: ECE342H1 or ECE352H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE537H1",
+        "name": "Random Processes",
+        "prereq": "Prerequisite: ( ECE355H1 and MIE286H1 ) or ECE302H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: ECE355H1 (can be taken at the same time as ECE537H1 )",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=9"
+    },
+    {
+        "code": "ECE552H1",
+        "name": "Computer Architecture",
+        "prereq": "Prerequisite: ECE243H1 or ECE352H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ECE557H1",
+        "name": "Linear Control Theory",
+        "prereq": "Prerequisite: ECE356H1 / AER372H1",
+        "exclusion": "Exclusion: ECE410H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ECE568H1",
+        "name": "Computer Security",
+        "prereq": "Prerequisite: ECE344H1 or ECE353H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ENV346H1",
+        "name": "Terrestrial Energy Systems",
+        "prereq": "Prerequisite: ( MAT130H1 / MAT135H1 , MAT136H1 )/ ( MAT148H1 , MAT149H1 / MAT137Y1 ) ; BIO120H1 / CHM136H1 / CHM138H1 / CHM135H1 / CHM139H1 / CHM151Y1 / PHY131H1 / PHY132H1 / PHY151H1 / PHY152H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC101H1",
+        "name": "Praxis I",
+        "prereq": null,
+        "exclusion": "Exclusion: APS111H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC102H1",
+        "name": "Praxis II",
+        "prereq": "Prerequisite: ESC101H1",
+        "exclusion": "Exclusion: APS112H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC103H1",
+        "name": "Engineering Mathematics and Computation",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC180H1",
+        "name": "Introduction to Computer Programming",
+        "prereq": null,
+        "exclusion": "Exclusion: APS105H1 , APS106H1 or CSC192H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC190H1",
+        "name": "Computer Algorithms and Data Structures",
+        "prereq": "Prerequisite: ESC180H1",
+        "exclusion": "Exclusion: APS106H1 , CSC192H1 , ECE244H1 or MIE250H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC194H1",
+        "name": "Calculus I",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC195H1",
+        "name": "Calculus II",
+        "prereq": "Prerequisite: ESC194H1",
+        "exclusion": "Exclusion: MAT187H1 / APS163H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC203H1",
+        "name": "Engineering and Society",
+        "prereq": null,
+        "exclusion": "Exclusion: CME259H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC204H1",
+        "name": "Praxis III",
+        "prereq": "Prerequisite: ESC102H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC301H1",
+        "name": "Engineering Science Option Seminar",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC384H1",
+        "name": "Partial Differential Equations",
+        "prereq": "Prerequisite: MAT290H1 / MAT292H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC401H1",
+        "name": "Technology & Society Student Directed Seminar",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC470H1",
+        "name": "Energy Systems Capstone Design",
+        "prereq": null,
+        "exclusion": "Exclusion: APS490Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC471H1",
+        "name": "Engineering Science Capstone Design",
+        "prereq": null,
+        "exclusion": "Exclusion: APS490Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC472H1",
+        "name": "Electrical and Computer Capstone Design",
+        "prereq": null,
+        "exclusion": "Exclusion: APS490Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC490H1",
+        "name": "Engineering Science Independent Study",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC499H1",
+        "name": "Thesis",
+        "prereq": null,
+        "exclusion": "Exclusion: CHE499Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "ESC499Y1",
+        "name": "Thesis",
+        "prereq": null,
+        "exclusion": "Exclusion: CHE499Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "FOR308H1",
+        "name": "Discovering Wood and its Role in Societal Development",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "FOR421H1",
+        "name": "Green Urban Infrastructure: Sustainable City Forests",
+        "prereq": null,
+        "exclusion": "Exclusion: FOR416H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "FOR424H1",
+        "name": "Innovation and Manufacturing of Sustainable Materials",
+        "prereq": null,
+        "exclusion": "Exclusion: FOR423H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "FOR425H1",
+        "name": "Bioenergy and Biorefinery Technology",
+        "prereq": null,
+        "exclusion": "Exclusion: FOR410H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "GGR252H1",
+        "name": "Marketing Geography",
+        "prereq": null,
+        "exclusion": "Exclusion: GGR252H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "GLB401Y1",
+        "name": "Global Leadership: Capstone Project",
+        "prereq": "Prerequisite: GLBC01H3",
+        "exclusion": null,
+        "corequisite": "Corequisite: None",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "HPS283H1",
+        "name": "The Engineer in History",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "JRE300H1",
+        "name": "Fundamentals of Accounting and Finance",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=10"
+    },
+    {
+        "code": "JRE410H1",
+        "name": "Markets and Competitive Strategy",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "JRE420H1",
+        "name": "People Management and Organizational Behaviour",
+        "prereq": null,
+        "exclusion": "Exclusion: IRE260H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT185H1",
+        "name": "Linear Algebra",
+        "prereq": "Prerequisite: ESC103H1",
+        "exclusion": "Exclusion: MAT188H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT186H1",
+        "name": "Calculus I",
+        "prereq": null,
+        "exclusion": "Exclusion: APS162H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT187H1",
+        "name": "Calculus II",
+        "prereq": "Prerequisite: APS162H1 / MAT186H1",
+        "exclusion": "Exclusion: APS163H1 / MAT197H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT188H1",
+        "name": "Linear Algebra",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT196H1",
+        "name": "Calculus A",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT234H1",
+        "name": "Differential Equations",
+        "prereq": "Prerequisite: APS163H1 / ESC195H1 / MAT187H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT238H1",
+        "name": "Differential Equations and Discrete Math",
+        "prereq": "Prerequisite: ESC194H1 / MAT186H1 , ESC195H1 / MAT187H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT290H1",
+        "name": "Advanced Engineering Mathematics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT291H1",
+        "name": "Introduction to Mathematical Physics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT292H1",
+        "name": "Ordinary Differential Equations",
+        "prereq": "Prerequisite: ESC195H1",
+        "exclusion": "Exclusion: CHE222H1 , CME261H1 , CME362H1 , MAT290H1 , MAT291H1 , MAT294H1 or MAT234H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT294H1",
+        "name": "Calculus and Differential Equations",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT336H1",
+        "name": "Elements of Analysis",
+        "prereq": "Prerequisite: MAT223H1 / MATA23H3 / MAT223H5 / MAT240H1 / MAT240H5 , ( MAT235H1 , MAT236H1 )/ MAT235Y1 / MAT235Y5 / ( MAT232H5 , MAT236H5 )/ ( MATB41H3 , MATB42H3 )/ MAT237Y1 / ( MATB41H3 , MATB42H3 , MATB43H3 )/ MAT237Y5 / ( MAT185H1 , MAT195H1 / ESC195H1 )",
+        "exclusion": "Exclusion: MAT257Y1 / MAT337H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT337H1",
+        "name": "Introduction to Real Analysis",
+        "prereq": "Prerequisite: MAT257Y1 / [ MAT224H1 / MATA24H3 / MAT224H5 / MAT247H1 / MAT247H5 , ( MAT235H1 , MAT236H1 )/ MAT235Y1 / MAT235Y5 / ( MAT232H5 , MAT236H5 )/ ( MATB41H3 , MATB42H3 / MATB43H3 )/ MAT237Y1 / MAT237Y5 , MAT246H1 / ( MAT158H1 , MAT159H1 )/ MAT157Y1 ]",
+        "exclusion": "Exclusion: MAT357H1 / MAT378H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT357H1",
+        "name": "Foundations of Real Analysis",
+        "prereq": "Prerequisite: MAT257Y1 / ( MAT237Y1 (85%), MAT327H1 )",
+        "exclusion": "Exclusion: MAT438H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MAT389H1",
+        "name": "Complex Analysis",
+        "prereq": "Prerequisite: ESC195H1 , MAT292H1",
+        "exclusion": "Exclusion: MAT290H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE100H1",
+        "name": "Dynamics",
+        "prereq": "Prerequisite: APS160H1 / CIV100H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE191H1",
+        "name": "Seminar Course: Introduction to Mechanical and Industrial Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE201H1",
+        "name": "Essays in Technology and Culture",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE210H1",
+        "name": "Thermodynamics",
+        "prereq": "Prerequisite: MAT186H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE221H1",
+        "name": "Manufacturing Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE222H1",
+        "name": "Mechanics of Solids I",
+        "prereq": "Prerequisite: CIV100H1 / CIV102H1 , MIE100H1 / PHY180H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE223H1",
+        "name": "Data Science",
+        "prereq": "Prerequisite: APS105H1 / APS106H1 or equivalent; MIE236H1 / MIE286H1 / ECE302H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE230H1",
+        "name": "Calculus III: Engineering Analysis",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE231H1",
+        "name": "Probability and Statistics with Engineering Applications",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE235H1",
+        "name": "Numerical Analysis and Computational Methods",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": "Corequisite: MAT234H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE236H1",
+        "name": "Probability",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE237H1",
+        "name": "Statistics",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE240H1",
+        "name": "Human Factors Engineering",
+        "prereq": "Prerequisite: MIE242H1 recommended",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=11"
+    },
+    {
+        "code": "MIE242H1",
+        "name": "Foundations of Cognitive Psychology",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE243H1",
+        "name": "Mechanical Engineering Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE245H1",
+        "name": "Data Structures and Algorithms ",
+        "prereq": "Prerequisite: MIE262H1",
+        "exclusion": "Exclusion: CSC263H1 , CSC373H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE250H1",
+        "name": "Fundamentals of Object Oriented Programming",
+        "prereq": "Prerequisite: APS105H1 / APS106H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE262H1",
+        "name": " Deterministic Operations Research",
+        "prereq": "Prerequisite: ESC194H1 / MAT186H1 , MAT185H1 / MAT188H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE263H1",
+        "name": "Stochastic Operations Research",
+        "prereq": "Prerequisite: ESC195H1 / MAT187H1 , MAT185H1 / MAT188H1 , MIE231H1 / MIE236H1 / MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE270H1",
+        "name": "Materials Science",
+        "prereq": "Prerequisite: APS110H1 / APS164H1 / MSE101H1 / MSE160H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE286H1",
+        "name": "Probability and Statistics",
+        "prereq": null,
+        "exclusion": "Exclusion: CHE223H1 , CME263H1 , ECE286H1 , MIE236H1 , MIE237H1 , MIE231H1 , MSE238H1 , STA286H1 or STA257H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE301H1",
+        "name": "Kinematics and Dynamics of Machines",
+        "prereq": "Prerequisite: MIE100H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE303H1",
+        "name": "Mechanical and Thermal Energy Conversion Processes",
+        "prereq": "Prerequisite: CHE260H1",
+        "exclusion": "Exclusion: MIE311H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE304H1",
+        "name": "Introduction to Quality Control",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 , MIE237H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE311H1",
+        "name": "Thermal Energy Conversion",
+        "prereq": "Prerequisite: MIE210H1",
+        "exclusion": "Exclusion: MIE303H1",
+        "corequisite": "Corequisite: MIE313H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE312H1",
+        "name": "Fluid Mechanics I",
+        "prereq": "Prerequisite: MIE100H1 , MAT234H1 , MIE210H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE313H1",
+        "name": "Heat and Mass Transfer",
+        "prereq": "Prerequisite: MAT234H1 , MIE210H1 , MIE230H1 , MIE312H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE315H1",
+        "name": "Sustainable Engineering Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE320H1",
+        "name": "Mechanics of Solids II",
+        "prereq": "Prerequisite: MIE222H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE342H1",
+        "name": "Circuits with Applications to Mechanical Engineering Systems",
+        "prereq": "Prerequisite: MAT186H1 / ESC194H1 , MAT187H1 / ESC195H1 , ECE110H1 / ECE159H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE344H1",
+        "name": "Ergonomic Design of Information Systems",
+        "prereq": "Prerequisite: MIE240H1 or permission of the instructor",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE345H1",
+        "name": "Case Studies in Human Factors and Ergonomics",
+        "prereq": "Prerequisite: MIE240H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE346H1",
+        "name": "Analog and Digital Electronics for Mechatronics",
+        "prereq": "Prerequisite: MIE230H1 , MAT234H1 , MIE342H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE350H1",
+        "name": "Design and Analysis of Information Systems",
+        "prereq": "Prerequisite: MIE353H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE353H1",
+        "name": "Data Modelling",
+        "prereq": "Prerequisite: MIE250H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE354H1",
+        "name": "Business Process Engineering",
+        "prereq": "Prerequisite: MIE245H1 , MIE250H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE358H1",
+        "name": "Engineering Economics",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 or equivalent",
+        "exclusion": "Exclusion: CHE249H1 , CHE374H1 , CME368H1 , ECE472H1 , MIE258H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE359H1",
+        "name": "Organization Design",
+        "prereq": "Prerequisite: APS111H1 / APS112H1 / ESC102H1 , MIE358H1 or an equivalent engineering economics course",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE360H1",
+        "name": "Systems Modelling and Simulation",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE363H1",
+        "name": "Operations and Supply Chain Management",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 , MIE262H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE365H1",
+        "name": "Advanced Operations Research",
+        "prereq": "Prerequisite: MIE262H1 , MIE263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE366H1",
+        "name": "Electronics for Robotics",
+        "prereq": "Prerequisite: ECE259H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE367H1",
+        "name": "Cases in Operations Research",
+        "prereq": "Prerequisite: MIE263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=12"
+    },
+    {
+        "code": "MIE368H1",
+        "name": "Analytics in Action",
+        "prereq": "Prerequisite: MIE237H1 / MIE286H1 , MIE262H1 / MIE376H1 , MIE263H1 / STA347H1 , or permission of the instructor",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE369H1",
+        "name": "Introduction to Artificial Intelligence",
+        "prereq": "Prerequisite: CSC263H1 / CSC265H1 / ECE244H1 / ECE345H1 / ESC190H1 / MIE250H1 , MIE236H1 / ECE286H1 / ECE302H1 / MIE231H1",
+        "exclusion": "Exclusion: ROB311H1 , CSC384H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE370H1",
+        "name": "Introduction to Machine Learning",
+        "prereq": "Prerequisite: MIE286H1 , or ( MIE236H1 / ECE302H1 and MIE237H1 )",
+        "exclusion": "Exclusion: CSC311H1 , ECE421H1 , ECE521H1 , ROB313H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE375H1",
+        "name": "Financial Engineering",
+        "prereq": "Prerequisite: ESC195H1 , MAT185H1 , MIE286H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE376H1",
+        "name": "Mathematical Programming (Optimization)",
+        "prereq": "Prerequisite: MAT185H1 , MAT195H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE377H1",
+        "name": "Financial Optimization Models",
+        "prereq": "Prerequisite: MIE375H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: MIE376H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE402H1",
+        "name": "Vibrations",
+        "prereq": "Prerequisite: MAT186H1 , MAT187H1 , MAT188H1 , MIE100H1 , MIE222H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE404H1",
+        "name": "Control Systems I",
+        "prereq": "Prerequisite: MIE346H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE407H1",
+        "name": "Nuclear Reactor Theory and Design",
+        "prereq": "Prerequisite: MIE230H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE408H1",
+        "name": "* Thermal and Machine Design of Nuclear Power Reactors",
+        "prereq": "Prerequisite: MIE407H1 / MIE222H1 , MIE312H1 , MIE313H1 or equivalents",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE410H1",
+        "name": "*Finite Element Analysis in Engineering Design\t\t\t\t",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE414H1",
+        "name": "* Applied Fluid Mechanics",
+        "prereq": "Prerequisite: MIE312H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE422H1",
+        "name": "Automated Manufacturing",
+        "prereq": "Prerequisite: MIE221H1 or equivalent",
+        "exclusion": "Exclusion: ECE470H1 and AER525H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE424H1",
+        "name": "Optimization in Machine Learning",
+        "prereq": "Prerequisite: Fourth-year, Industrial Engineering standing or with instructor’s permission",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE429H1",
+        "name": "Machine Intelligence Capstone Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE434H1",
+        "name": "Industrial Ergonomics and the Workplace",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE435H1",
+        "name": "*Early-stage design methods",
+        "prereq": "Prerequisite: MIE221H1 or instructor permission",
+        "exclusion": "Exclusion: MIE440H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE437H1",
+        "name": "Fundamentals of Injury Biomechanics and Prevention",
+        "prereq": "Prerequisite: CIV100H1 , MIE100H1 , MIE270H1 , MIE222H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE438H1",
+        "name": "Embedded Systems",
+        "prereq": null,
+        "exclusion": "Exclusion: ECE243H1 , ECE352H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE439H1",
+        "name": "Cellular and Tissue Biomechanics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE440H1",
+        "name": "* Design of Effective Products",
+        "prereq": "Prerequisite: MIE221H1 or Instructor permission",
+        "exclusion": "Exclusion: MIE435H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE441H1",
+        "name": "* Design Optimization",
+        "prereq": "Prerequisite: MIE243H1 , MIE222H1 or equivalents",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE442H1",
+        "name": "Machine Design",
+        "prereq": "Prerequisite: MIE320H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE443H1",
+        "name": "* Mechatronics Systems:  Design and Integration",
+        "prereq": "Prerequisite: MIE346H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE444H1",
+        "name": "* Mechatronics Principles",
+        "prereq": "Prerequisite: MIE342H1 , MIE346H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE451H1",
+        "name": "Decision Support Systems",
+        "prereq": "Prerequisite: MIE350H1 , MIE353H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE457H1",
+        "name": "Knowledge Modelling and Management",
+        "prereq": "Prerequisite: MIE350H1 , MIE353H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE458H1",
+        "name": "Biofluid Mechanics",
+        "prereq": "Prerequisite: MIE312H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE463H1",
+        "name": "Integrated System Design",
+        "prereq": "Prerequisite: Fourth-year, Industrial Engineering standing",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE469H1",
+        "name": "Reliability and Maintainability Engineering",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 / MIE286H1 , MIE358H1 / CHE374H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=13"
+    },
+    {
+        "code": "MIE479H1",
+        "name": "Engineering Mathematics, Statistics and Finance Capstone Design",
+        "prereq": "Prerequisite: MIE377H1 , STA302H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE490Y1",
+        "name": "Capstone Design",
+        "prereq": null,
+        "exclusion": "Exclusion: APS490Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE491Y1",
+        "name": "Capstone Design",
+        "prereq": null,
+        "exclusion": "Exclusion: APS490Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE498H1",
+        "name": "Research Thesis",
+        "prereq": "Prerequisite: Approval to register for the fourth-year thesis course ( MIE498H1 or MIE498Y1 ) must be obtained from the Associate Chair - Undergraduate and is normally restricted to fourth year students with a cumulative grade point average of at least 2.7.",
+        "exclusion": "Exclusion: MIE498Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE498Y1",
+        "name": "Research Thesis",
+        "prereq": "Prerequisite: Approval to register for the fourth-year thesis course ( MIE498H1 or MIE498Y1 ) must be obtained from the Associate Chair - Undergraduate and is normally restricted to fourth year students with a cumulative grade point average of at least 2.7.",
+        "exclusion": "Exclusion: MIE498H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE504H1",
+        "name": "Applied Computational Fluid Dynamics",
+        "prereq": "Prerequisite: MAT234H1 , MIE230H1 , MIE235H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE505H1",
+        "name": "Micro/Nano Robotics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE506H1",
+        "name": "* MEMS Design and Microfabrication",
+        "prereq": "Prerequisite: MIE222H1 , MIE342H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE507H1",
+        "name": "Heating, Ventilating, and Air Conditioning (HVAC) Fundamentals",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE509H1",
+        "name": "AI for Social Good",
+        "prereq": "Prerequisite: MIE223, MIE237, or an Introductory Machine Learning, or equivalent",
+        "exclusion": "Exclusion: CSC300H1 (Computers and Society)",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE515H1",
+        "name": "Sustainable Energy Systems",
+        "prereq": "Prerequisite: MIE210H1 , MIE312H1 and MIE313H1 (or equivalent courses).",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE516H1",
+        "name": "Combustion and Fuels",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE517H1",
+        "name": "Fuel Cell Systems",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE519H1",
+        "name": "*  Advanced Manufacturing Technologies",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE520H1",
+        "name": "Biotransport Phenomena",
+        "prereq": "Prerequisite: MIE312H1 / AER210H1 /equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE523H1",
+        "name": "Engineering Psychology and Human Performance",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 / MIE286H1 or equivalent required; MIE237H1 or equivalent recommended",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE524H1",
+        "name": "Data Mining",
+        "prereq": "Prerequisite: MIE350H1 or equivalent; MIE236H1 / MIE286H1 / ECE302H1 or equivalent; MIE245H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE533H1",
+        "name": "Waves and Their Applications in Non-Destructive Testing and Imaging",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE535H1",
+        "name": "Electrification Via  Electricity Markets ",
+        "prereq": "Prerequisite: CHE249H1 or CME368H1 or ECE472H1 or CHE374H1 or MIE358H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE540H1",
+        "name": "* Product Design",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 , or",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE542H1",
+        "name": "Human Factors Integration",
+        "prereq": "Prerequisite: MIE240H1 / MIE1401H1 or permission from the instructor.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE550H1",
+        "name": "Advanced Momentum, Heat and Mass Transfer",
+        "prereq": "Prerequisite: MIE313H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE561H1",
+        "name": "Case Studies in Healthcare",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE562H1",
+        "name": "Scheduling",
+        "prereq": "Prerequisite: MIE262H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE563H1",
+        "name": "Analytic and Numerical Solution of Engineering PDEs",
+        "prereq": "Prerequisite: MAT234H1 , MIE230H1 , MIE235H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE564H1",
+        "name": "* Smart Materials and Manufacturing ",
+        "prereq": "Prerequisite: MIE222H1 , (or MSE120H1 and MSE222H1 ), and MIE270H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE566H1",
+        "name": "Decision Making Under Uncertainty",
+        "prereq": "Prerequisite: MIE231H1 / MIE236H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIE567H1",
+        "name": "Multi-agent Reinforcement Learning",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIN120H1",
+        "name": "Insight into Mineral Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIN191H1",
+        "name": "Introduction to Mineral Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=14"
+    },
+    {
+        "code": "MIN201H1",
+        "name": "Mineral Engineering Field Excursion",
+        "prereq": "Prerequisite: n/a",
+        "exclusion": "Exclusion: n/a",
+        "corequisite": "Corequisite: n/a",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN250H1",
+        "name": "Surface Mining",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN301H1",
+        "name": "Mineral Reserve and Mineral Resource Estimation",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN302H1",
+        "name": "Mineral Processing",
+        "prereq": "Prerequisite: MIN225H1 or MSE244H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN320H1",
+        "name": "Explosives and Fragmentation in Mining",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN329H1",
+        "name": "Engineering Rock Mechanics",
+        "prereq": null,
+        "exclusion": "Exclusion: CIV529H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN330H1",
+        "name": "Mining Environmental Management",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN350H1",
+        "name": "Mineral Economics",
+        "prereq": "Prerequisite: CIV368H1 / CME368H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN351H1",
+        "name": "Underground Mining",
+        "prereq": null,
+        "exclusion": "Exclusion: MIN350H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN400H1",
+        "name": "Geology Field Camp for Engineers",
+        "prereq": "Prerequisite: GLG207H1 , GLG345H1 , MIN429H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN401H1",
+        "name": "Mineral Reserve and Mineral Resource Estimation",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN430H1",
+        "name": "Mining Environmental Management",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN466H1",
+        "name": "Mineral Project Design I",
+        "prereq": "Prerequisite: MIN429H1 , MIN350H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN467H1",
+        "name": "Mineral Project Design II",
+        "prereq": "Prerequisite: MIN466H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN470H1",
+        "name": "Ventilation and Occupational Health",
+        "prereq": "Prerequisite: CIV270H1 / CME270H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN511H1",
+        "name": "Integrated Mine Waste Engineering",
+        "prereq": "Prerequisite: CME321H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN520H1",
+        "name": "Mine Optimization ",
+        "prereq": "Prerequisite: MIN250H1 , MIN351H1 , MIN466H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN540H1",
+        "name": "Borehole Geophysics for Engineers and Geoscientists",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MIN565H1",
+        "name": "Design and Support of Underground Mine Excavations",
+        "prereq": "Prerequisite: MIN429H1 / CIV529H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE120H1",
+        "name": "Materials Engineering, Processing and Application",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE160H1",
+        "name": "Molecules and Materials",
+        "prereq": null,
+        "exclusion": "Exclusion: MSE101H1 or APS104H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE191H1",
+        "name": "Introduction to Materials Science and Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE202H1",
+        "name": "Thermodynamics I",
+        "prereq": "Prerequisite: APS110H1 / MSE160H1 ; ESC195H1 / MAT187H1 ; or equivalent",
+        "exclusion": null,
+        "corequisite": "Corequisite: MAT294H1 or equivalent",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE217H1",
+        "name": "Diffusion and Kinetics",
+        "prereq": "Prerequisite: APS110H1 / MSE160H1 ; ESC195H1 / MAT187H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE219H1",
+        "name": "Structure and Characterization of Materials",
+        "prereq": "Prerequisite: APS110H1 / MSE120H1 / MSE160H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE222H1",
+        "name": "Mechanics of Solid Materials",
+        "prereq": "Prerequisite: APS110H1 / MSE160H1 ; CIV100H1 / CIV102H1 ; ESC195H1 / MAT187H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE238H1",
+        "name": "Engineering Statistics and Numerical Methods",
+        "prereq": "Prerequisite: APS106H1 / ESC180H1 ; MAT294H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE244H1",
+        "name": "Inorganic Materials Chemistry and Processing",
+        "prereq": "Prerequisite: APS110H1 / MSE160H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE245H1",
+        "name": "Organic Materials Chemistry and Properties",
+        "prereq": "Prerequisite: MSE244H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE294H1",
+        "name": "Design Tools and Technical Communication I",
+        "prereq": "Prerequisite: APS112H1 / ESC102H1",
+        "exclusion": "Exclusion: MSE298Y1 H",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=15"
+    },
+    {
+        "code": "MSE295H1",
+        "name": "Design Tools and Technical Communication II",
+        "prereq": "Prerequisite: MSE294H1",
+        "exclusion": "Exclusion: MSE298Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE302H1",
+        "name": "Thermodynamics II",
+        "prereq": "Prerequisite: MSE202H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE316H1",
+        "name": "Mechanical Behaviour of Materials",
+        "prereq": "Prerequisite: MSE219H1 , MSE222H1 , MSE318H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE318H1",
+        "name": "Phase Transformations",
+        "prereq": "Prerequisite: MSE202H1 , MSE217H1 , MSE219H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: MSE302H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE332H1",
+        "name": "Heat and Mass Transfer for Materials Processing",
+        "prereq": "Prerequisite: ESC195H1 / MAT187H1 , MSE202H1 ; MSE217H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE335H1",
+        "name": "Materials Physics",
+        "prereq": "Prerequisite: MAT294H1 , MSE219H1 ; or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE343H1",
+        "name": "Biomaterials",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE351H1",
+        "name": "Design and Sim of Materials Processes",
+        "prereq": "Prerequisite: MSE218H1 ; MSE222H1 ; MSE238H1 ; MSE332H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: MSE316H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE355H1",
+        "name": "Materials Production",
+        "prereq": "Prerequisite: MSE217H1 , MSE302H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE396H1",
+        "name": "Materials Manufacturing and Design I",
+        "prereq": "Prerequisite: MSE222H1 ; MSE295H1",
+        "exclusion": "Exclusion: MSE398Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE397H1",
+        "name": "Materials Manufacturing and Design II",
+        "prereq": "Prerequisite: MSE396H1",
+        "exclusion": "Exclusion: MSE398Y1 Y",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE401H1",
+        "name": "Materials Selection for Sustainable Product Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE403H1",
+        "name": "Advanced A.I. for Accelerated Materials Discovery",
+        "prereq": "Prerequisite: MSE465H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE415H1",
+        "name": "Environmental Degradation of Materials",
+        "prereq": "Prerequisite: MSE244H1 ; MSE245H1 ; MSE302H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE419H1",
+        "name": "Fracture and Failure Analysis",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE420H1",
+        "name": "AI Forensics: Trust, Bias, and Limits in Materials Modeling",
+        "prereq": "Prerequisite: MSE238H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE430H1",
+        "name": "Electronic Materials",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE431H1",
+        "name": "Forensic Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE435H1",
+        "name": "Optical and Photonic Materials",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE437H1",
+        "name": "Process Metallurgy of Iron and Steel",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE438H1",
+        "name": "Computational Materials Design",
+        "prereq": "Prerequisite: MSE335H1 / PHY356H1 / PHY452H1 / ECE330H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE440H1",
+        "name": "Emerging Applications in Biomaterials",
+        "prereq": "Prerequisite: MSE343H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE455H1",
+        "name": "Process Simulation and Computer Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE458H1",
+        "name": "Nanotechnology in Alternate Energy Systems",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE459H1",
+        "name": "Synthesis of Nanostructured Materials",
+        "prereq": "Prerequisite: MSE219H1 ; MSE244H1 ; or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE461H1",
+        "name": "Engineered Ceramics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE462H1",
+        "name": "Materials Physics II",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE465H1",
+        "name": "Application of Artificial Intelligence in Materials Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE467H1",
+        "name": "Multiscale Modeling of Materials Failure",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE474H1",
+        "name": "Atomic Energy, Materials, Systems & Sustainability: Nuclear Science",
+        "prereq": "Prerequisite: MAT294H1 , MSE335H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=16"
+    },
+    {
+        "code": "MSE475H1",
+        "name": "Atomic Energy, Materials, Systems & Sustainability: Nuclear Engineering",
+        "prereq": "Prerequisite: MAT294H1 , MSE335H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "MSE490H1",
+        "name": "Professional Ethics and Practice",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "MSE491Y1",
+        "name": "Research Thesis",
+        "prereq": "Prerequisite: Entry into the course is by securing a suitable research project and supervisor, subject to the following conditions: Minimum third-year CGPA of 3.3 (B+, 77%)",
+        "exclusion": "Exclusion: MSE492H1 , MSE493H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "MSE498Y1",
+        "name": "Capstone Design",
+        "prereq": "Prerequisite: All Y3 core courses.",
+        "exclusion": "Exclusion: CHM499Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "MSE543H1",
+        "name": "Composite Materials Engineering",
+        "prereq": "Prerequisite: MSE245H1 , MSE316H1 or equivalent",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "MUN202H1",
+        "name": "Microeconomics for Engineers",
+        "prereq": "Prerequisite: MAT188H1 , MAT186H1 / APS162H1",
+        "exclusion": "Exclusion: MUN221H1 , PPG200H1 , ECO101H1",
+        "corequisite": "Corequisite: MAT188H1 , MAT186H1 / APS162H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "MUN302H1",
+        "name": "Institutions and Public Policy for Engineers",
+        "prereq": "Prerequisite: PPG201H1 / MUN202H1",
+        "exclusion": "Exclusion: PPG302H1",
+        "corequisite": "Corequisite: MUN202H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "MUN402H1",
+        "name": "Public Policy Analysis for Engineers",
+        "prereq": "Prerequisite: PPG201H1 / MUN202H1 , PPG302H1 / MUN302H1",
+        "exclusion": "Exclusion: MUN320H1 , PPG301H1 , PPG402H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "PHY180H1",
+        "name": "Classical Mechanics",
+        "prereq": null,
+        "exclusion": "Exclusion: MIE100H1",
+        "corequisite": "Corequisite: ESC194H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "PHY293H1",
+        "name": "Waves and Modern Physics",
+        "prereq": null,
+        "exclusion": "Exclusion: MIE333H1",
+        "corequisite": "Corequisite: MAT292H1",
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "PHY294H1",
+        "name": "Quantum and Thermal Physics",
+        "prereq": "Prerequisite: PHY293H1",
+        "exclusion": "Exclusion: MIE333H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "PHY327H1",
+        "name": "Advanced Physics Laboratory",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "PHY427H1",
+        "name": "Advanced Physics Laboratory",
+        "prereq": "Prerequisite: PHY327H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "PMU299Y1",
+        "name": "Applied Performance",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "ROB301H1",
+        "name": "Introduction to Robotics",
+        "prereq": "Prerequisite: ESC204H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "ROB310H1",
+        "name": "Mathematics for Robotics",
+        "prereq": "Prerequisite: MAT185H1 , MAT292H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "ROB311H1",
+        "name": "Artificial Intelligence",
+        "prereq": "Prerequisite: ECE302H1 / MIE286H1 , and ECE345H1 / ECE358H1 / CSC263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "ROB313H1",
+        "name": "Introduction to Learning from Data",
+        "prereq": "Prerequisite: ESC195H1 , CSC263H1 / ECE358H1 , MAT185H1 , MIE286H1",
+        "exclusion": "Exclusion: ECE421H1 , CSC411H1 , STA314H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "ROB498H1",
+        "name": "Robotics Capstone Design",
+        "prereq": "Prerequisite: ROB301H1 , ROB310H1 , ROB501H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "ROB501H1",
+        "name": "Computer Vision for Robotics",
+        "prereq": "Prerequisite: ROB301H1 / ECE324H1",
+        "exclusion": "Exclusion: CSC420H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "ROB521H1",
+        "name": "Mobile Robotics and Perception",
+        "prereq": "Prerequisite: ROB310H1 , AER372H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "RSM430H1",
+        "name": "Fixed Income Securities",
+        "prereq": "Prerequisite: Rotman Commerce: RSM332H1 ; Actuarial Science: ACT349H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "RSM432H1",
+        "name": "Risk Management for Financial Managers",
+        "prereq": "Prerequisite: RSM333H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "RSM434H1",
+        "name": "Financial Trading Strategies",
+        "prereq": "Prerequisite: RSM332H1",
+        "exclusion": "Exclusion: RSM412H1 Financial Trading Strategies",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "STA302H1",
+        "name": "Methods of Data Analysis I",
+        "prereq": "Prerequisite: STA238H1 / STA248H1 / STA255H1 / STA261H1 / ECO227Y1 / STAB57H3 / STA258H5 / STA260H5 / ECO227Y5 ; CSC108H1 / CSC110Y1 / CSC148H1 / CSCA08H3 / CSCA20H3 / CSCA48H3 / CSC108H5 / CSC148H5 ; MAT223H1 / MAT224H1 / MAT240H1 / MATA22H3 / MATA23H3 / MAT223H5 / MAT240H5 / MATB24H3 / MAT224H5",
+        "exclusion": "Exclusion: STAC67H3 , STA302H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "STA347H1",
+        "name": "Probability",
+        "prereq": "Prerequisite: STA247H1 (70%)/ STA255H1 (70%)/ STA237H1 (70%)/ STA257H1 / ECO227Y1 / STAB52H3 / STA256H5 ; MAT223H1 / MAT224H1 / MAT240H1 / MATA22H3 / MATA23H3 / MAT223H5 / MAT240H5 / MATB24H3 / MAT224H5 ; ( MAT235H1 , MAT236H1 )/ MAT235Y1 / MAT237Y1 / MAT257Y1 / ( MATB41H3 , MATB42H3 )/ ( MAT232H5 , MAT236H5 )/ ( MAT233H5 , MAT236H5 ) (Note: STA257H1 , MAT223H1 / MAT240H1 , MAT237Y1 / MAT257Y1 are very strongly recommended)",
+        "exclusion": "Exclusion: MAT370H1 , MAT377H1 , STAC62H3 , STA348H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "STA410H1",
+        "name": "Statistical Computation",
+        "prereq": "Prerequisite: STA302H1 / STAC67H3 / STA302H5 ; CSC110Y1 / CSC148H1 / CSCA48H3 / CSC148H5 ; MAT223H1 / MAT224H1 / MAT240H1 / MATA22H3 / MATA23H3 / MAT223H5 / MAT240H5 / MATB24H3 / MAT224H5",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "STA447H1",
+        "name": "Stochastic Processes",
+        "prereq": "Prerequisite: STA347H1 (67%)/ MAT377H1 / STAC62H3 / STA357H1",
+        "exclusion": "Exclusion: STA348H5 , STAC63H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "TEP234H1",
+        "name": "Entrepreneurship and Small Business",
+        "prereq": null,
+        "exclusion": "Exclusion: CHE488H1 / CIV488H1 / ECE488H1 / MIE488H1 / MSE488H1 / APS281H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "TEP320H1",
+        "name": "Representing Science on Stage",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=17"
+    },
+    {
+        "code": "TEP321H1",
+        "name": "Introduction to Science Communication",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP322H1",
+        "name": "Language and Power",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP324H1",
+        "name": "Engineering and Social Justice",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP326H1",
+        "name": "Special Topics in Creative Writing",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP327H1",
+        "name": "Engineering and Law",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP329H1",
+        "name": "Science Fiction for Engineers",
+        "prereq": "Prerequisite: 4.0 credits (or equivalent way of demonstrating the student has completed a year of study)",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP343H1",
+        "name": "Engineering Leadership",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP432H1",
+        "name": " Advanced Topics in Entrepreneurship",
+        "prereq": "Prerequisite: APS234H1 / TEP234H1",
+        "exclusion": "Exclusion: CHE488H1 / CIV488H1 / ECE488H1 / MIE488H1 / MSE488H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP435H1",
+        "name": "The Measure of All Things: Sensors and Data for Sustainable Development",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP440H1",
+        "name": "To Engineer is Human",
+        "prereq": "Prerequisite: 4.0 full courses",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP442H1",
+        "name": "Cognitive and Psychological Foundations of Effective Leadership",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP444H1",
+        "name": "Positive Psychology for Engineers",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP445H1",
+        "name": "The Power of Story: Discovering Your Leadership Narrative",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP447H1",
+        "name": "The Art of Ethical & Equitable Decision Making in Engineering",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP448H1",
+        "name": "System Mapping",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TEP449H1",
+        "name": "Intercultural Communication and Leadership",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    },
+    {
+        "code": "TMU130H1",
+        "name": "Music Theory I",
+        "prereq": null,
+        "exclusion": "Exclusion: TMU120H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://engineering.calendar.utoronto.ca/search-courses?page=18"
+    }
+]

@@ -1,0 +1,974 @@
+[
+    {
+        "code": "ANA124H1",
+        "name": "Kinesiology Human Anatomy I: Organ Systems",
+        "prereq": null,
+        "exclusion": "BIOB33H3 , BIO208H5 , BIO209H5 , ANA126Y1 , ANA200H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "ANA125H1",
+        "name": "Kinesiology Human Anatomy II:  Musculoskeletal System",
+        "prereq": null,
+        "exclusion": "BIOB33H3 , BIO208H5 , BIO209H5 , ANA126Y1 , ANA200H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE100H1",
+        "name": "Physical Cultural Studies",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE120H1",
+        "name": "Foundations of Sport, Exercise, and Health Psychology",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE160H1",
+        "name": "Fundamentals of Human Movement",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": "KPE182H1",
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE161H1",
+        "name": "Fitness: Principles & Practice",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE162H1",
+        "name": "Physical Activity and Healthy Lifestyles",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE182H1",
+        "name": "Introduction to Movement Observation and Evaluation",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE190H1",
+        "name": "Inquiry in Kinesiology and Physical Education",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE200H1",
+        "name": "Physical Cultural Studies: Society, Bodies and Politics",
+        "prereq": "KPE100H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE220H1",
+        "name": "Psychosocial Development",
+        "prereq": "KPE120H1",
+        "exclusion": "PHE101Y1 , PSY210H1 , PSYB20H3 , PSY210H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE240H1",
+        "name": "Indigenous & Black Histories: Health, Healing and Physical Activity",
+        "prereq": "KPE120H1 , KPE162H1 , KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE255H1",
+        "name": "Future Workplace Trends and Preparation ",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE260H1",
+        "name": "Human Physiology I",
+        "prereq": "ANA124H1 / ANA126Y1",
+        "exclusion": "PSL201Y1 , PSL300H1 , PSL301H1 BIO208H5 , BIO209H5 , BIOB35H3 , BIOC32H3 , BIOC34H3",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE261H1",
+        "name": "Theory of Motor Skill Acquisition - Motor Learning",
+        "prereq": "KPE160H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE263H1",
+        "name": "Introductory Biomechanics",
+        "prereq": "ANA125H1 / ANA126Y1 , KPE160H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE264H1",
+        "name": "Exercise Physiology",
+        "prereq": "( ANA124H1 & ANA125H1 )/ ANA126Y1 , KPE260H1",
+        "exclusion": "HMB472H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE282H1",
+        "name": "Physical Activity and Exercise Applications",
+        "prereq": "KPE182H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE291H1",
+        "name": "Research Design and Evaluation: Quantitative Approaches",
+        "prereq": null,
+        "exclusion": "ECO220Y1 , ECO227Y1 , GGR270H1 , GGR271H1 , PSY201H1 , PSY202H1 , SOC200H1 , SOC202H1 , SOC300H1 , STA220H1 , PSYB04H3 , PSYA06H3 / PSYB07H3 , SOC204H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE300H1",
+        "name": "Physical Culture and Social Inequality",
+        "prereq": "KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE302H1",
+        "name": "Media Health and Exercise Sciences",
+        "prereq": "KPE100H1 , KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE304H1",
+        "name": "Violence Suffering & Physical Culture",
+        "prereq": "KPE100H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE305H1",
+        "name": "Geographies of Social and Environmental Justice in Health and Physical Culture",
+        "prereq": "KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE306H1",
+        "name": "Hockey in Canadian Society",
+        "prereq": "KPE220H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE307H1",
+        "name": "Olympic and Paralympic Studies",
+        "prereq": "KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE310H1",
+        "name": "Sport and Climate Change ",
+        "prereq": "KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE311H1",
+        "name": "Sport Media and Culture",
+        "prereq": "KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE320H1",
+        "name": "Administrative Theory",
+        "prereq": "KPE220H1",
+        "exclusion": "PSY332H1 , IRE260H1 , RSM260H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE321H1",
+        "name": "Population Health",
+        "prereq": "Prerequisite: KPE200H1 , ( KPE290H1 / KPE391H1 ) or KPE291H1 Corequisite: the other of ( KPE290H1 / KPE391H1 )",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE322H1",
+        "name": "Psychology of Injury and Rehabilitation",
+        "prereq": "ANA125H1 / ANA126Y1 , KPE120H1 , KPE260H1 , KPE290H1 / KPE391H1 , KPE291H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "KPE324H1",
+        "name": "Advanced Sport Psychology",
+        "prereq": "KPE220H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE325H1",
+        "name": "Stress and Coping",
+        "prereq": "KPE120H1 , KPE264H1",
+        "exclusion": "HMB471H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE326H1",
+        "name": "Aging, Health and Physical Activity",
+        "prereq": "KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE327H1",
+        "name": "Exercise and Mental Health",
+        "prereq": "KPE220H1",
+        "exclusion": "HMB473H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE328H1",
+        "name": "Exercise and Nutrition for Health and Performance",
+        "prereq": "KPE264H1",
+        "exclusion": "NFS302H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE329H1",
+        "name": "Developing Physical Literacy Foundations in the Early Years",
+        "prereq": "KPE160H1 , KPE261H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE330H1",
+        "name": "Advanced Exercise Psychology",
+        "prereq": "KPE220H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE331H1",
+        "name": "Sport Analytics, Game Theory and Tactics",
+        "prereq": "KPE290H1 / KPE291H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE332H1",
+        "name": "Innovations in Digital & Mobile Health",
+        "prereq": "KPE260H1 , KPE263H1 , KPE290H1 / KPE391H1 , KPE291H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE333H1",
+        "name": "The Pedagogy of Playing Games",
+        "prereq": "KPE220H1 , KPE260H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE334H1",
+        "name": "Adapted Physical Activity",
+        "prereq": "KPE220H1 , KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE335H1",
+        "name": "Global Sports Law",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE336H1",
+        "name": "Outdoor Physical Activity and Recreation",
+        "prereq": "3rd year standing",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE337H1",
+        "name": "Health Data Analytics",
+        "prereq": "KPE291H1 or an equivalent level course",
+        "exclusion": "CHE223H1 , STAD68H3 , CHL5230H",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE340H1",
+        "name": "Introduction to Physical Activity Pedagogy",
+        "prereq": "KPE220H1 , KPE260H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE342H1",
+        "name": "Theory of Coaching part I",
+        "prereq": "KPE220H1 , KPE260H1 , KPE261H1 , KPE263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE355Y1",
+        "name": "Interpersonal Theory in Kinesiology and Physical Education",
+        "prereq": "You must have followed the appropriate pre-course procedures in the year preceding course enrolment, be entering 3rd year (or higher), and obtain instructor approval.",
+        "exclusion": "KPE350Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE360H1",
+        "name": "Advanced Cardiorespiratory Physiology",
+        "prereq": "KPE264H1",
+        "exclusion": "BIOC32H3 , BIOC33H3 , BIOC34H3 , BIO210Y5 , BIO208H5 , BIO209H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE361H1",
+        "name": "Motor Control",
+        "prereq": "KPE261H1 or by permission of the instructor",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE362H1",
+        "name": "Neural Basis of Human Movement",
+        "prereq": "KPE261H1 or by permission of the instructor",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE363H1",
+        "name": "Sport Medicine",
+        "prereq": "ANA125H1 / ANA126Y1 , KPE263H1",
+        "exclusion": "HMB470H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE365H1",
+        "name": "Advanced Biomechanics",
+        "prereq": "KPE263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE366H1",
+        "name": "Ergonomics",
+        "prereq": "KPE263H1 , KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE367H1",
+        "name": "Sport & Exercise Biomechanics",
+        "prereq": "KPE263H1 , KPE290H1 / KPE391H1 , KPE291H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE368H1",
+        "name": "Sport Concussion",
+        "prereq": "KPE260H1 , KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE369H1",
+        "name": "Human Physiology II",
+        "prereq": "ANA124H1 / ANA126Y1",
+        "exclusion": "PSL201Y1 , PSL300H1 , PSL301H1 , BIOB35H3 , BIOC32H3 , BIOC33H3 , BIOC34H3 , BIO208H5 , BIO209H5",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE370H1",
+        "name": "Science and Practice of Training for Sport Performance",
+        "prereq": "KPE263H1 , KPE360H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE371H1",
+        "name": "Lifestyle and Metabolic Disease",
+        "prereq": "KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE372H1",
+        "name": "Injury and Orthopaedic Biomechanics",
+        "prereq": "KPE263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE380H1",
+        "name": "Advanced Assessment and Exercise Program Design",
+        "prereq": "KPE280H1 / KPE282H1 , KPE281H1 / KPE282H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "KPE390Y1",
+        "name": "Directed Research",
+        "prereq": "Prerequisite: KPE200H1 , ( KPE290H1 / KPE391H1 ) or KPE291H1",
+        "exclusion": null,
+        "corequisite": "Corequisite: the other of ( KPE290H1 / KPE391H1 ) and a minimum B average in the area of interest, and an application process.",
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE391H1",
+        "name": "Research Design and Evaluation: Qualitative Approaches",
+        "prereq": null,
+        "exclusion": "ECO220Y1 , ECO227Y1 , GGR270H1 , GGR271H1 , PSY201H1 , PSY202H1 , SOC200H1 , SOC202H1 , SOC300H1 , STA220H1 , SOC204H1 , PSYB04H3 , PSYA06H3 / PSYB07H3",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE399H1",
+        "name": "Research Inquiry Applications",
+        "prereq": "Second year standing",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE400H1",
+        "name": "Ethics & Power in Kinesiology, Physical Education and Health Fields",
+        "prereq": "KPE200H1 , Fourth year standing",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE401H1",
+        "name": "International Development through Sport",
+        "prereq": "KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE403H1",
+        "name": "Gender/s and Sexualities in Sports and Physical Culture",
+        "prereq": "KPE100H1 , KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE404H1",
+        "name": "Illness, Disease, and Physical Culture",
+        "prereq": "KPE200H1 , KPE290H1 / KPE391H1 , KPE291H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE405H1",
+        "name": "Race, Indigeneity and Physical Culture",
+        "prereq": "KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE406H1",
+        "name": "Sport in Popular Culture",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE407H1",
+        "name": "Maltreatment in Youth Sport",
+        "prereq": "KPE220H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE408H1",
+        "name": "Sport and the \"War on Terror\"",
+        "prereq": "3rd/4th year standing",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE409H1",
+        "name": "Sport, Physical Activity and Human Rights",
+        "prereq": "KPE200H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE410H1",
+        "name": "Criminology of Sport and Games",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE411H1",
+        "name": "Sport and Physical Culture in the Global South",
+        "prereq": "TBC",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE412H1",
+        "name": "Dance Cultures and Practices",
+        "prereq": "TBC",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE418H1",
+        "name": "Special Topics in Kinesiology: Invisible Disability in the Field of Kinesiology",
+        "prereq": "TBC",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE421H1",
+        "name": "The Role of Physical Activity in Girls' and Women's Health",
+        "prereq": "KPE334H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE422H1",
+        "name": "Topics in Coaching",
+        "prereq": "KPE200H1 , KPE220H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE423H1",
+        "name": "Theory of Dance Performance",
+        "prereq": "KPE280H1 / KPE282H1 , KPE281H1 / KPE282H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE426H1",
+        "name": "Exercise & Cancer Survivorship",
+        "prereq": "KPE220H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE427H1",
+        "name": "Health and Physical Education in the Elementary Years",
+        "prereq": "KPE220H1 , KPE260H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE428H1",
+        "name": "Nutrition and Ergogenic Aids in Sport and Exercise",
+        "prereq": "KPE290H1 / KPE391H1 , KPE291H1 , KPE328H1 / NFS302H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE429H1",
+        "name": "Sport Management",
+        "prereq": "3rd year standing",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE431H1",
+        "name": "Positive Psychology Coaching",
+        "prereq": "KPE220H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE432H1",
+        "name": "Legal Aspects of Sport, Recreation and Kinesiology",
+        "prereq": "KPE200H1 , KPE220H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE433H",
+        "name": "Occupational Health and Wellness",
+        "prereq": "KPE220H1 , KPE263H1 , KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE433H1",
+        "name": "Occupational Health and Wellness",
+        "prereq": "KPE220H1 , KPE263H1 , KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE434H1",
+        "name": "Advanced Adapted Physical Activity",
+        "prereq": "KPE334H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE435H1",
+        "name": "Psychology of Body Image",
+        "prereq": "TBC",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE436H1",
+        "name": "Outdoor Education and Environmental Stewardship",
+        "prereq": "3rd year standing",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "KPE438H1",
+        "name": "Special Topics in Kinesiology",
+        "prereq": "TBD",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE442H1",
+        "name": "Theory of Coaching part II",
+        "prereq": "KPE220H1 , KPE260H1 , KPE261H1 , KPE263H1 , KPE342H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE455Y1",
+        "name": "Kinesiology and Physical Education in Society",
+        "prereq": "KPE350Y1 / KPE355Y1 ; As well, you must have followed the appropriate pre-course procedures in the year preceding course enrolment, be entering 3rd year (or higher), and obtain instructor approval.",
+        "exclusion": "KPE450Y1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE461H1",
+        "name": "Speed and Power",
+        "prereq": "KPE370H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE462H1",
+        "name": "Human Environmental Exercise Physiology",
+        "prereq": "KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE463H1",
+        "name": "Topics in Professional Kinesiology",
+        "prereq": "3rd year standing",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE464H1",
+        "name": "Clinical Exercise Testing and Prescription",
+        "prereq": "KPE360H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE467H1",
+        "name": "Cellular Physiology",
+        "prereq": "KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE469H1",
+        "name": "Performance and Neuroplasticity",
+        "prereq": "KPE261H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE470H1",
+        "name": "Science in Sport, Health and Exercise",
+        "prereq": "KPE260H1 , KPE263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE471H1",
+        "name": "Musculoskeletal Biomechanics",
+        "prereq": "KPE263H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE474H1",
+        "name": "Exercise Training and Non-Responder Physiology",
+        "prereq": "KPE264H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE476H1",
+        "name": "Clinical Exercise Programming",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE478H1",
+        "name": "Special Topics in Kinesiology and Physical Education -  Sex Differences in Exercise Physiology",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE479H1",
+        "name": "Special Topics in Kinesiology and Physical Education - Endocrinology in Exercise and Disease",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE490Y1",
+        "name": "Advanced Research",
+        "prereq": "KPE390Y1 , a minimum B average in the area of interest, and an application process.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "KPE495H1",
+        "name": "Independent Study",
+        "prereq": "Fourth-year standing and a minimum B average in the area of interest.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    },
+    {
+        "code": "PAO900H1",
+        "name": "Standard First Aid/Basic Rescuer (C)",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://kpe.calendar.utoronto.ca/search-courses?page=3"
+    }
+]
