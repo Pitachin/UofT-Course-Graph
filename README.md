@@ -1,0 +1,41 @@
+# UofT-Course-Networks
+
+### Intro
+
+This is an independent research project exploring the structure of the University of Toronto's academic curriculum for the 2026–2027 academic year through graph theory & network science.
+
+Inspired by Pavlos Stavrinides and Konstantin Zuev's work on Course-Prerequisite Networks (hereafter referred to as CPNs), this project aims to reproduce and extend the original research using course data scraped from UofT's academic calendars across all three campuses and various academic divisions.
+
+### Process
+
+1. Scrape all course information, including `code`, `name`, `prereq`, `exclusion`, `department_name`, `campus`, `source`, and `source_url`.
+
+For instance, take our notorious pure math course, `MAT158H1`. The corresponding JSON looks like this:
+
+```json
+{
+    "code": "MAT158H1",
+    "name": "Analysis 1A",
+    "prereq": "High school calculus",
+    "exclusion": "MAT157Y1 / MAT157Y5 / MAT157H5",
+    "department_name": "Department of Mathematics",
+    "campus": "St. George",
+    "source": "artsci",
+    "source_url": "https://artsci.calendar.utoronto.ca/search-courses?page=103"
+}
+```
+
+2. Model and visualize CPNs using [Gephi](https://gephi.org/) and conduct statistical analysis.
+3. Write something interesting.
+
+### Data Sources
+
+- [UofT Academic Calendars](https://calendar.utoronto.ca/)
+- [Faculty of Arts & Science](https://artsci.calendar.utoronto.ca/search-courses)
+- [University of Toronto Mississauga](https://utm.calendar.utoronto.ca/course-search)
+- [University of Toronto Scarborough](https://utsc.calendar.utoronto.ca/search-courses)
+- [Timetable Builder](https://ttb.utoronto.ca/)
+
+### Reference
+
+1. [Course-Prerequisite Networks for Analyzing and Understanding Academic Curricula](https://arxiv.org/abs/2210.01269)
