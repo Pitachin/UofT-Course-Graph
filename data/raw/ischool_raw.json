@@ -1,0 +1,200 @@
+[
+    {
+        "code": "INF301H1",
+        "name": "Introduction to Information and Power",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF302H1",
+        "name": "Integrative Approaches to Technology and Society",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF311H1",
+        "name": "Information in the Cultural Imagination",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF312H1",
+        "name": "Worlds Become Data",
+        "prereq": "To be advised.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF313H1",
+        "name": "Computational Reasoning",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF314H1",
+        "name": "Information, Memory and Culture",
+        "prereq": "To be advised.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF315H1",
+        "name": "Information Practice in Organizations",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF351H1",
+        "name": "Information Design Studio I: How to Make a Computer.  And Why.",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF352H1",
+        "name": "Information Design Studio II: How to Design",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF353H1",
+        "name": "Information Design Studio III:  Designing Interactive Systems",
+        "prereq": "To be advised.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF401H1",
+        "name": "Practicum Prep",
+        "prereq": "INF301, INF302",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF402H1",
+        "name": "Work Integrated Learning Practicum",
+        "prereq": "INF 401 Practicum Prep",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF411H1",
+        "name": "Information in the Global Economy",
+        "prereq": "To be advised.",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF412H1",
+        "name": "Data Analytics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF413H1",
+        "name": "Information Policy in Canadian and Global Contexts",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF451H1",
+        "name": "Information Design Studio IV: Information Visualization",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF452H1",
+        "name": "Information Design Studio V:  Coding",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF453H1",
+        "name": "Capstone Project",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF481H1",
+        "name": "Special Topics in Information Studies I (Lecture/Elective)",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF482H1",
+        "name": "Special Topics in Information Studies II (Lecture/Elective)",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF483H1",
+        "name": "Special Topics in Information Studies III (Lecture/Elective)",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "INF484H1",
+        "name": "Special Topics in Information Studies IV (Lecture/Elective)",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://ischool.calendar.utoronto.ca/search-courses?page=0"
+    }
+]

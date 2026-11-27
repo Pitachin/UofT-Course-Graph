@@ -152,7 +152,7 @@ async def scrape_faculty(faculty: str, url: str) -> None:
     try:
         courses = await asyncio.to_thread(scrape_courses, url)
 
-        _save_json(courses, f'{faculty}_raw.json')
+        _save_json(courses, f'data/raw/{faculty}_raw.json')
 
         print(f'{faculty}: Successfully scraped {len(courses)} courses.')
 
