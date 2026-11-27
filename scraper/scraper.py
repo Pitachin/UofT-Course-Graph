@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup, Tag
 import json
+import asyncio
 
 URL = {
     'art&sci': 'https://artsci.calendar.utoronto.ca/search-courses',
@@ -13,13 +14,8 @@ URL = {
     "music": "https://music.calendar.utoronto.ca/search-courses",
     "nursing": "https://nursing.calendar.utoronto.ca/search-courses",
     "pharmacy": "https://pharmacy.calendar.utoronto.ca/search-courses",
-    "md": "https://md.calendar.utoronto.ca/search-courses",
     "sgs": "https://sgs.calendar.utoronto.ca/search-courses",
     "oise": "https://oise.academic-guide.utoronto.ca/search-courses",
-    "law-jd": "https://jackmanlaw.utoronto.ca/jd-program/course-list",
-    "law-first-year": "https://jackmanlaw.utoronto.ca/jd-program/first-year-course-assignments",
-    "law-graduate": "https://jackmanlaw.utoronto.ca/graduate-programs/course-list",
-    "dentistry": "https://www.dentistry.utoronto.ca/sites/default/files/2026-11/2026-2027%20FACULTY-CALENDAR.pdf",
 }
 
 
@@ -52,6 +48,15 @@ def _get_last_page(soup: BeautifulSoup) -> int:
     href = last_page['href']
     return int(''.join(c for c in href if c.isdigit()))
 
+def _parse_title(title: str) -> tuple[str, str]:
+    """Return the course code and name extracted from the given title."""
+    for separator in [' - ', ' • ', ' – ', ' — ']:
+        if separator in title:
+            code, name = title.split(separator, 1)
+            return code.strip(), name.strip()
+
+    raise ValueError(f'Invalid course title: {title!r}')
+
 def _parse_course(
         course: Tag,
         page: int,
@@ -65,23 +70,34 @@ def _parse_course(
     Missing optional fields are represented by None.
     """
 
+    # Handle course titles nested inside a div (Arts & Science, UTM, etc.).
     title_tag = course.select_one(
                 '.js-views-accordion-group-header > div'
             )
 
-    assert title_tag is not None
+    # Handle course titles nested inside h3 (isschoool)
+    if title_tag is None:
+        title_tag = course.select_one(
+            '.js-views-accordion-group-header'
+        )
 
+    assert title_tag is not None, course.prettify()
+
+    # Retrieve the title from aria-label to avoid inconsistent separators (UTM).
     title = title_tag.get('aria-label')
-    # utsg case
+
+    # Fix two issues:
+    ## 1. Some Art&Sci courses do not have <aria-label>
+    ## 2. ANT202H5 at UTM whose aria-label is not complete.
     if title is None or ' - ' not in title:
         title = _extract_text(title_tag)
-    # utm case
-    if title is not None:
-        title = title.replace(' • ', ' - ', 1)
+
+    # Ensure the course title has been successfully extracted.
+    assert title is not None
 
     print(repr(title))
 
-    code, name = title.split(' - ', 1)
+    code, name = _parse_title(title)
 
     prereq = _extract_text(
         course.select_one(
@@ -145,10 +161,28 @@ def scrape_courses(url: str) -> list[dict[str, str | None]]:
 
     return all_courses
 
-if __name__ == '__main__':
-    url = 'https://utsc.calendar.utoronto.ca/course-search'
-    
-    all_courses = scrape_courses(URL['ischool'])
-    _save_json(all_courses, 'ischool_raw.json')
 
-    print(f'Successfully scraped {len(all_courses)} courses.')
+async def scrape_faculty(faculty: str, url: str) -> None:
+    """Scrape and save course info from a single faculty."""
+    print(f'Scraping {faculty}...')
+
+    courses = await asyncio.to_thread(scrape_courses, url)
+
+    _save_json(courses, f'{faculty}_raw.json')
+
+    print(f'{faculty}: Successfully scraped {len(courses)} courses.')
+
+
+async def main() -> None:
+    """Scrape faculties in batches of seven."""
+    tasks = []
+
+    for faculty, url in URL.items():
+        task = scrape_faculty(faculty, url)
+        tasks.append(task)
+
+    await asyncio.gather(*tasks)
+
+
+if __name__ == '__main__':
+    asyncio.run(main())

@@ -1,0 +1,803 @@
+[
+    {
+        "code": "PHM010H1",
+        "name": "Catalyst: Spark, Learn, Lead",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM100Y1",
+        "name": "Foundations 1: Science, Systems and Pharmacy Practice",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM161Y1",
+        "name": "Applied Therapeutics 1",
+        "prereq": "PHM100Y1",
+        "exclusion": null,
+        "corequisite": "PHM171H1 ; PHM191H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM162Y1",
+        "name": "Applied Therapeutics 2",
+        "prereq": "PHM100Y1 ; PHM161Y1 ; PHM171H1",
+        "exclusion": null,
+        "corequisite": "PHM172H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM163Y1",
+        "name": "Applied Therapeutics 3",
+        "prereq": "PHM100Y1 ; PHM161Y1 ; PHM162Y1 ; PHM171H1 ; PHM172H1",
+        "exclusion": null,
+        "corequisite": "PHM173H1 ; PHM191H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM171H1",
+        "name": "Pharmacy Practice Skills & Simulation 1",
+        "prereq": "PHM100Y1",
+        "exclusion": null,
+        "corequisite": "PHM161Y1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM172H1",
+        "name": "Pharmacy Practice Skills & Simulation 2",
+        "prereq": "PHM171H1 ; PHM161Y1",
+        "exclusion": null,
+        "corequisite": "PHM162Y1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM173H1",
+        "name": "Pharmacy Practice Skills & Simulation 3",
+        "prereq": "PHM171H1 ; PHM161Y1 ; PHM172H1 ; PHM162Y1",
+        "exclusion": null,
+        "corequisite": "PHM163Y1 ; PHM191H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM191H1",
+        "name": "Experiential Learning 1",
+        "prereq": "PHM100Y1",
+        "exclusion": null,
+        "corequisite": "PHM161Y1 ; PHM162Y1 ; PHM163Y1 ; PHM171H1 ; PHM172H1 ; PHM173H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM200Y1",
+        "name": "Foundations 2",
+        "prereq": "PHM163Y1 ; PHM173H1 ; PHM191H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM251H1",
+        "name": "Early Practice Experience 2",
+        "prereq": "PHM151H1 ; PHM201H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM206H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM261Y1",
+        "name": "Applied Therapeutics 4",
+        "prereq": "PHM100Y1 ; PHM161Y1 ; PHM162Y1 ; PHM163Y1 ; PHM171H1 ; PHM172H1 ; PHM173H1 ; PHM200Y1",
+        "exclusion": null,
+        "corequisite": "PHM271H1 ; PHM291H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM262Y1",
+        "name": "Applied Therapeutics 5",
+        "prereq": "PHM100Y1 ; PHM161Y1 ; PHM162Y1 ; PHM163Y1 ; PHM171H1 ; PHM172H1 ; PHM173H1 ; PHM191H1 ; PHM200Y1 ; PHM261Y1 ; PHM271H1",
+        "exclusion": null,
+        "corequisite": "PHM272H1 ; PHM291H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM263Y1",
+        "name": "Applied Therapeutics 6",
+        "prereq": "PHM100Y1 ; PHM161Y1 ; PHM162Y1 ; PHM163Y1 ; PHM171H1 ; PHM172H1 ; PHM173H1 ; PHM191H1 ; PHM200Y1 ; PHM261Y1 ; PHM262Y1 ; PHM271H1 ; PHM272H1 ;",
+        "exclusion": null,
+        "corequisite": "PHM273H1 ; PHM291H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM271H1",
+        "name": "Pharmacy Practice Skills & Simulation 4",
+        "prereq": "PHM100; PHM161; PHM171; PHM162; PHM172; PHM163; PHM173; PHM191; PHM200",
+        "exclusion": null,
+        "corequisite": "PHM261; PHM291",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM272H1",
+        "name": "Pharmacy Practice Skills and Simulation 5",
+        "prereq": "PHM100; PHM161; PHM171; PHM162; PHM172; PHM163; PHM173; PHM191; PHM200; PHM261p; PHM271",
+        "exclusion": null,
+        "corequisite": "PHM262; PHM291",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM273H1",
+        "name": "Pharmacy Practice Skills & Simulation 6",
+        "prereq": "PHM100; PHM171; PHM172; PHM173; PHM161; PHM162; PHM163; PHM200; PHM271; PHM272; PHM261; PHM262",
+        "exclusion": null,
+        "corequisite": "PHM263; PHM291",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM291H1",
+        "name": "Experiential Learning 2",
+        "prereq": "PHM191H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM301H1",
+        "name": "Pharmacotherapy 6: Hematology, Oncology & Immunotherapies",
+        "prereq": "PHM101H1 ; PHM105H1 ; PHM113H1 ; PHM140H1 ; PHM141H1 ; PHM142H1 ; PHM143H1 ; PHM144H1 ; PHM145H1 ; PHM146H1 ; PHM201H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM206H1",
+        "exclusion": null,
+        "corequisite": "PHM302H1 ; PHM305H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM302H1",
+        "name": "Pharmacotherapy 7: Neuropsychiatry",
+        "prereq": "PHM101H1 ; PHM113H1 ; PHM140H1 ; PHM141H1 ; PHM142H1 ; PHM143H1 ; PHM144H1 ; PHM145H1 ; PHM146H1 ; PHM212H1 ; PSL205H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM305H1",
+        "name": "Medication Therapy Management 4",
+        "prereq": "PHM101H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM206H1 ; PHM251H1",
+        "exclusion": null,
+        "corequisite": "PHM301H1 ; PHM302H1 ; PHM310H1",
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM310H1",
+        "name": "Pharmacy in the Modern Health Care System",
+        "prereq": "PHM110H1 ; PHM114H1 ; PHM213H1 ; PHM215H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM320H1",
+        "name": "Global Pharmaceutical Policy",
+        "prereq": null,
+        "exclusion": "PHC470H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM321H1",
+        "name": "Selected Topics in the Pharmaceutical Industry",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM322H1",
+        "name": "Patient/Medication Safety",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM323H1",
+        "name": "Molecular Mechanisms of Drug Action",
+        "prereq": null,
+        "exclusion": "PHC300H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM324H1",
+        "name": "Recent Developments in Dosage Form Design",
+        "prereq": "PHM141H1 ; PHM144H1",
+        "exclusion": "PHC430H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM325H1",
+        "name": "Indigenous Peoples’ Health and Wellness",
+        "prereq": null,
+        "exclusion": "JFP450H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM327H1",
+        "name": "Pharmacy Management, Leadership, and Entrepreneurship",
+        "prereq": "PHM215H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM330H1",
+        "name": "Preparation for Advanced Pharmacy Practice Experience",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=0"
+    },
+    {
+        "code": "PHM340H1",
+        "name": "Introductory Toxicology",
+        "prereq": "PHM140H1 ; PHM142H1 ; PHM143H1 ; PHM144H1 ; PHM145H1 ; PSL205H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM348H1",
+        "name": "Intermediate Pharmacy Practice Experience",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM350H1",
+        "name": "Pharmacotherapy in Ambulatory Care",
+        "prereq": "PHM101H1 ; PHM105H1 ; PHM146H1 ; PHM201H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM206H1 ; PHM230H1 ; PHM305H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM351H1",
+        "name": "Pharmacotherapy in Institutional Care",
+        "prereq": "PHM101H1 ; PHM113H1 ; PHM140H1 ; PHM141H1 ; PHM142H1 ; PHM144H1 ; PHM146H1 ; PHM305H1 ; PHM340H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM352H1",
+        "name": "Pharmacotherapy in Older Adults",
+        "prereq": "PHM101H1 ; PHM143H1 ; PHM144H1 ; PHM145H1 ; PHM146H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM301H1 ; PHM302H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM353H1",
+        "name": "Pharmacotherapy in Critical Care",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM354H1",
+        "name": "Pharmacotherapy in Pediatrics",
+        "prereq": "PHM101H1 ; PHM113H1 ; PHM144H1 ; PHM146H1 ; PHM202H1 ; PHM203H1 ; PHM204H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM355H1",
+        "name": "Pharmacotherapy in Women's Health",
+        "prereq": "PHM202H1 ; PHM206H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM360H1",
+        "name": "Personalized Medicine",
+        "prereq": "PHM140H1 ; PHM144H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM361H1",
+        "name": "Latest Developments in Drugs & Biologics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM362H1",
+        "name": "Assessing the Bioavailability & Bioequivalence of Medicinal Drug Products",
+        "prereq": "PHM141H1 ; PHM144H1 ; PHM241H1",
+        "exclusion": "PHC331H1",
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM370H1",
+        "name": "Community Pharmacy Management",
+        "prereq": "PHM215H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM371H1",
+        "name": "Institutional Pharmacy Practice Management",
+        "prereq": "PHM215H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM381H1",
+        "name": "Medical Imaging for Pharmacists",
+        "prereq": "PHM202H1 ; PHM204H1 ; PHM241H1 ; PHM301H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM383H1",
+        "name": "Antimicrobial Stewardship",
+        "prereq": "PHM203H1 ; PHM242H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM384H1",
+        "name": "Teaching & Learning",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM385H1",
+        "name": "Diabetes Care",
+        "prereq": "PHM101H1 ; PHM105H1 ; PHM201H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM206H1 ; PHM301H1 ; PHM302H1 ; PHM305H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM386H1",
+        "name": "Mental Health & Addictions",
+        "prereq": "PHM302H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM387H1",
+        "name": "Global Health",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM388H1",
+        "name": "Self-Care and Minor Ailment Prescribing - Advanced Topics",
+        "prereq": "PHM105H1 ; PHM205H1 ; PHM206H1 ; PHM305H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM389H1",
+        "name": "Research Project",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM392H1",
+        "name": "Advanced Pharmacotherapy of Infectious Diseases",
+        "prereq": "PHM203H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM400H1",
+        "name": "Transition to Advanced Pharmacy Practice Experience",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM401H1",
+        "name": "Institutional Practice Direct Patient Care 1",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM402H1",
+        "name": "Institutional Practice Direct Patient Care 2",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM414Y1",
+        "name": "Community Practice Direct Patient Care",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM424H1",
+        "name": "Selective Direct Patient Care",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM451H1",
+        "name": "Elective Direct Patient Care 1",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM452H1",
+        "name": "Elective Direct Patient Care 2",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM461H1",
+        "name": "Elective Non Direct Patient Care 1",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=1"
+    },
+    {
+        "code": "PHM462H1",
+        "name": "Elective Non Direct Patient Care 2",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM488H1",
+        "name": "Independent Study Course in Social and Administrative Pharmacy",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM520H1",
+        "name": "Global Pharmaceutical Policy",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM521H1",
+        "name": "Selected Topics in the Pharmaceutical Industry",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM525H1",
+        "name": "Indigenous Health & Healing",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM550H1",
+        "name": "Pharmacotherapy in Ambulatory Care",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM551H1",
+        "name": "Pharmacotherapy in Institutional Care",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM552H1",
+        "name": "Pharmacotherapy in Older Adults",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM553H1",
+        "name": "Pharmacotherapy in Critical Care",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM581H1",
+        "name": "Medical Imaging for Pharmacists",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM587H1",
+        "name": "Global Health",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM601H1",
+        "name": "Found. Adv. Pharmacy Practice",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM606H1",
+        "name": "Critical Appraisal",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM616H1",
+        "name": "Advanced Pharmacokinetics",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM617H1",
+        "name": "Sel.Topics in Social Admin PHM",
+        "prereq": "PHM606H1",
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM618H1",
+        "name": "Educational Theory and Practice",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM619H1",
+        "name": "Physical Findings & Assessment",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM622H1",
+        "name": "Patient/Medication Safety",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM650H1",
+        "name": "Contemporary Topics in Nephrology",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM651H1",
+        "name": "Contemporary Topics in Infectious Diseases",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM652H1",
+        "name": "Contemporary Topics in Primary Care",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM653H1",
+        "name": "Contemporary Topics in Oncology",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM654H1",
+        "name": "Contemporary Topics in Cardiovascular Diseases",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM655H1",
+        "name": "Contemporary Topics in Addictions and Mental Health",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM751H1",
+        "name": "Direct Patient Care Rot. I",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM752H1",
+        "name": "Direct Patient Care Rot. II",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM753H1",
+        "name": "Direct Patient Care Rot. III",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM761H1",
+        "name": "Elective Rotation I",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    },
+    {
+        "code": "PHM762H1",
+        "name": "Elective Rotation II",
+        "prereq": null,
+        "exclusion": null,
+        "corequisite": null,
+        "breadth": null,
+        "source_url": "https://pharmacy.calendar.utoronto.ca/search-courses?page=2"
+    }
+]
