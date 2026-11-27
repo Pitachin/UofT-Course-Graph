@@ -36,6 +36,28 @@ For instance, take our notorious pure math course, `MAT158H1`. The corresponding
 - [University of Toronto Scarborough](https://utsc.calendar.utoronto.ca/search-courses)
 - [Timetable Builder](https://ttb.utoronto.ca/)
 
+
+### Finding
+
+###### 1.1 Code Pattern
+
+1. UTSG course
+e.g. `MAT158H1` -> `[A-Z]{3}\d{3}[HY][10]` ( Exception: `APS299Y0` at Engineering )
+2. UTM course
+e.g. `MAT137H5` -> `[A-Z]{3}\d{3}[HY]5`
+3. UTSC course
+e.g. `MATA31H3` -> `[A-Z]{4}\d{2}[HY]3`
+4. SGS
+e.g. `STA4518H` -> `[A-Z]{3}\d{4}[HY]`
+
+Thus, in general, the regular expression of all course code should be:
+```
+pattern = {
+    r'\b(?:[A-Z]{3}\d{3}[HY][015]|[A-Z]{4}\d{2}[HY]3|[A-Z]{3}\d{4}[HY])\b'
+}
+```
+
+
 ### Reference
 
 1. [Course-Prerequisite Networks for Analyzing and Understanding Academic Curricula](https://arxiv.org/abs/2210.01269)
