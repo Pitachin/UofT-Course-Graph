@@ -146,9 +146,11 @@ def scrape_courses(url: str) -> list[dict[str, str | None]]:
     return all_courses
 
 if __name__ == '__main__':
-    url = 'https://utsc.calendar.utoronto.ca/course-search'
-    
-    all_courses = scrape_courses(URL['ischool'])
-    _save_json(all_courses, 'ischool_raw.json')
 
-    print(f'Successfully scraped {len(all_courses)} courses.')
+    for faculty, url in URL.items():
+        print(f'Scraping {faculty}...')
+
+        all_courses = scrape_courses(url)
+        _save_json(all_courses, f'{faculty}.json')
+
+        print(f'Successfully scraped {len(all_courses)} courses.')
