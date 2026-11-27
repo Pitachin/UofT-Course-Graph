@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup, Tag
 import json
 import asyncio
+import re
 
 URL = {
     'art&sci': 'https://artsci.calendar.utoronto.ca/search-courses',
@@ -18,6 +19,20 @@ URL = {
     "oise": "https://oise.academic-guide.utoronto.ca/search-courses",
 }
 
+PATTERN = (
+    r'\b(?:'
+    r'[A-Z]{3}\d{3}[HY][015]|'
+    r'[A-Z]{4}\d{2}[HY]3|'
+    r'[A-Z]{3}\d{4}[HY]'
+    r')\b'
+)
+
+EXCEPTIONS = {
+    'KPE433H',
+    'ARC2016',
+    'ARC3300',
+    'RSM2026'
+}
 
 def _extract_text(tag: Tag | None) -> str | None:
     """Return the text of tag. If it is None then return None."""
@@ -48,6 +63,24 @@ def _get_last_page(soup: BeautifulSoup) -> int:
     href = last_page['href']
     return int(''.join(c for c in href if c.isdigit()))
 
+def _parse_title(title: str | None) -> tuple[str, str] | None:
+    """Extract and validate the course code and name."""
+
+    if title is None:
+        return None
+
+    for separator in [' - ', ' • ', ' – ', ' — ']:
+        if separator in title:
+            code, name = title.split(separator, 1)
+
+            code = code.strip().upper()
+            name = name.strip()
+
+            if re.fullmatch(PATTERN, code) or code in EXCEPTIONS:
+                return code, name
+
+    return None
+
 def _parse_course(
         course: Tag,
         page: int,
@@ -72,15 +105,14 @@ def _parse_course(
 
     assert title_tag is not None, course.prettify()
 
-    title = title_tag.get('aria-label')
-    # utsg case
-    if title is None or ' - ' not in title:
-        title = _extract_text(title_tag)
-    # utm case
-    if title is not None:
-        title = title.replace(' • ', ' - ', 1)
+    title = _parse_title(title_tag.get('aria-label'))
 
-    code, name = title.split(' - ', 1)
+    if title is None:
+        title = _parse_title(_extract_text(title_tag))
+
+    assert title is not None, course.prettify()
+
+    code, name = title
 
     prereq = _extract_text(
         course.select_one(
@@ -169,7 +201,6 @@ async def main() -> None:
         tasks.append(task)
 
     await asyncio.gather(*tasks)
-
 
 if __name__ == '__main__':
     asyncio.run(main())

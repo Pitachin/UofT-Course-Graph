@@ -73,7 +73,7 @@
     },
     {
         "code": "ACMD98H3",
-        "name": "Experiential Learning for Arts, Culture and Media Programs ",
+        "name": "Experiential Learning for Arts, Culture and Media Programs",
         "prereq": "[9.0 credits in courses offered by the Department of Arts, and Culture and Media], and cGPA of at least 2.5; selection will be based on the application form",
         "exclusion": null,
         "corequisite": null,
@@ -334,7 +334,7 @@
     },
     {
         "code": "ANTB15H3",
-        "name": "Human Biological Variation and Evolution ",
+        "name": "Human Biological Variation and Evolution",
         "prereq": "ANTA01H3 or [ HLTA02H3 and HLTA03H3 ]",
         "exclusion": "ANT203Y, HLTB20H3",
         "corequisite": null,
@@ -370,7 +370,7 @@
     },
     {
         "code": "ANTB20H3",
-        "name": "Ethnography and the Global Contemporary ",
+        "name": "Ethnography and the Global Contemporary",
         "prereq": "ANTA02H3 or [any 2.0 credits in ANT, HLT, IDS, CIT, GGR, POL, SOC or HCS courses]",
         "exclusion": "ANT204Y, ANT204H",
         "corequisite": null,
@@ -649,7 +649,7 @@
     },
     {
         "code": "ANTC29H3",
-        "name": "Archaeologies of North America ",
+        "name": "Archaeologies of North America",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -685,7 +685,7 @@
     },
     {
         "code": "ANTC33H3",
-        "name": " Of Gods and Humans: Anthropological Approaches to Religion",
+        "name": "Of Gods and Humans: Anthropological Approaches to Religion",
         "prereq": "[ANTB19H3 and ANTB20H3 ] or [any 4.0 credits]",
         "exclusion": "(ANTB30H3)",
         "corequisite": null,
@@ -703,7 +703,7 @@
     },
     {
         "code": "ANTC42H3",
-        "name": "Human Growth and Development ",
+        "name": "Human Growth and Development",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -712,7 +712,7 @@
     },
     {
         "code": "ANTC47H3",
-        "name": "Human Skeletal Anatomy and Biology ",
+        "name": "Human Skeletal Anatomy and Biology",
         "prereq": "ANTA01H3 or BIOB33H3 or HLTB33H3 or PMDB33H3",
         "exclusion": "ANT334H, ANT334Y",
         "corequisite": null,
@@ -802,7 +802,7 @@
     },
     {
         "code": "ANTC65H3",
-        "name": "Anthropology of Science, Medicine, and Technology ",
+        "name": "Anthropology of Science, Medicine, and Technology",
         "prereq": "[ANTB19H3 and ANTB20H3 ] or [any 4.0 credits]",
         "exclusion": "Students who enrolled in ANTC69H3 in Fall 2023 may not take this course for credit.",
         "corequisite": null,
@@ -991,7 +991,7 @@
     },
     {
         "code": "ANTD18H3",
-        "name": "Palaeolithic Archaeology ",
+        "name": "Palaeolithic Archaeology",
         "prereq": "ANTA01H3",
         "exclusion": null,
         "corequisite": null,
@@ -1027,7 +1027,7 @@
     },
     {
         "code": "ANTD25H3",
-        "name": "Medical Anthropology at the Human-Animal Interface ",
+        "name": "Medical Anthropology at the Human-Animal Interface",
         "prereq": "ANTA01H3 or ANTA02H3",
         "exclusion": null,
         "corequisite": null,
@@ -2053,7 +2053,7 @@
     },
     {
         "code": "BIOD66H3",
-        "name": "Quantitative Ecological and Biodiversity Analysis ",
+        "name": "Quantitative Ecological and Biodiversity Analysis",
         "prereq": "BIOB51H3 and [Completion of at least 0.5 credit at the C level in Biological Sciences]",
         "exclusion": null,
         "corequisite": null,
@@ -2287,7 +2287,7 @@
     },
     {
         "code": "CHMD11H3",
-        "name": "Application of Spectroscopy in Chemical Structure Determination ",
+        "name": "Application of Spectroscopy in Chemical Structure Determination",
         "prereq": "CHMB16H3 and CHMC11H3",
         "exclusion": "CHM442H5",
         "corequisite": null,
@@ -2746,7 +2746,7 @@
     },
     {
         "code": "CLAC05H3",
-        "name": " Beyond Cleopatra: Decolonial Approaches to Ancient Egypt",
+        "name": "Beyond Cleopatra: Decolonial Approaches to Ancient Egypt",
         "prereq": "Any 4.0 credits, including 0.5 credit from the following: CLAA04H3 / HISA07H3 or CLAB05H3 / HISB10H3 or CLAB06H3 / HISB11H3",
         "exclusion": "HISC10H3 ,(IEEC52H3)",
         "corequisite": null,
@@ -2791,7 +2791,7 @@
     },
     {
         "code": "CLAC26H3",
-        "name": "Indigeneity and the Classics  ",
+        "name": "Indigeneity and the Classics",
         "prereq": "Any 4.0 credits, including 1.0 credit in CLA or HIS courses",
         "exclusion": "HISC16H3",
         "corequisite": null,
@@ -2899,7 +2899,7 @@
     },
     {
         "code": "COPB31H3",
-        "name": "Passport to Placement II                   ",
+        "name": "Passport to Placement II",
         "prereq": "COPB30H3 /(COPD02H3)",
         "exclusion": "(COPD04H3); COPB30H3 (if taken in Fall 2020 or earlier)",
         "corequisite": null,
@@ -2926,7 +2926,7 @@
     },
     {
         "code": "COPB53H3",
-        "name": " Continuing your Co-op Job Search",
+        "name": "Continuing your Co-op Job Search",
         "prereq": "COPB55H3 or COPB57H3 or COPB59H3 or (COPB52H3); restricted to students in the Arts and Science Co-op programs.",
         "exclusion": null,
         "corequisite": null,
@@ -3592,7 +3592,7 @@
     },
     {
         "code": "ECTB58H3",
-        "name": "Foundations of Translation ",
+        "name": "Foundations of Translation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3700,7 +3700,7 @@
     },
     {
         "code": "ECTC67H3",
-        "name": "Special Topics in Translation ",
+        "name": "Special Topics in Translation",
         "prereq": "[ ECTB58H3 or ECTB61H3 ] and completion of 4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -3772,7 +3772,7 @@
     },
     {
         "code": "ECTD70H3",
-        "name": "Transcultural Translations of the Wild ",
+        "name": "Transcultural Translations of the Wild",
         "prereq": "ECTC63H3",
         "exclusion": null,
         "corequisite": null,
@@ -4060,7 +4060,7 @@
     },
     {
         "code": "EESC29H3",
-        "name": "Environmental Geophysics ",
+        "name": "Environmental Geophysics",
         "prereq": "EESB15H3",
         "exclusion": "(EESB22H3)",
         "corequisite": null,
@@ -4123,7 +4123,7 @@
     },
     {
         "code": "EESC38H3",
-        "name": "The Anthropocene ",
+        "name": "The Anthropocene",
         "prereq": "ESTB01H3 and [1.0 credit from the following: EESB03H3 , EESB04H3 and EESB05H3 ]",
         "exclusion": "ESTC38H3",
         "corequisite": null,
@@ -4312,7 +4312,7 @@
     },
     {
         "code": "ENGA03H3",
-        "name": "Introduction to Creative Writing ",
+        "name": "Introduction to Creative Writing",
         "prereq": "High school English or Creative Writing",
         "exclusion": "ENG289H1",
         "corequisite": null,
@@ -4573,7 +4573,7 @@
     },
     {
         "code": "ENGB40H3",
-        "name": "Video Games and Literature ",
+        "name": "Video Games and Literature",
         "prereq": null,
         "exclusion": "SMC198",
         "corequisite": null,
@@ -4771,7 +4771,7 @@
     },
     {
         "code": "ENGC15H3",
-        "name": "Introduction to Theory and Criticism ",
+        "name": "Introduction to Theory and Criticism",
         "prereq": "Any 6.0 credits",
         "exclusion": "ENG280H, (ENG267H)",
         "corequisite": null,
@@ -4825,7 +4825,7 @@
     },
     {
         "code": "ENGC21H3",
-        "name": "The Victorian Novel ",
+        "name": "The Victorian Novel",
         "prereq": "Any 6.0 credits",
         "exclusion": "ENG324Y",
         "corequisite": null,
@@ -4834,7 +4834,7 @@
     },
     {
         "code": "ENGC22H3",
-        "name": "Victorian Popular Fiction ",
+        "name": "Victorian Popular Fiction",
         "prereq": "Any 6.0 credits",
         "exclusion": "ENG324Y",
         "corequisite": null,
@@ -5095,7 +5095,7 @@
     },
     {
         "code": "ENGC59H3",
-        "name": "Literature and the Environment ",
+        "name": "Literature and the Environment",
         "prereq": "Any 6.0 credits or [ SOCB58H3 , and an additional 4.0 credits, and enrolment in the Minor in Culture, Creativity, and Cities]",
         "exclusion": null,
         "corequisite": null,
@@ -5653,7 +5653,7 @@
     },
     {
         "code": "ESTC38H3",
-        "name": "The Anthropocene ",
+        "name": "The Anthropocene",
         "prereq": "ESTB01H3 and [1.0 credit from the following: EESB03H3 , EESB04H3 and EESB05H3 ]",
         "exclusion": "EESC38H3",
         "corequisite": null,
@@ -5662,7 +5662,7 @@
     },
     {
         "code": "ESTC40H3",
-        "name": "Technical Methods for Climate Change Mitigation ",
+        "name": "Technical Methods for Climate Change Mitigation",
         "prereq": "10.0 credits including ESTB04H3",
         "exclusion": null,
         "corequisite": null,
@@ -5707,7 +5707,7 @@
     },
     {
         "code": "ESTD20H3",
-        "name": "Integrated Natural Resource and Climate Change Governance ",
+        "name": "Integrated Natural Resource and Climate Change Governance",
         "prereq": "14.0 credits including ESTB04H3",
         "exclusion": null,
         "corequisite": null,
@@ -5716,7 +5716,7 @@
     },
     {
         "code": "FLMA70H3",
-        "name": "How to Read a Film ",
+        "name": "How to Read a Film",
         "prereq": null,
         "exclusion": "INI115Y, (ENGB70H3)",
         "corequisite": null,
@@ -5815,7 +5815,7 @@
     },
     {
         "code": "FLMC82H3",
-        "name": "Topics in Cinema Studies ",
+        "name": "Topics in Cinema Studies",
         "prereq": "Any 6.0 credits",
         "exclusion": "(ENGC82H3)",
         "corequisite": null,
@@ -5950,7 +5950,7 @@
     },
     {
         "code": "FREA90Y3",
-        "name": "Intensive Introductory French ",
+        "name": "Intensive Introductory French",
         "prereq": null,
         "exclusion": "(LGGA21H3), (LGGA22H3), (LGGB23H3), (LGGB24H3), FREA96H3 , FREA97H3 , [ FSL100H1 or equivalent], or any prior knowledge of French",
         "corequisite": null,
@@ -5959,7 +5959,7 @@
     },
     {
         "code": "FREA91Y3",
-        "name": "Intensive Intermediate French ",
+        "name": "Intensive Intermediate French",
         "prereq": "FREA90Y3 or FREA97H3",
         "exclusion": "FREA98H3 , FREA99H3 , [ LGGB23H3 or equivalent], or FSL121Y1",
         "corequisite": null,
@@ -6274,7 +6274,7 @@
     },
     {
         "code": "FREC46H3",
-        "name": "French Syntax ",
+        "name": "French Syntax",
         "prereq": "FREB45H3",
         "exclusion": "LINC11H3 , FRE378H, LIN232H, LIN331H",
         "corequisite": null,
@@ -6445,7 +6445,7 @@
     },
     {
         "code": "FRED28H3",
-        "name": "Special Topics in Translation ",
+        "name": "Special Topics in Translation",
         "prereq": "FREC18H3 or equivalent",
         "exclusion": null,
         "corequisite": null,
@@ -6544,7 +6544,7 @@
     },
     {
         "code": "FSTC14H3",
-        "name": "Culinary Practice for Health ",
+        "name": "Culinary Practice for Health",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -6562,7 +6562,7 @@
     },
     {
         "code": "FSTC24H3",
-        "name": "Gender in the Kitchen ",
+        "name": "Gender in the Kitchen",
         "prereq": "8.0 credits, including [0.5 credit at the A or B-level in FST courses]",
         "exclusion": "WSTC24H3",
         "corequisite": null,
@@ -6616,7 +6616,7 @@
     },
     {
         "code": "FSTD02H3",
-        "name": "Special Topics in Food Studies ",
+        "name": "Special Topics in Food Studies",
         "prereq": "Any 8.0 credits including 1.0 credit from the Food Studies Courses Table",
         "exclusion": null,
         "corequisite": null,
@@ -6796,7 +6796,7 @@
     },
     {
         "code": "GASC13H3",
-        "name": "Where is home? The Past, Present and Future of Tamil Diasporic Belonging  ",
+        "name": "Where is home? The Past, Present and Future of Tamil Diasporic Belonging",
         "prereq": "Any 4.0 credits, including [0.5 at the A- or B-level in CLA, GAS, HIS or WST or any Social Science courses]",
         "exclusion": null,
         "corequisite": null,
@@ -6868,7 +6868,7 @@
     },
     {
         "code": "GASC48H3",
-        "name": "Partition in South Asia ",
+        "name": "Partition in South Asia",
         "prereq": "Any 4.0 credits, including 0.5 credit at the A- or B-level in HIS or GAS courses",
         "exclusion": null,
         "corequisite": null,
@@ -7498,7 +7498,7 @@
     },
     {
         "code": "GGRD16H3",
-        "name": "Work and Livelihoods in the GTA ",
+        "name": "Work and Livelihoods in the GTA",
         "prereq": "13.0 credits including [ GGRB05H3 or CITA01H3 /(CITB02H3)]",
         "exclusion": "SOCB54H3 and GGRD25H3 (if taken in Winter 2022)",
         "corequisite": null,
@@ -7588,7 +7588,7 @@
     },
     {
         "code": "HCSB04H3",
-        "name": "Research Practicum in Historical and Cultural Studies ",
+        "name": "Research Practicum in Historical and Cultural Studies",
         "prereq": "HCSB03H3",
         "exclusion": null,
         "corequisite": null,
@@ -7597,7 +7597,7 @@
     },
     {
         "code": "HCSC01H3",
-        "name": "Experiential Learning in Historical and Cultural Studies ",
+        "name": "Experiential Learning in Historical and Cultural Studies",
         "prereq": "Students must be in Year 3 or 4 of their studies, and enrolled in an HCS subject POSt, and must have completed 3.0 credits of their HCS program",
         "exclusion": "CTLB03H3 , WSTC23H3",
         "corequisite": null,
@@ -7804,7 +7804,7 @@
     },
     {
         "code": "HISB48H3",
-        "name": "Animals, Science, and Society ",
+        "name": "Animals, Science, and Society",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -7831,7 +7831,7 @@
     },
     {
         "code": "HISB52H3",
-        "name": "African Religious Traditions Through History ",
+        "name": "African Religious Traditions Through History",
         "prereq": null,
         "exclusion": "AFSB01H3 , (AFSA02H3)",
         "corequisite": null,
@@ -7876,7 +7876,7 @@
     },
     {
         "code": "HISB59H3",
-        "name": "Science, Technology, Medicine and Empire ",
+        "name": "Science, Technology, Medicine and Empire",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -8020,7 +8020,7 @@
     },
     {
         "code": "HISC11H3",
-        "name": "Race and Ethnicity in the Ancient Mediterranean and West Asian Worlds ",
+        "name": "Race and Ethnicity in the Ancient Mediterranean and West Asian Worlds",
         "prereq": "1.0 credit in CLA or HIS courses.",
         "exclusion": "CLAC24H3",
         "corequisite": null,
@@ -8029,7 +8029,7 @@
     },
     {
         "code": "HISC16H3",
-        "name": "Indigeneity and the Classics  ",
+        "name": "Indigeneity and the Classics",
         "prereq": "Any 4.0 credits, including 1.0 credit in CLA or HIS courses",
         "exclusion": "CLAC26H3",
         "corequisite": null,
@@ -8299,7 +8299,7 @@
     },
     {
         "code": "HISC77H3",
-        "name": "Soccer and the Modern World ",
+        "name": "Soccer and the Modern World",
         "prereq": "Any 4.0 credits, including 0.5 credit at the A- or B-level in HIS courses",
         "exclusion": "HIS482H1 /(HIS199H1)",
         "corequisite": null,
@@ -8443,7 +8443,7 @@
     },
     {
         "code": "HISD21H3",
-        "name": "Black Women in Canadian History ",
+        "name": "Black Women in Canadian History",
         "prereq": "Any 8.0 credits, including: [0.5 credit at the A- or B-level in HIS courses] and [0.5 credit at the C-level in HIS courses]",
         "exclusion": null,
         "corequisite": null,
@@ -8542,7 +8542,7 @@
     },
     {
         "code": "HISD49H3",
-        "name": "Environments and People in African History ",
+        "name": "Environments and People in African History",
         "prereq": "AFSB50H3 / HISB50H3 or AFSB51H3 / HISB51H3 or AFSB54H3 / HISB54H3 or AFSC55H3 / HISC55H3 or AFSC97H3 / HISC97H3",
         "exclusion": null,
         "corequisite": null,
@@ -8596,7 +8596,7 @@
     },
     {
         "code": "HISD57H3",
-        "name": "Conflict in the Horn of Africa, 13th through 21st Centuries ",
+        "name": "Conflict in the Horn of Africa, 13th through 21st Centuries",
         "prereq": "AFSC52H3 / HISC52H3 / VPHC52H3",
         "exclusion": null,
         "corequisite": null,
@@ -8650,7 +8650,7 @@
     },
     {
         "code": "HISD66H3",
-        "name": "Documenting Conflict and Peacemaking in the Modern Middle East ",
+        "name": "Documenting Conflict and Peacemaking in the Modern Middle East",
         "prereq": "Any 8.0 credits, including [0.5 credit at the A- or B-level in HIS courses] and [0.5 credit at the C-level in HIS courses]",
         "exclusion": null,
         "corequisite": null,
@@ -8785,7 +8785,7 @@
     },
     {
         "code": "HLTB27H3",
-        "name": "Applied Statistics for Public Health ",
+        "name": "Applied Statistics for Public Health",
         "prereq": "HLTA03H3 and STAB23H3",
         "exclusion": null,
         "corequisite": null,
@@ -8893,7 +8893,7 @@
     },
     {
         "code": "HLTC04H3",
-        "name": "Qualitative Health Research ",
+        "name": "Qualitative Health Research",
         "prereq": "HLTB15H3",
         "exclusion": null,
         "corequisite": null,
@@ -8929,7 +8929,7 @@
     },
     {
         "code": "HLTC20H3",
-        "name": "Global Disability Studies ",
+        "name": "Global Disability Studies",
         "prereq": "HLTB60H3",
         "exclusion": null,
         "corequisite": null,
@@ -8992,7 +8992,7 @@
     },
     {
         "code": "HLTC28H3",
-        "name": "Special Topics in Health Sciences ",
+        "name": "Special Topics in Health Sciences",
         "prereq": "HLTB22H3",
         "exclusion": null,
         "corequisite": null,
@@ -9028,7 +9028,7 @@
     },
     {
         "code": "HLTC32H3",
-        "name": "Biomedical Data Science ",
+        "name": "Biomedical Data Science",
         "prereq": "HLTB27H3 or STAC33H3",
         "exclusion": null,
         "corequisite": null,
@@ -9127,7 +9127,7 @@
     },
     {
         "code": "HLTC53H3",
-        "name": "Creative Research Practices in Aging ",
+        "name": "Creative Research Practices in Aging",
         "prereq": "HLTB50H3 or enrolment in the Minor in Aging and Society",
         "exclusion": null,
         "corequisite": null,
@@ -9163,7 +9163,7 @@
     },
     {
         "code": "HLTC81H3",
-        "name": "Health Professions and Practice ",
+        "name": "Health Professions and Practice",
         "prereq": "HLTB40H3",
         "exclusion": null,
         "corequisite": null,
@@ -9235,7 +9235,7 @@
     },
     {
         "code": "HLTD09H3",
-        "name": "Population Perspectives on Reproductive Health ",
+        "name": "Population Perspectives on Reproductive Health",
         "prereq": "HLTC27H3 and 1.0 credit at the C-level in HLT courses from the requirements of the Major/Major Co-op programs in Population Health",
         "exclusion": null,
         "corequisite": null,
@@ -9271,7 +9271,7 @@
     },
     {
         "code": "HLTD18H3",
-        "name": "Dental Sciences ",
+        "name": "Dental Sciences",
         "prereq": "[ HLTB44H3 , HLTC19H3 , HLTC23H3 and 0.5 credit in any Physiology course] or [ BIOC32H3 and BIOC34H3 ]",
         "exclusion": "HMB474H1",
         "corequisite": null,
@@ -9370,7 +9370,7 @@
     },
     {
         "code": "HLTD44H3",
-        "name": "Environmental Contaminants, Vulnerability, and Toxicity ",
+        "name": "Environmental Contaminants, Vulnerability, and Toxicity",
         "prereq": "[ ANTC67H3 or HLTC27H3 ] and BIOB10H3 or HLTB22H3",
         "exclusion": null,
         "corequisite": null,
@@ -9892,7 +9892,7 @@
     },
     {
         "code": "IDSD20H3",
-        "name": "Thinking Conflict, Security, and Development ",
+        "name": "Thinking Conflict, Security, and Development",
         "prereq": "[12.0 including ( IDSA01H3 or AFSA01H3 or POLC09H3 )] or by instructor’s permission",
         "exclusion": "AFSD20H3",
         "corequisite": null,
@@ -9973,7 +9973,7 @@
     },
     {
         "code": "JOUB14H3",
-        "name": "Mobile Journalism ",
+        "name": "Mobile Journalism",
         "prereq": "9.0 credits, including: JOUA01H3 and JOUA02H3 and JOUB01H3 and JOUB02H3 and CGPA of 2.0",
         "exclusion": null,
         "corequisite": "JOUA06H3 and JOUB11H3 and JOUB18H3 and JOUB19H3",
@@ -10243,7 +10243,7 @@
     },
     {
         "code": "LGGA72Y3",
-        "name": "Intensive Introductory Hindi ",
+        "name": "Intensive Introductory Hindi",
         "prereq": null,
         "exclusion": "LGGA70H, LGGA71H, HIN212Y, NEW212Y, any prior knowledge of Hindi. The instructor has the authority to exclude students whose level of proficiency is unsuitable for the course.",
         "corequisite": null,
@@ -10279,7 +10279,7 @@
     },
     {
         "code": "LGGA78Y3",
-        "name": "Intensive Introductory Bengali ",
+        "name": "Intensive Introductory Bengali",
         "prereq": null,
         "exclusion": "Any knowledge of Bengali. The instructor has the authority to exclude students whose level of proficiency is unsuitable for the course.",
         "corequisite": null,
@@ -10306,7 +10306,7 @@
     },
     {
         "code": "LGGA82Y3",
-        "name": "Intensive Introductory Japanese ",
+        "name": "Intensive Introductory Japanese",
         "prereq": null,
         "exclusion": "LGGA80H, LGGA81H, EAS120Y. The instructor has the authority to exclude students whose level of proficiency is unsuitable for the course.",
         "corequisite": null,
@@ -10477,7 +10477,7 @@
     },
     {
         "code": "LGGD66H3",
-        "name": "Literary Chinese and English Translations ",
+        "name": "Literary Chinese and English Translations",
         "prereq": "A working knowledge of Modern Chinese and English",
         "exclusion": "(LGGC67H3), (EAS306Y), EAS358Y1 , EAS455H1 , EAS458H1 , CHI311H5 , CHI408H5 , CHI409H5",
         "corequisite": null,
@@ -10486,7 +10486,7 @@
     },
     {
         "code": "LGGD67H3",
-        "name": "Classical Chinese and English Translations ",
+        "name": "Classical Chinese and English Translations",
         "prereq": "A working knowledge of Modern Chinese and English",
         "exclusion": "(LGGC66H3), (EAS206Y), EAS218H1 , (EAS306Y), EAS358Y1 , EAS455H1 , EAS458H1 , CHI311H5 , CHI408H5 , CHI409H5",
         "corequisite": null,
@@ -10594,7 +10594,7 @@
     },
     {
         "code": "LINB60H3",
-        "name": "Comparative Study of English and Chinese ",
+        "name": "Comparative Study of English and Chinese",
         "prereq": "LINB06H3 or LINB18H3",
         "exclusion": "LGGA60H3 , LGGA61H3 , (LINC60H3)",
         "corequisite": null,
@@ -10765,7 +10765,7 @@
     },
     {
         "code": "LIND11H3",
-        "name": "Advanced Sociolinguistic Theory and Method   ",
+        "name": "Advanced Sociolinguistic Theory and Method",
         "prereq": "LINB20H3",
         "exclusion": "LIN456H1 , LIN351H1 , LIN458H",
         "corequisite": null,
@@ -11440,7 +11440,7 @@
     },
     {
         "code": "MDSA12H3",
-        "name": "Writing for Media Studies ",
+        "name": "Writing for Media Studies",
         "prereq": null,
         "exclusion": "ACMB10H3",
         "corequisite": null,
@@ -11476,7 +11476,7 @@
     },
     {
         "code": "MDSB13H3",
-        "name": "Media Studies in the Global South ",
+        "name": "Media Studies in the Global South",
         "prereq": "[ MDSA10H3 , MDSA11H3 , MDSA12H3 , and MDSA13H3 ] OR [ MDSA10H3 , MDSA11H3 , JOUA01H3 , and JOUA02H3 ] if enrolled in Major program in Media, Journalism and Digital Cultures; or MDSA11H3 and MDSA13H3 if enrolled in Minor program in Media Studies.",
         "exclusion": null,
         "corequisite": null,
@@ -11611,7 +11611,7 @@
     },
     {
         "code": "MDSB35H3",
-        "name": "Platform Labour ",
+        "name": "Platform Labour",
         "prereq": "[Enrolment in the Major program in Media and Communication Studies and [ MDSA10H3 or (MDSA01H3)] and MDSA11H3 and [ MDSA13H3 or (MDSA02H3)]] or [Enrolment in the Minor Program in Media Studies and MDSA11H3 and [ MDSA13H3 or (MDSA02H3)]]",
         "exclusion": null,
         "corequisite": null,
@@ -11719,7 +11719,7 @@
     },
     {
         "code": "MDSC26H3",
-        "name": "Media, Technology & Disability Justice ",
+        "name": "Media, Technology & Disability Justice",
         "prereq": "[Enrolment in the Major program in Media and Communication Studies and 3.0 credits at the MDS B-level including MDSB21H3 ] or [Enrolment in the Minor program in Media Studies and 2.0 credits at the MDS B-level including MDSB21H3 ]",
         "exclusion": null,
         "corequisite": null,
@@ -11728,7 +11728,7 @@
     },
     {
         "code": "MDSC27H3",
-        "name": "Digital Research Ethics ",
+        "name": "Digital Research Ethics",
         "prereq": "[Enrolment in the Major program in Media and Communication Studies and 3.0 credits at the MDS B-level] or [Enrolment in the Minor program in Media Studies and 2.0 credits at the MDS B-level]",
         "exclusion": null,
         "corequisite": null,
@@ -12718,7 +12718,7 @@
     },
     {
         "code": "MGHC55H3",
-        "name": "International Management OBHR Field Course ",
+        "name": "International Management OBHR Field Course",
         "prereq": "The completion of 7.5 credits including [ MGHA12H3 or MGIA12H3 ] and [ MGHB02H3 or MGIB02H3 ]",
         "exclusion": null,
         "corequisite": null,
@@ -13438,7 +13438,7 @@
     },
     {
         "code": "MUZA80H3",
-        "name": "Foundations in Musicianship ",
+        "name": "Foundations in Musicianship",
         "prereq": null,
         "exclusion": "(VPMA95H3)",
         "corequisite": null,
@@ -15130,7 +15130,7 @@
     },
     {
         "code": "PLID53H3",
-        "name": "Sentence Processing ",
+        "name": "Sentence Processing",
         "prereq": "LINB06H3 and PLIC55H3",
         "exclusion": null,
         "corequisite": null,
@@ -15310,7 +15310,7 @@
     },
     {
         "code": "POLB57H3",
-        "name": "The Canadian Constitution and the Charter of Rights  ",
+        "name": "The Canadian Constitution and the Charter of Rights",
         "prereq": "Any 4.0 credits or enrolment in an Arts and Science Co-op Degree POSt",
         "exclusion": "(POLB50Y3), (POLC68H3), (POL214Y)",
         "corequisite": null,
@@ -15436,7 +15436,7 @@
     },
     {
         "code": "POLC30H3",
-        "name": "Law, Politics and Technology ",
+        "name": "Law, Politics and Technology",
         "prereq": "POLB30H3 and POLB56H3",
         "exclusion": "N/A",
         "corequisite": "N/A",
@@ -16039,7 +16039,7 @@
     },
     {
         "code": "POLD91H3",
-        "name": "Protests and Social Movements in Comparative Perspective ",
+        "name": "Protests and Social Movements in Comparative Perspective",
         "prereq": "1.5 credits at the C-level in POL courses",
         "exclusion": "POL451H1",
         "corequisite": null,
@@ -16291,7 +16291,7 @@
     },
     {
         "code": "PSYB80H3",
-        "name": "Psychology in Context ",
+        "name": "Psychology in Context",
         "prereq": "PSYA01H3 , PSYA02H3",
         "exclusion": null,
         "corequisite": null,
@@ -16534,7 +16534,7 @@
     },
     {
         "code": "PSYC38H3",
-        "name": "Adult Psychopathology ",
+        "name": "Adult Psychopathology",
         "prereq": "PSYB32H3 and [ PSYA06H3 or (PSYB07H3) or STAB22H3 or STAB23H3 ] and PSYB70H3",
         "exclusion": "PSY340H1 , PSY342H1",
         "corequisite": null,
@@ -16831,7 +16831,7 @@
     },
     {
         "code": "PSYD23H3",
-        "name": "Dyadic Processes in Psychological Development ",
+        "name": "Dyadic Processes in Psychological Development",
         "prereq": "PSYB20H3 and [ PSYB06H3 or (PSYB07H3) or (PSYC08H3) or STAB22H3 * or STAB23H3 *] and PSYB70H3 and [0.5 credit at the C-level from PSY courses]",
         "exclusion": null,
         "corequisite": null,
@@ -16966,7 +16966,7 @@
     },
     {
         "code": "PSYD62H3",
-        "name": "Neuroscience of Pleasure and Reward ",
+        "name": "Neuroscience of Pleasure and Reward",
         "prereq": "PSYB55H3 and [ PSYB06H3 or (PSYB07H3) or (PSYC08H3) or STAB22H3 * or STAB23H3 *] and PSYB70H3 and [0.5 credit at the C-level from PSY or NRO courses]",
         "exclusion": "NROD60H3 if taken in Fall 2021 or Fall 2022",
         "corequisite": null,
@@ -17155,7 +17155,7 @@
     },
     {
         "code": "SOCB20H3",
-        "name": "The City and the Fight Against Climate Change ",
+        "name": "The City and the Fight Against Climate Change",
         "prereq": "[ SOCA05H3 or [(SOCA01H3) and (SOCA02H3)] or (SOCA03Y3)]",
         "exclusion": null,
         "corequisite": null,
@@ -17191,7 +17191,7 @@
     },
     {
         "code": "SOCB29H3",
-        "name": "Artificial Intelligence and Society ",
+        "name": "Artificial Intelligence and Society",
         "prereq": "[ SOCA05H3 or [(SOCA01H3) and (SOCA02H3)] or (SOCA03Y3)] or enrolment in the Social Data Science minor",
         "exclusion": null,
         "corequisite": null,
@@ -17227,7 +17227,7 @@
     },
     {
         "code": "SOCB40H3",
-        "name": "Thinking Like a Sociologist ",
+        "name": "Thinking Like a Sociologist",
         "prereq": "[ SOCA05H3 or (SOCA03Y3) or [(SOCA01H3) and (SOCA02H3)]]",
         "exclusion": "SOC230H5",
         "corequisite": null,
@@ -17650,7 +17650,7 @@
     },
     {
         "code": "SOCD03H3",
-        "name": "The Sociology of Neighbourhoods ",
+        "name": "The Sociology of Neighbourhoods",
         "prereq": "10.0 credits and SOCB05H3",
         "exclusion": null,
         "corequisite": null,
@@ -17776,7 +17776,7 @@
     },
     {
         "code": "SOCD32Y3",
-        "name": "Special Topics in the Practice of Research ",
+        "name": "Special Topics in the Practice of Research",
         "prereq": "[10.0 credits, including (SOCB05H3) and (SOCB35H3)] and [1.0 credit from the following: SOCB30H3 , SOCB42H3 , SOCB43H3 , SOCB47H3 ]",
         "exclusion": null,
         "corequisite": null,
@@ -17974,7 +17974,7 @@
     },
     {
         "code": "STAC62H3",
-        "name": "Probability and Stochastic Processes I ",
+        "name": "Probability and Stochastic Processes I",
         "prereq": "MATB41H3 and STAB52H3",
         "exclusion": "STA347H1",
         "corequisite": null,
@@ -18280,7 +18280,7 @@
     },
     {
         "code": "THRC30H3",
-        "name": "Theatrical Design ",
+        "name": "Theatrical Design",
         "prereq": "THRA10H3 /(VPDA10H3)",
         "exclusion": null,
         "corequisite": null,
@@ -18298,7 +18298,7 @@
     },
     {
         "code": "THRC41H3",
-        "name": "Theatre in Education ",
+        "name": "Theatre in Education",
         "prereq": "THRA10H3 /(VPDA10H3)",
         "exclusion": null,
         "corequisite": null,
@@ -18361,7 +18361,7 @@
     },
     {
         "code": "THRD31H3",
-        "name": "Advanced Performance ",
+        "name": "Advanced Performance",
         "prereq": "1.0 credit from the following: [ THRB30H3 , THRB31H3 , THRB32H3 ]",
         "exclusion": null,
         "corequisite": null,
@@ -18496,7 +18496,7 @@
     },
     {
         "code": "VPAC16H3",
-        "name": "Contracts and Copyright ",
+        "name": "Contracts and Copyright",
         "prereq": "8.0 credits including VPAA10H3 and VPAA12H3 and VPAB16H3",
         "exclusion": null,
         "corequisite": null,
@@ -18505,7 +18505,7 @@
     },
     {
         "code": "VPAC17H3",
-        "name": "Marketing in the Arts and Media ",
+        "name": "Marketing in the Arts and Media",
         "prereq": "8.0 credits including VPAA10H3 and VPAA12H3 and VPAB16H3",
         "exclusion": null,
         "corequisite": null,
@@ -18514,7 +18514,7 @@
     },
     {
         "code": "VPAC18H3",
-        "name": "Raising Funds in Arts and Media  ",
+        "name": "Raising Funds in Arts and Media",
         "prereq": "8.0 credits including VPAB13H3 and VPAB16H3",
         "exclusion": null,
         "corequisite": null,
@@ -18559,7 +18559,7 @@
     },
     {
         "code": "VPAD12H3",
-        "name": "Senior Collaborative Projects ",
+        "name": "Senior Collaborative Projects",
         "prereq": "At least 14.0 credits including VPAC13H3 .",
         "exclusion": null,
         "corequisite": null,
@@ -18910,7 +18910,7 @@
     },
     {
         "code": "VPSB61H3",
-        "name": "Painting from Life ",
+        "name": "Painting from Life",
         "prereq": "VPSA62H3 and VPSA63H3",
         "exclusion": "(VPSA61H3), VIS201H, FAS145H",
         "corequisite": null,
@@ -19036,7 +19036,7 @@
     },
     {
         "code": "VPSB89H3",
-        "name": "2D Digital Animation ",
+        "name": "2D Digital Animation",
         "prereq": "VPSA62H3 and VPSA63H3 and VPSB56H3",
         "exclusion": null,
         "corequisite": null,
@@ -19279,7 +19279,7 @@
     },
     {
         "code": "WSTB09H3",
-        "name": "Gender, Race, and Colonialism ",
+        "name": "Gender, Race, and Colonialism",
         "prereq": "1.0 credit at the A-level in any Humanities or Social Science courses",
         "exclusion": null,
         "corequisite": null,
@@ -19342,7 +19342,7 @@
     },
     {
         "code": "WSTB23H3",
-        "name": "Black Radical Thought ",
+        "name": "Black Radical Thought",
         "prereq": "1.0 credit at the A-level in any Humanities or Social Science courses",
         "exclusion": null,
         "corequisite": null,
@@ -19396,7 +19396,7 @@
     },
     {
         "code": "WSTC14H3",
-        "name": "The Gender Politics of Policy Change ",
+        "name": "The Gender Politics of Policy Change",
         "prereq": "WSTA01H3 and [ WSTA03H3 or (WSTA02H3)]",
         "exclusion": null,
         "corequisite": null,
@@ -19450,7 +19450,7 @@
     },
     {
         "code": "WSTC25H3",
-        "name": "Transnational Queer Sexualities ",
+        "name": "Transnational Queer Sexualities",
         "prereq": "[1.0 credit at the A-level] and [1.0 credit at the B-level in WST courses, or other Humanities and Social Sciences courses]",
         "exclusion": null,
         "corequisite": null,
@@ -19585,7 +19585,7 @@
     },
     {
         "code": "WSTD30H3",
-        "name": "Gender and Techno-Orientalism ",
+        "name": "Gender and Techno-Orientalism",
         "prereq": "[1.0 credit at the B-level] and [1.0 credit at the C-level in WST courses or other Humanities and Social Sciences courses]",
         "exclusion": "GASD30H3",
         "corequisite": null,

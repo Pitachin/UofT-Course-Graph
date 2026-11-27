@@ -19,7 +19,7 @@
     },
     {
         "code": "PHM161Y1",
-        "name": " Applied Therapeutics 1",
+        "name": "Applied Therapeutics 1",
         "prereq": "PHM100Y1",
         "exclusion": null,
         "corequisite": "PHM171H1 ; PHM191H1",
@@ -28,7 +28,7 @@
     },
     {
         "code": "PHM162Y1",
-        "name": " Applied Therapeutics 2",
+        "name": "Applied Therapeutics 2",
         "prereq": "PHM100Y1 ; PHM161Y1 ; PHM171H1",
         "exclusion": null,
         "corequisite": "PHM172H1",
@@ -37,7 +37,7 @@
     },
     {
         "code": "PHM163Y1",
-        "name": " Applied Therapeutics 3",
+        "name": "Applied Therapeutics 3",
         "prereq": "PHM100Y1 ; PHM161Y1 ; PHM162Y1 ; PHM171H1 ; PHM172H1",
         "exclusion": null,
         "corequisite": "PHM173H1 ; PHM191H1",
@@ -46,7 +46,7 @@
     },
     {
         "code": "PHM171H1",
-        "name": " Pharmacy Practice Skills & Simulation 1 ",
+        "name": "Pharmacy Practice Skills & Simulation 1",
         "prereq": "PHM100Y1",
         "exclusion": null,
         "corequisite": "PHM161Y1",
@@ -55,7 +55,7 @@
     },
     {
         "code": "PHM172H1",
-        "name": " Pharmacy Practice Skills & Simulation 2",
+        "name": "Pharmacy Practice Skills & Simulation 2",
         "prereq": "PHM171H1 ; PHM161Y1",
         "exclusion": null,
         "corequisite": "PHM162Y1",
@@ -64,7 +64,7 @@
     },
     {
         "code": "PHM173H1",
-        "name": " Pharmacy Practice Skills & Simulation 3",
+        "name": "Pharmacy Practice Skills & Simulation 3",
         "prereq": "PHM171H1 ; PHM161Y1 ; PHM172H1 ; PHM162Y1",
         "exclusion": null,
         "corequisite": "PHM163Y1 ; PHM191H1",
@@ -73,7 +73,7 @@
     },
     {
         "code": "PHM191H1",
-        "name": " Experiential Learning 1",
+        "name": "Experiential Learning 1",
         "prereq": "PHM100Y1",
         "exclusion": null,
         "corequisite": "PHM161Y1 ; PHM162Y1 ; PHM163Y1 ; PHM171H1 ; PHM172H1 ; PHM173H1",
@@ -82,7 +82,7 @@
     },
     {
         "code": "PHM200Y1",
-        "name": " Foundations 2",
+        "name": "Foundations 2",
         "prereq": "PHM163Y1 ; PHM173H1 ; PHM191H1",
         "exclusion": null,
         "corequisite": null,
@@ -91,7 +91,7 @@
     },
     {
         "code": "PHM251H1",
-        "name": " Early Practice Experience 2",
+        "name": "Early Practice Experience 2",
         "prereq": "PHM151H1 ; PHM201H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM206H1",
         "exclusion": null,
         "corequisite": null,
@@ -100,7 +100,7 @@
     },
     {
         "code": "PHM261Y1",
-        "name": " Applied Therapeutics 4",
+        "name": "Applied Therapeutics 4",
         "prereq": "PHM100Y1 ; PHM161Y1 ; PHM162Y1 ; PHM163Y1 ; PHM171H1 ; PHM172H1 ; PHM173H1 ; PHM200Y1",
         "exclusion": null,
         "corequisite": "PHM271H1 ; PHM291H1",
@@ -109,7 +109,7 @@
     },
     {
         "code": "PHM262Y1",
-        "name": " Applied Therapeutics 5",
+        "name": "Applied Therapeutics 5",
         "prereq": "PHM100Y1 ; PHM161Y1 ; PHM162Y1 ; PHM163Y1 ; PHM171H1 ; PHM172H1 ; PHM173H1 ; PHM191H1 ; PHM200Y1 ; PHM261Y1 ; PHM271H1",
         "exclusion": null,
         "corequisite": "PHM272H1 ; PHM291H1",
@@ -118,7 +118,7 @@
     },
     {
         "code": "PHM263Y1",
-        "name": " Applied Therapeutics 6",
+        "name": "Applied Therapeutics 6",
         "prereq": "PHM100Y1 ; PHM161Y1 ; PHM162Y1 ; PHM163Y1 ; PHM171H1 ; PHM172H1 ; PHM173H1 ; PHM191H1 ; PHM200Y1 ; PHM261Y1 ; PHM262Y1 ; PHM271H1 ; PHM272H1 ;",
         "exclusion": null,
         "corequisite": "PHM273H1 ; PHM291H1",
@@ -127,7 +127,7 @@
     },
     {
         "code": "PHM271H1",
-        "name": " Pharmacy Practice Skills & Simulation 4",
+        "name": "Pharmacy Practice Skills & Simulation 4",
         "prereq": "PHM100; PHM161; PHM171; PHM162; PHM172; PHM163; PHM173; PHM191; PHM200",
         "exclusion": null,
         "corequisite": "PHM261; PHM291",
@@ -136,7 +136,7 @@
     },
     {
         "code": "PHM272H1",
-        "name": " Pharmacy Practice Skills and Simulation 5",
+        "name": "Pharmacy Practice Skills and Simulation 5",
         "prereq": "PHM100; PHM161; PHM171; PHM162; PHM172; PHM163; PHM173; PHM191; PHM200; PHM261p; PHM271",
         "exclusion": null,
         "corequisite": "PHM262; PHM291",
@@ -145,7 +145,7 @@
     },
     {
         "code": "PHM273H1",
-        "name": " Pharmacy Practice Skills & Simulation 6",
+        "name": "Pharmacy Practice Skills & Simulation 6",
         "prereq": "PHM100; PHM171; PHM172; PHM173; PHM161; PHM162; PHM163; PHM200; PHM271; PHM272; PHM261; PHM262",
         "exclusion": null,
         "corequisite": "PHM263; PHM291",
@@ -154,7 +154,7 @@
     },
     {
         "code": "PHM291H1",
-        "name": " Experiential Learning 2",
+        "name": "Experiential Learning 2",
         "prereq": "PHM191H1",
         "exclusion": null,
         "corequisite": null,
@@ -181,7 +181,7 @@
     },
     {
         "code": "PHM305H1",
-        "name": " Medication Therapy Management 4",
+        "name": "Medication Therapy Management 4",
         "prereq": "PHM101H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM206H1 ; PHM251H1",
         "exclusion": null,
         "corequisite": "PHM301H1 ; PHM302H1 ; PHM310H1",
@@ -190,7 +190,7 @@
     },
     {
         "code": "PHM310H1",
-        "name": " Pharmacy in the Modern Health Care System ",
+        "name": "Pharmacy in the Modern Health Care System",
         "prereq": "PHM110H1 ; PHM114H1 ; PHM213H1 ; PHM215H1",
         "exclusion": null,
         "corequisite": null,
@@ -199,7 +199,7 @@
     },
     {
         "code": "PHM320H1",
-        "name": " Global Pharmaceutical Policy",
+        "name": "Global Pharmaceutical Policy",
         "prereq": null,
         "exclusion": "PHC470H1",
         "corequisite": null,
@@ -208,7 +208,7 @@
     },
     {
         "code": "PHM321H1",
-        "name": " Selected Topics in the Pharmaceutical Industry",
+        "name": "Selected Topics in the Pharmaceutical Industry",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -217,7 +217,7 @@
     },
     {
         "code": "PHM322H1",
-        "name": " Patient/Medication Safety",
+        "name": "Patient/Medication Safety",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -226,7 +226,7 @@
     },
     {
         "code": "PHM323H1",
-        "name": " Molecular Mechanisms of Drug Action",
+        "name": "Molecular Mechanisms of Drug Action",
         "prereq": null,
         "exclusion": "PHC300H1",
         "corequisite": null,
@@ -235,7 +235,7 @@
     },
     {
         "code": "PHM324H1",
-        "name": " Recent Developments in Dosage Form Design",
+        "name": "Recent Developments in Dosage Form Design",
         "prereq": "PHM141H1 ; PHM144H1",
         "exclusion": "PHC430H1",
         "corequisite": null,
@@ -244,7 +244,7 @@
     },
     {
         "code": "PHM325H1",
-        "name": " Indigenous Peoples’ Health and Wellness",
+        "name": "Indigenous Peoples’ Health and Wellness",
         "prereq": null,
         "exclusion": "JFP450H1",
         "corequisite": null,
@@ -253,7 +253,7 @@
     },
     {
         "code": "PHM327H1",
-        "name": " Pharmacy Management, Leadership, and Entrepreneurship",
+        "name": "Pharmacy Management, Leadership, and Entrepreneurship",
         "prereq": "PHM215H1",
         "exclusion": null,
         "corequisite": null,
@@ -262,7 +262,7 @@
     },
     {
         "code": "PHM330H1",
-        "name": " Preparation for Advanced Pharmacy Practice Experience",
+        "name": "Preparation for Advanced Pharmacy Practice Experience",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -271,7 +271,7 @@
     },
     {
         "code": "PHM340H1",
-        "name": " Introductory Toxicology",
+        "name": "Introductory Toxicology",
         "prereq": "PHM140H1 ; PHM142H1 ; PHM143H1 ; PHM144H1 ; PHM145H1 ; PSL205H1",
         "exclusion": null,
         "corequisite": null,
@@ -280,7 +280,7 @@
     },
     {
         "code": "PHM348H1",
-        "name": " Intermediate Pharmacy Practice Experience",
+        "name": "Intermediate Pharmacy Practice Experience",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -289,7 +289,7 @@
     },
     {
         "code": "PHM350H1",
-        "name": " Pharmacotherapy in Ambulatory Care",
+        "name": "Pharmacotherapy in Ambulatory Care",
         "prereq": "PHM101H1 ; PHM105H1 ; PHM146H1 ; PHM201H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM206H1 ; PHM230H1 ; PHM305H1",
         "exclusion": null,
         "corequisite": null,
@@ -298,7 +298,7 @@
     },
     {
         "code": "PHM351H1",
-        "name": " Pharmacotherapy in Institutional Care",
+        "name": "Pharmacotherapy in Institutional Care",
         "prereq": "PHM101H1 ; PHM113H1 ; PHM140H1 ; PHM141H1 ; PHM142H1 ; PHM144H1 ; PHM146H1 ; PHM305H1 ; PHM340H1",
         "exclusion": null,
         "corequisite": null,
@@ -307,7 +307,7 @@
     },
     {
         "code": "PHM352H1",
-        "name": " Pharmacotherapy in Older Adults",
+        "name": "Pharmacotherapy in Older Adults",
         "prereq": "PHM101H1 ; PHM143H1 ; PHM144H1 ; PHM145H1 ; PHM146H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM301H1 ; PHM302H1",
         "exclusion": null,
         "corequisite": null,
@@ -316,7 +316,7 @@
     },
     {
         "code": "PHM353H1",
-        "name": " Pharmacotherapy in Critical Care",
+        "name": "Pharmacotherapy in Critical Care",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -325,7 +325,7 @@
     },
     {
         "code": "PHM354H1",
-        "name": " Pharmacotherapy in Pediatrics",
+        "name": "Pharmacotherapy in Pediatrics",
         "prereq": "PHM101H1 ; PHM113H1 ; PHM144H1 ; PHM146H1 ; PHM202H1 ; PHM203H1 ; PHM204H1",
         "exclusion": null,
         "corequisite": null,
@@ -334,7 +334,7 @@
     },
     {
         "code": "PHM355H1",
-        "name": " Pharmacotherapy in Women's Health",
+        "name": "Pharmacotherapy in Women's Health",
         "prereq": "PHM202H1 ; PHM206H1",
         "exclusion": null,
         "corequisite": null,
@@ -343,7 +343,7 @@
     },
     {
         "code": "PHM360H1",
-        "name": " Personalized Medicine",
+        "name": "Personalized Medicine",
         "prereq": "PHM140H1 ; PHM144H1",
         "exclusion": null,
         "corequisite": null,
@@ -352,7 +352,7 @@
     },
     {
         "code": "PHM361H1",
-        "name": " Latest Developments in Drugs & Biologics",
+        "name": "Latest Developments in Drugs & Biologics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -361,7 +361,7 @@
     },
     {
         "code": "PHM362H1",
-        "name": " Assessing the Bioavailability & Bioequivalence of Medicinal Drug Products",
+        "name": "Assessing the Bioavailability & Bioequivalence of Medicinal Drug Products",
         "prereq": "PHM141H1 ; PHM144H1 ; PHM241H1",
         "exclusion": "PHC331H1",
         "corequisite": null,
@@ -370,7 +370,7 @@
     },
     {
         "code": "PHM370H1",
-        "name": " Community Pharmacy Management",
+        "name": "Community Pharmacy Management",
         "prereq": "PHM215H1",
         "exclusion": null,
         "corequisite": null,
@@ -379,7 +379,7 @@
     },
     {
         "code": "PHM371H1",
-        "name": " Institutional Pharmacy Practice Management",
+        "name": "Institutional Pharmacy Practice Management",
         "prereq": "PHM215H1",
         "exclusion": null,
         "corequisite": null,
@@ -388,7 +388,7 @@
     },
     {
         "code": "PHM381H1",
-        "name": " Medical Imaging for Pharmacists",
+        "name": "Medical Imaging for Pharmacists",
         "prereq": "PHM202H1 ; PHM204H1 ; PHM241H1 ; PHM301H1",
         "exclusion": null,
         "corequisite": null,
@@ -397,7 +397,7 @@
     },
     {
         "code": "PHM383H1",
-        "name": " Antimicrobial Stewardship",
+        "name": "Antimicrobial Stewardship",
         "prereq": "PHM203H1 ; PHM242H1",
         "exclusion": null,
         "corequisite": null,
@@ -406,7 +406,7 @@
     },
     {
         "code": "PHM384H1",
-        "name": " Teaching & Learning",
+        "name": "Teaching & Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -415,7 +415,7 @@
     },
     {
         "code": "PHM385H1",
-        "name": " Diabetes Care",
+        "name": "Diabetes Care",
         "prereq": "PHM101H1 ; PHM105H1 ; PHM201H1 ; PHM202H1 ; PHM203H1 ; PHM204H1 ; PHM205H1 ; PHM206H1 ; PHM301H1 ; PHM302H1 ; PHM305H1",
         "exclusion": null,
         "corequisite": null,
@@ -424,7 +424,7 @@
     },
     {
         "code": "PHM386H1",
-        "name": " Mental Health & Addictions",
+        "name": "Mental Health & Addictions",
         "prereq": "PHM302H1",
         "exclusion": null,
         "corequisite": null,
@@ -433,7 +433,7 @@
     },
     {
         "code": "PHM387H1",
-        "name": " Global Health",
+        "name": "Global Health",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -442,7 +442,7 @@
     },
     {
         "code": "PHM388H1",
-        "name": " Self-Care and Minor Ailment Prescribing - Advanced Topics",
+        "name": "Self-Care and Minor Ailment Prescribing - Advanced Topics",
         "prereq": "PHM105H1 ; PHM205H1 ; PHM206H1 ; PHM305H1",
         "exclusion": null,
         "corequisite": null,
@@ -451,7 +451,7 @@
     },
     {
         "code": "PHM389H1",
-        "name": " Research Project",
+        "name": "Research Project",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -460,7 +460,7 @@
     },
     {
         "code": "PHM392H1",
-        "name": " Advanced Pharmacotherapy of Infectious Diseases",
+        "name": "Advanced Pharmacotherapy of Infectious Diseases",
         "prereq": "PHM203H1",
         "exclusion": null,
         "corequisite": null,
@@ -469,7 +469,7 @@
     },
     {
         "code": "PHM400H1",
-        "name": " Transition to Advanced Pharmacy Practice Experience",
+        "name": "Transition to Advanced Pharmacy Practice Experience",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -478,7 +478,7 @@
     },
     {
         "code": "PHM401H1",
-        "name": " Institutional Practice Direct Patient Care 1",
+        "name": "Institutional Practice Direct Patient Care 1",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -487,7 +487,7 @@
     },
     {
         "code": "PHM402H1",
-        "name": " Institutional Practice Direct Patient Care 2",
+        "name": "Institutional Practice Direct Patient Care 2",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -496,7 +496,7 @@
     },
     {
         "code": "PHM414Y1",
-        "name": " Community Practice Direct Patient Care",
+        "name": "Community Practice Direct Patient Care",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -505,7 +505,7 @@
     },
     {
         "code": "PHM424H1",
-        "name": " Selective Direct Patient Care",
+        "name": "Selective Direct Patient Care",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -514,7 +514,7 @@
     },
     {
         "code": "PHM451H1",
-        "name": " Elective Direct Patient Care 1",
+        "name": "Elective Direct Patient Care 1",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -523,7 +523,7 @@
     },
     {
         "code": "PHM452H1",
-        "name": " Elective Direct Patient Care 2",
+        "name": "Elective Direct Patient Care 2",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -532,7 +532,7 @@
     },
     {
         "code": "PHM461H1",
-        "name": " Elective Non Direct Patient Care 1",
+        "name": "Elective Non Direct Patient Care 1",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -541,7 +541,7 @@
     },
     {
         "code": "PHM462H1",
-        "name": " Elective Non Direct Patient Care 2",
+        "name": "Elective Non Direct Patient Care 2",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -550,7 +550,7 @@
     },
     {
         "code": "PHM488H1",
-        "name": " Independent Study Course in Social and Administrative Pharmacy",
+        "name": "Independent Study Course in Social and Administrative Pharmacy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -559,7 +559,7 @@
     },
     {
         "code": "PHM520H1",
-        "name": " Global Pharmaceutical Policy",
+        "name": "Global Pharmaceutical Policy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -568,7 +568,7 @@
     },
     {
         "code": "PHM521H1",
-        "name": " Selected Topics in the Pharmaceutical Industry",
+        "name": "Selected Topics in the Pharmaceutical Industry",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -577,7 +577,7 @@
     },
     {
         "code": "PHM525H1",
-        "name": " Indigenous Health & Healing",
+        "name": "Indigenous Health & Healing",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -586,7 +586,7 @@
     },
     {
         "code": "PHM550H1",
-        "name": " Pharmacotherapy in Ambulatory Care",
+        "name": "Pharmacotherapy in Ambulatory Care",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -595,7 +595,7 @@
     },
     {
         "code": "PHM551H1",
-        "name": " Pharmacotherapy in Institutional Care",
+        "name": "Pharmacotherapy in Institutional Care",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -604,7 +604,7 @@
     },
     {
         "code": "PHM552H1",
-        "name": " Pharmacotherapy in Older Adults",
+        "name": "Pharmacotherapy in Older Adults",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -613,7 +613,7 @@
     },
     {
         "code": "PHM553H1",
-        "name": " Pharmacotherapy in Critical Care",
+        "name": "Pharmacotherapy in Critical Care",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -622,7 +622,7 @@
     },
     {
         "code": "PHM581H1",
-        "name": " Medical Imaging for Pharmacists",
+        "name": "Medical Imaging for Pharmacists",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -631,7 +631,7 @@
     },
     {
         "code": "PHM587H1",
-        "name": " Global Health",
+        "name": "Global Health",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -640,7 +640,7 @@
     },
     {
         "code": "PHM601H1",
-        "name": " Found. Adv. Pharmacy Practice",
+        "name": "Found. Adv. Pharmacy Practice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -649,7 +649,7 @@
     },
     {
         "code": "PHM606H1",
-        "name": " Critical Appraisal",
+        "name": "Critical Appraisal",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -658,7 +658,7 @@
     },
     {
         "code": "PHM616H1",
-        "name": " Advanced Pharmacokinetics",
+        "name": "Advanced Pharmacokinetics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -667,7 +667,7 @@
     },
     {
         "code": "PHM617H1",
-        "name": " Sel.Topics in Social Admin PHM",
+        "name": "Sel.Topics in Social Admin PHM",
         "prereq": "PHM606H1",
         "exclusion": null,
         "corequisite": null,
@@ -676,7 +676,7 @@
     },
     {
         "code": "PHM618H1",
-        "name": " Educational Theory and Practice",
+        "name": "Educational Theory and Practice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -685,7 +685,7 @@
     },
     {
         "code": "PHM619H1",
-        "name": " Physical Findings & Assessment",
+        "name": "Physical Findings & Assessment",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -694,7 +694,7 @@
     },
     {
         "code": "PHM622H1",
-        "name": " Patient/Medication Safety",
+        "name": "Patient/Medication Safety",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -703,7 +703,7 @@
     },
     {
         "code": "PHM650H1",
-        "name": " Contemporary Topics in Nephrology",
+        "name": "Contemporary Topics in Nephrology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -712,7 +712,7 @@
     },
     {
         "code": "PHM651H1",
-        "name": " Contemporary Topics in Infectious Diseases",
+        "name": "Contemporary Topics in Infectious Diseases",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -721,7 +721,7 @@
     },
     {
         "code": "PHM652H1",
-        "name": " Contemporary Topics in Primary Care",
+        "name": "Contemporary Topics in Primary Care",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -730,7 +730,7 @@
     },
     {
         "code": "PHM653H1",
-        "name": " Contemporary Topics in Oncology",
+        "name": "Contemporary Topics in Oncology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -739,7 +739,7 @@
     },
     {
         "code": "PHM654H1",
-        "name": " Contemporary Topics in Cardiovascular Diseases",
+        "name": "Contemporary Topics in Cardiovascular Diseases",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -748,7 +748,7 @@
     },
     {
         "code": "PHM655H1",
-        "name": " Contemporary Topics in Addictions and Mental Health",
+        "name": "Contemporary Topics in Addictions and Mental Health",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -757,7 +757,7 @@
     },
     {
         "code": "PHM751H1",
-        "name": " Direct Patient Care Rot. I",
+        "name": "Direct Patient Care Rot. I",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -766,7 +766,7 @@
     },
     {
         "code": "PHM752H1",
-        "name": " Direct Patient Care Rot. II",
+        "name": "Direct Patient Care Rot. II",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -775,7 +775,7 @@
     },
     {
         "code": "PHM753H1",
-        "name": " Direct Patient Care Rot. III",
+        "name": "Direct Patient Care Rot. III",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -784,7 +784,7 @@
     },
     {
         "code": "PHM761H1",
-        "name": " Elective Rotation I",
+        "name": "Elective Rotation I",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -793,7 +793,7 @@
     },
     {
         "code": "PHM762H1",
-        "name": " Elective Rotation II",
+        "name": "Elective Rotation II",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,

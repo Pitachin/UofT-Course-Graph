@@ -1,7 +1,7 @@
 [
     {
         "code": "NUR325H1",
-        "name": " Pathophysiology and Pharmacotherapeutics 1",
+        "name": "Pathophysiology and Pharmacotherapeutics 1",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -10,7 +10,7 @@
     },
     {
         "code": "NUR330H1",
-        "name": " Introduction to Research and Scholarship in Nursing",
+        "name": "Introduction to Research and Scholarship in Nursing",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -19,7 +19,7 @@
     },
     {
         "code": "NUR350Y1",
-        "name": " Introduction to Nursing Practice",
+        "name": "Introduction to Nursing Practice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -28,7 +28,7 @@
     },
     {
         "code": "NUR351H1",
-        "name": " Introduction to the Discipline and Profession of Nursing",
+        "name": "Introduction to the Discipline and Profession of Nursing",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -37,7 +37,7 @@
     },
     {
         "code": "NUR365Y1",
-        "name": " Introduction to Gerontological Nursing",
+        "name": "Introduction to Gerontological Nursing",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -55,7 +55,7 @@
     },
     {
         "code": "NUR373Y1",
-        "name": " Introduction to Nursing Care of Children and Families",
+        "name": "Introduction to Nursing Care of Children and Families",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -64,7 +64,7 @@
     },
     {
         "code": "NUR374Y1",
-        "name": " Introduction to Nursing Care of Childbearing Persons and Families",
+        "name": "Introduction to Nursing Care of Childbearing Persons and Families",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -100,7 +100,7 @@
     },
     {
         "code": "NUR425H1",
-        "name": " Pathophysiology and Pharmacotherapeutics 2",
+        "name": "Pathophysiology and Pharmacotherapeutics 2",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -118,7 +118,7 @@
     },
     {
         "code": "NUR460Y1",
-        "name": " Coping with Complexity in Persistent Illness",
+        "name": "Coping with Complexity in Persistent Illness",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -136,7 +136,7 @@
     },
     {
         "code": "NUR470Y1",
-        "name": " Integrative Nursing Practicum",
+        "name": "Integrative Nursing Practicum",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,

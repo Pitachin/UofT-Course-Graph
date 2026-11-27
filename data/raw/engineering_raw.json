@@ -856,7 +856,7 @@
     },
     {
         "code": "CHE321H1",
-        "name": "Introduction to Machine Learning for Chemical Engineers ",
+        "name": "Introduction to Machine Learning for Chemical Engineers",
         "prereq": "Prerequisite: APS105H1 / Aps106H1 , CHE221H1 , CHE223H1 (or equivalents)",
         "exclusion": "Exclusion: CSC311H1 , ECE421H1 , MIE424H1 , ROB313H1",
         "corequisite": null,
@@ -1864,7 +1864,7 @@
     },
     {
         "code": "CME538H1",
-        "name": "Introduction to Data Science for Civil and Mineral Engineers ",
+        "name": "Introduction to Data Science for Civil and Mineral Engineers",
         "prereq": "Prerequisite: MAT186H1 , MAT187H1 , MAT188H1 , APS106H1 , CME261H1 , CME263H1",
         "exclusion": null,
         "corequisite": null,
@@ -2332,7 +2332,7 @@
     },
     {
         "code": "ECE381H1",
-        "name": "Foundations and Frontiers in Cybersecurity ",
+        "name": "Foundations and Frontiers in Cybersecurity",
         "prereq": "Prerequisite: CHE223H1 / ECE302H1 / MIE231H1 / MIE236H1 / MIE286H1 / MSE238H1",
         "exclusion": null,
         "corequisite": "Corequisite: ECE302H1 ; Note: Students may also take it ECE302H1 with ECE381H1 to fulfill the prerequisite.",
@@ -3259,7 +3259,7 @@
     },
     {
         "code": "MIE245H1",
-        "name": "Data Structures and Algorithms ",
+        "name": "Data Structures and Algorithms",
         "prereq": "Prerequisite: MIE262H1",
         "exclusion": "Exclusion: CSC263H1 , CSC373H1",
         "corequisite": null,
@@ -3277,7 +3277,7 @@
     },
     {
         "code": "MIE262H1",
-        "name": " Deterministic Operations Research",
+        "name": "Deterministic Operations Research",
         "prereq": "Prerequisite: ESC194H1 / MAT186H1 , MAT185H1 / MAT188H1",
         "exclusion": null,
         "corequisite": null,
@@ -3601,7 +3601,7 @@
     },
     {
         "code": "MIE410H1",
-        "name": "*Finite Element Analysis in Engineering Design\t\t\t\t",
+        "name": "*Finite Element Analysis in Engineering Design",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3943,7 +3943,7 @@
     },
     {
         "code": "MIE535H1",
-        "name": "Electrification Via  Electricity Markets ",
+        "name": "Electrification Via  Electricity Markets",
         "prereq": "Prerequisite: CHE249H1 or CME368H1 or ECE472H1 or CHE374H1 or MIE358H1 or equivalent",
         "exclusion": null,
         "corequisite": null,
@@ -4006,7 +4006,7 @@
     },
     {
         "code": "MIE564H1",
-        "name": "* Smart Materials and Manufacturing ",
+        "name": "* Smart Materials and Manufacturing",
         "prereq": "Prerequisite: MIE222H1 , (or MSE120H1 and MSE222H1 ), and MIE270H1",
         "exclusion": null,
         "corequisite": null,
@@ -4195,7 +4195,7 @@
     },
     {
         "code": "MIN520H1",
-        "name": "Mine Optimization ",
+        "name": "Mine Optimization",
         "prereq": "Prerequisite: MIN250H1 , MIN351H1 , MIN466H1",
         "exclusion": null,
         "corequisite": null,
@@ -4924,7 +4924,7 @@
     },
     {
         "code": "TEP432H1",
-        "name": " Advanced Topics in Entrepreneurship",
+        "name": "Advanced Topics in Entrepreneurship",
         "prereq": "Prerequisite: APS234H1 / TEP234H1",
         "exclusion": "Exclusion: CHE488H1 / CIV488H1 / ECE488H1 / MIE488H1 / MSE488H1",
         "corequisite": null,

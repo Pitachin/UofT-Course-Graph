@@ -2467,7 +2467,7 @@
     },
     {
         "code": "APD3403H",
-        "name": "EdD Internship in School Psychology ",
+        "name": "EdD Internship in School Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2998,7 +2998,7 @@
     },
     {
         "code": "ARC1043H",
-        "name": "Building Science, Materials, and Construction  2 ",
+        "name": "Building Science, Materials, and Construction  2",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4465,7 +4465,7 @@
     },
     {
         "code": "BTC1730H",
-        "name": "Structural Biology in Drug Development ",
+        "name": "Structural Biology in Drug Development",
         "prereq": null,
         "exclusion": "BTC1720H or BTC2110H",
         "corequisite": null,
@@ -8623,7 +8623,7 @@
     },
     {
         "code": "CIV1287H",
-        "name": "Construction Virtualization and Analytics ",
+        "name": "Construction Virtualization and Analytics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -10594,7 +10594,7 @@
     },
     {
         "code": "CSC2237H",
-        "name": "Secure Computer Hardware and Systems ",
+        "name": "Secure Computer Hardware and Systems",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -11395,7 +11395,7 @@
     },
     {
         "code": "CTL1042H",
-        "name": "Introduction to Community-Based Research Methods and Practice ",
+        "name": "Introduction to Community-Based Research Methods and Practice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -11970,8 +11970,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=44"
     },
     {
-        "code": " Canada and Beyond, 1800s",
-        "name": "1990s",
+        "code": "CTL1427H",
+        "name": "History and Commemoration: Canada and Beyond, 1800s - 1990s",
         "prereq": null,
         "exclusion": "Students who previously took HSJ1427H are prohibited from taking this course.",
         "corequisite": null,
@@ -12322,7 +12322,7 @@
     },
     {
         "code": "CTL2000H",
-        "name": "Collaborative Reading and Research Seminar ",
+        "name": "Collaborative Reading and Research Seminar",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -12331,7 +12331,7 @@
     },
     {
         "code": "CTL2001H",
-        "name": "Studies in Professional Skills and Development in Education ",
+        "name": "Studies in Professional Skills and Development in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -13113,8 +13113,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=48"
     },
     {
-        "code": " Biology",
-        "name": "Intermediate/Senior",
+        "code": "CTL7023Y",
+        "name": "Curriculum and Teaching in Science: Biology - Intermediate/Senior",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -13122,8 +13122,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=48"
     },
     {
-        "code": " Chemistry",
-        "name": "Intermediate/Senior",
+        "code": "CTL7024Y",
+        "name": "Curriculum and Teaching in Science: Chemistry - Intermediate/Senior",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -13131,8 +13131,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=48"
     },
     {
-        "code": " Physics",
-        "name": "Intermediate/Senior",
+        "code": "CTL7025Y",
+        "name": "Curriculum and Teaching in Science: Physics - Intermediate/Senior",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -13149,8 +13149,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=48"
     },
     {
-        "code": " General",
-        "name": "Intermediate/Senior",
+        "code": "CTL7027Y",
+        "name": "Curriculum and Teaching in Social Science: General - Intermediate/Senior",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -13167,8 +13167,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=48"
     },
     {
-        "code": " Instrumental",
-        "name": "Intermediate/Senior",
+        "code": "CTL7029Y",
+        "name": "Curriculum and Teaching in Music: Instrumental - Intermediate/Senior",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -13293,8 +13293,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=49"
     },
     {
-        "code": " Vocal",
-        "name": "Junior/Intermediate",
+        "code": "CTL7057H",
+        "name": "Curriculum and Teaching in Music: Vocal - Junior/Intermediate",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -13302,8 +13302,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=49"
     },
     {
-        "code": " General",
-        "name": "Junior/Intermediate",
+        "code": "CTL7058H",
+        "name": "Curriculum and Teaching in Science: General - Junior/Intermediate",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -18801,8 +18801,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=69"
     },
     {
-        "code": " Liveness and Presence ca. 1750",
-        "name": "1830",
+        "code": "ENG3302H",
+        "name": "Being There: Liveness and Presence ca. 1750 - 1830",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -19765,7 +19765,7 @@
     },
     {
         "code": "ENV1501H",
-        "name": "Climate and Environmental Justice in Africa ",
+        "name": "Climate and Environmental Justice in Africa",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -21367,7 +21367,7 @@
     },
     {
         "code": "FRE1148H",
-        "name": " Postverbal Subjects in French (and Beyond) / Les sujets postverbaux en français (et au-delà)",
+        "name": "Postverbal Subjects in French (and Beyond) / Les sujets postverbaux en français (et au-delà)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -21574,7 +21574,7 @@
     },
     {
         "code": "FST1000H",
-        "name": "Comparative Research Methods in Food Studies ",
+        "name": "Comparative Research Methods in Food Studies",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -21583,7 +21583,7 @@
     },
     {
         "code": "FST2000H",
-        "name": "Food, Culture, and Society ",
+        "name": "Food, Culture, and Society",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -22789,7 +22789,7 @@
     },
     {
         "code": "GRK1011H",
-        "name": " Introductory Ancient Greek I",
+        "name": "Introductory Ancient Greek I",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -22843,7 +22843,7 @@
     },
     {
         "code": "GRK1043H",
-        "name": " Greek Prose Authors",
+        "name": "Greek Prose Authors",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -24319,7 +24319,7 @@
     },
     {
         "code": "HIS1026H",
-        "name": "Microhistory as Historical Method ",
+        "name": "Microhistory as Historical Method",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -24346,7 +24346,7 @@
     },
     {
         "code": "HIS1029H",
-        "name": "Affective Histories ",
+        "name": "Affective Histories",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -26245,7 +26245,7 @@
     },
     {
         "code": "INF1501H",
-        "name": "Introduction to Culture & Technology ",
+        "name": "Introduction to Culture & Technology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -26344,7 +26344,7 @@
     },
     {
         "code": "INF2101H",
-        "name": "Teaching and Learning in Libraries ",
+        "name": "Teaching and Learning in Libraries",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -26398,7 +26398,7 @@
     },
     {
         "code": "INF2112H",
-        "name": "Audio Cultures ",
+        "name": "Audio Cultures",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -26749,7 +26749,7 @@
     },
     {
         "code": "INF2169H",
-        "name": " Exploratory User Research",
+        "name": "Exploratory User Research",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -27658,7 +27658,7 @@
     },
     {
         "code": "INF2326H",
-        "name": "Expertise and Misinformation ",
+        "name": "Expertise and Misinformation",
         "prereq": null,
         "exclusion": "INF2239H",
         "corequisite": null,
@@ -27946,7 +27946,7 @@
     },
     {
         "code": "INF3011H",
-        "name": "Philosophy of Evidence ",
+        "name": "Philosophy of Evidence",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -27964,7 +27964,7 @@
     },
     {
         "code": "INF3013H",
-        "name": "Oral Histories as Memory Work ",
+        "name": "Oral Histories as Memory Work",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -28054,7 +28054,7 @@
     },
     {
         "code": "INF3107H",
-        "name": "Mining Information Systems ",
+        "name": "Mining Information Systems",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -28063,7 +28063,7 @@
     },
     {
         "code": "INF3108H",
-        "name": "Crafting Information ",
+        "name": "Crafting Information",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -28684,7 +28684,7 @@
     },
     {
         "code": "ITA1553H",
-        "name": "Cross-Cultural Encounters in Medieval and Renaissance Italy ",
+        "name": "Cross-Cultural Encounters in Medieval and Renaissance Italy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -29899,7 +29899,7 @@
     },
     {
         "code": "JPG1705H",
-        "name": "Histories of Urban Modernities ",
+        "name": "Histories of Urban Modernities",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -29971,7 +29971,7 @@
     },
     {
         "code": "JPG1816H",
-        "name": "Muslim Geographies ",
+        "name": "Muslim Geographies",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -30331,7 +30331,7 @@
     },
     {
         "code": "KIN5541H",
-        "name": " Advanced Exercise Metabolism",
+        "name": "Advanced Exercise Metabolism",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -30592,7 +30592,7 @@
     },
     {
         "code": "KIN8325H",
-        "name": "Advanced Biostatistics ",
+        "name": "Advanced Biostatistics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -31312,7 +31312,7 @@
     },
     {
         "code": "LAT1043H",
-        "name": "Latin Prose Authors ",
+        "name": "Latin Prose Authors",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -31321,7 +31321,7 @@
     },
     {
         "code": "LAT1045H",
-        "name": "Latin Epic ",
+        "name": "Latin Epic",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -31537,7 +31537,7 @@
     },
     {
         "code": "LAW2004H",
-        "name": "Selected Topics in Public Company M&A and Capital Markets ",
+        "name": "Selected Topics in Public Company M&A and Capital Markets",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -31906,7 +31906,7 @@
     },
     {
         "code": "LAW2091H",
-        "name": "Innovation and Forms of Corporate Governance ",
+        "name": "Innovation and Forms of Corporate Governance",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -32545,7 +32545,7 @@
     },
     {
         "code": "LAW5001H",
-        "name": "Comparative Freedom of Expression ",
+        "name": "Comparative Freedom of Expression",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -32598,8 +32598,8 @@
         "source_url": "https://sgs.calendar.utoronto.ca/search-courses?page=120"
     },
     {
-        "code": " Critical Analysis of Law",
-        "name": "An International & Interdisciplinary Law Review",
+        "code": "LAW5008H",
+        "name": "Journal: Critical Analysis of Law - An International & Interdisciplinary Law Review",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -34309,7 +34309,7 @@
     },
     {
         "code": "LHA1004H",
-        "name": "Research Literacy in Educational Leadership and Policy ",
+        "name": "Research Literacy in Educational Leadership and Policy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -34444,7 +34444,7 @@
     },
     {
         "code": "LHA1041H",
-        "name": "Social and Policy Contexts of Schooling ",
+        "name": "Social and Policy Contexts of Schooling",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -34462,7 +34462,7 @@
     },
     {
         "code": "LHA1043H",
-        "name": "Decolonizing and Antiracist Approaches to Educational Leadership ",
+        "name": "Decolonizing and Antiracist Approaches to Educational Leadership",
         "prereq": null,
         "exclusion": "LHA5009H",
         "corequisite": null,
@@ -34552,7 +34552,7 @@
     },
     {
         "code": "LHA1070H",
-        "name": "Internship in Educational Leadership and Policy ",
+        "name": "Internship in Educational Leadership and Policy",
         "prereq": null,
         "exclusion": "None",
         "corequisite": "None",
@@ -34768,7 +34768,7 @@
     },
     {
         "code": "LHA1147H",
-        "name": "Migration, Resettlement, and Learning ",
+        "name": "Migration, Resettlement, and Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -34912,7 +34912,7 @@
     },
     {
         "code": "LHA1194H",
-        "name": "Cyberliteracy and Adult Education ",
+        "name": "Cyberliteracy and Adult Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -35371,7 +35371,7 @@
     },
     {
         "code": "LHA3042H",
-        "name": "Introduction to Qualitative Methods in Educational Research [RM] ",
+        "name": "Introduction to Qualitative Methods in Educational Research [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -35857,7 +35857,7 @@
     },
     {
         "code": "LIN1490H",
-        "name": "Special Topics In Linguistics ",
+        "name": "Special Topics In Linguistics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -36739,7 +36739,7 @@
     },
     {
         "code": "MAF1001H",
-        "name": "Advanced Topics in Financial Reporting ",
+        "name": "Advanced Topics in Financial Reporting",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -36748,7 +36748,7 @@
     },
     {
         "code": "MAF1002H",
-        "name": "Strategy, Governance and Management Accounting ",
+        "name": "Strategy, Governance and Management Accounting",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -36757,7 +36757,7 @@
     },
     {
         "code": "MAF1003H",
-        "name": "Advanced Topics in Assurance ",
+        "name": "Advanced Topics in Assurance",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -36775,7 +36775,7 @@
     },
     {
         "code": "MAF1005H",
-        "name": "Current Issues in Accounting and Assurance ",
+        "name": "Current Issues in Accounting and Assurance",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -36811,7 +36811,7 @@
     },
     {
         "code": "MAF2002H",
-        "name": "Advanced Corporate Finance ",
+        "name": "Advanced Corporate Finance",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -36820,7 +36820,7 @@
     },
     {
         "code": "MAF2003H",
-        "name": "Investment Analysis and Portfolio Management ",
+        "name": "Investment Analysis and Portfolio Management",
         "prereq": null,
         "exclusion": null,
         "corequisite": "MAF2001H and MAF2002H",
@@ -36838,7 +36838,7 @@
     },
     {
         "code": "MAF2005H",
-        "name": "Derivatives ",
+        "name": "Derivatives",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -36874,7 +36874,7 @@
     },
     {
         "code": "MAF3001H",
-        "name": "Leadership in the 21st Century ",
+        "name": "Leadership in the 21st Century",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -36883,7 +36883,7 @@
     },
     {
         "code": "MAF3002H",
-        "name": "Strategy, Business Development and Sales  ",
+        "name": "Strategy, Business Development and Sales",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -37432,7 +37432,7 @@
     },
     {
         "code": "MAT1307H",
-        "name": "Mathematical Methods in the Theory of Computation ",
+        "name": "Mathematical Methods in the Theory of Computation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -44002,7 +44002,7 @@
     },
     {
         "code": "MUS1254H",
-        "name": "Critical Approaches to Popular Music ",
+        "name": "Critical Approaches to Popular Music",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -53452,7 +53452,7 @@
     },
     {
         "code": "RLG2063H",
-        "name": "Religion, Nature, and the Environment ",
+        "name": "Religion, Nature, and the Environment",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -53578,7 +53578,7 @@
     },
     {
         "code": "RLG3200H",
-        "name": "Sacred Texts and the Politics of Translation ",
+        "name": "Sacred Texts and the Politics of Translation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -53911,7 +53911,7 @@
     },
     {
         "code": "RLG3713H",
-        "name": "Jain Textual Traditions in the Indian Context ",
+        "name": "Jain Textual Traditions in the Indian Context",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -54397,7 +54397,7 @@
     },
     {
         "code": "RSM1698H",
-        "name": "Management Practicum ",
+        "name": "Management Practicum",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -54406,7 +54406,7 @@
     },
     {
         "code": "RSM1699H",
-        "name": "Management Analytics ",
+        "name": "Management Analytics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -54532,7 +54532,7 @@
     },
     {
         "code": "RSM2026",
-        "name": "Strategic Management of AI and New Technologies ",
+        "name": "Strategic Management of AI and New Technologies",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -54541,7 +54541,7 @@
     },
     {
         "code": "RSM2026H",
-        "name": "Strategic Management of AI and New Technologies ",
+        "name": "Strategic Management of AI and New Technologies",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -56908,7 +56908,7 @@
     },
     {
         "code": "RSM8451H",
-        "name": "Advanced Topics in AI Applications ",
+        "name": "Advanced Topics in AI Applications",
         "prereq": null,
         "exclusion": "Students who have completed RSM8431Y in the full-time MMA program cannot receive credit for RSM8451H , as the courses share a similar colloquia structure and some overlapping content, though RSM8451H is taught from a more managerial perspective with an AI-specific focus.",
         "corequisite": null,
@@ -56962,7 +56962,7 @@
     },
     {
         "code": "RSM8901H",
-        "name": "Business Fundamentals for Management Analytics ",
+        "name": "Business Fundamentals for Management Analytics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -57385,7 +57385,7 @@
     },
     {
         "code": "SJE1979H",
-        "name": "Race, Gender and Empire in Socialist States ",
+        "name": "Race, Gender and Empire in Socialist States",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -57448,7 +57448,7 @@
     },
     {
         "code": "SJE2030H",
-        "name": "Disability Studies and the Human Imaginary ",
+        "name": "Disability Studies and the Human Imaginary",
         "prereq": null,
         "exclusion": "SJE5004H",
         "corequisite": null,
@@ -58744,7 +58744,7 @@
     },
     {
         "code": "SOC6701H",
-        "name": "The Logic and Design of Social Research ",
+        "name": "The Logic and Design of Social Research",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -61291,7 +61291,7 @@
     },
     {
         "code": "URD1031H",
-        "name": "Urban History Theory Criticism ",
+        "name": "Urban History Theory Criticism",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -61858,7 +61858,7 @@
     },
     {
         "code": "WPL3930H",
-        "name": "Practitioner Communities in Workplace Learning ",
+        "name": "Practitioner Communities in Workplace Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,

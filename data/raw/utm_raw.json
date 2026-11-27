@@ -1900,7 +1900,7 @@
     },
     {
         "code": "BIO444H5",
-        "name": "Urban Field Ecology and Evolution ",
+        "name": "Urban Field Ecology and Evolution",
         "prereq": "BIO152H5 and BIO153H5 and ( BIO205H5 or BIO342H5 ) and ( BIO259H5 or STA215H5 )",
         "exclusion": null,
         "corequisite": null,
@@ -2152,7 +2152,7 @@
     },
     {
         "code": "CCT221H5",
-        "name": "Digital Marketing I ",
+        "name": "Digital Marketing I",
         "prereq": "CCT109H5 and CCT110H5 and ( CCT111H5 or CCT112H5 )",
         "exclusion": "CCT322H5 or MGT252H5 or MGT352H5",
         "corequisite": null,
@@ -2188,7 +2188,7 @@
     },
     {
         "code": "CCT226H5",
-        "name": "Data Analysis I ",
+        "name": "Data Analysis I",
         "prereq": "CCT109H5 and CCT110H5 and ( CCT111H5 or CCT112H5 )",
         "exclusion": null,
         "corequisite": null,
@@ -2314,7 +2314,7 @@
     },
     {
         "code": "CCT306H5",
-        "name": "Interpersonal Communication ",
+        "name": "Interpersonal Communication",
         "prereq": "Completion of 8.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -3016,7 +3016,7 @@
     },
     {
         "code": "CCT487H5",
-        "name": "Advanced Communication Policy in a Global Context ",
+        "name": "Advanced Communication Policy in a Global Context",
         "prereq": "CCT206H5 and CCT332H5",
         "exclusion": null,
         "corequisite": null,
@@ -3133,7 +3133,7 @@
     },
     {
         "code": "CHI304H5",
-        "name": "Intermediate High Chinese II ",
+        "name": "Intermediate High Chinese II",
         "prereq": "CHI303H5 or as indicated by the Chinese Language Assessment Questionnaire .",
         "exclusion": "CHI201H5 or CHI202H5 or EAS300Y1 or LGGC60H3 or LGGC61H3",
         "corequisite": null,
@@ -3187,7 +3187,7 @@
     },
     {
         "code": "CHI314H5",
-        "name": "Chinese Culture through Media ",
+        "name": "Chinese Culture through Media",
         "prereq": "CHI211H5 and CHI212H5",
         "exclusion": null,
         "corequisite": null,
@@ -3196,7 +3196,7 @@
     },
     {
         "code": "CHI403H5",
-        "name": "Advanced Chinese I ",
+        "name": "Advanced Chinese I",
         "prereq": "CHI304H5 or as indicated by the Chinese Language Assessment Questionnaire .",
         "exclusion": "EAS401H1",
         "corequisite": null,
@@ -4753,7 +4753,7 @@
     },
     {
         "code": "CSC415H5",
-        "name": "Introduction to Reinforcement Learning ",
+        "name": "Introduction to Reinforcement Learning",
         "prereq": "CSC311H5",
         "exclusion": "CSC498H5 (Winter 2021 and Fall 2021)",
         "corequisite": null,
@@ -4852,7 +4852,7 @@
     },
     {
         "code": "CSC479H5",
-        "name": "Advanced Algorithms for Robotics ",
+        "name": "Advanced Algorithms for Robotics",
         "prereq": "CSC311H5 and CSC375H5",
         "exclusion": null,
         "corequisite": null,
@@ -4897,7 +4897,7 @@
     },
     {
         "code": "CSC495H5",
-        "name": "Topics in Information Security ",
+        "name": "Topics in Information Security",
         "prereq": "CSC347H5 . Additional required prerequisite(s) will be available on the UTM timetable along with the topic title prior to course registration.",
         "exclusion": null,
         "corequisite": null,
@@ -5176,7 +5176,7 @@
     },
     {
         "code": "DRE381H5",
-        "name": "Creative Devising at the Shaw Festival ",
+        "name": "Creative Devising at the Shaw Festival",
         "prereq": "6.0 credits, including DRE121H5 and DRE122H5 and DRE200H5 and DRE222H5 or approved equivalent courses. Students are admitted by approved application. Please contact the Undergraduate Advisor for more information.",
         "exclusion": null,
         "corequisite": null,
@@ -5185,7 +5185,7 @@
     },
     {
         "code": "DRE389H5",
-        "name": "Internship in Theatre and Drama ",
+        "name": "Internship in Theatre and Drama",
         "prereq": "3.0 credits in DRE, a CGPA of 3.0, and permission of the internship coordinator.",
         "exclusion": null,
         "corequisite": null,
@@ -5518,7 +5518,7 @@
     },
     {
         "code": "ECO225H5",
-        "name": "Data Tools for Economists ",
+        "name": "Data Tools for Economists",
         "prereq": "(( ECO101H5 (63%) and ECO102H5 (63%)) and ( MAT133Y5 (63%) or ( MAT135H5 and MAT136H5 ) or ( MAT137H5 and MAT139H5 )) and ( CSC108H5 or MGT201H5 )",
         "exclusion": "ECO225H1",
         "corequisite": null,
@@ -5617,7 +5617,7 @@
     },
     {
         "code": "ECO313H5",
-        "name": "Environmental Economics ",
+        "name": "Environmental Economics",
         "prereq": "ECO200Y5 or ECO204Y5 or ECO206Y5",
         "exclusion": "ECO313H1",
         "corequisite": null,
@@ -6148,7 +6148,7 @@
     },
     {
         "code": "EDS291H5",
-        "name": "Black Education ",
+        "name": "Black Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -6742,7 +6742,7 @@
     },
     {
         "code": "ENG309H5",
-        "name": "Anishinaabe Storytelling and Oral Tradition ",
+        "name": "Anishinaabe Storytelling and Oral Tradition",
         "prereq": "1.0 credit in ENG and 3.0 additional credits.",
         "exclusion": null,
         "corequisite": null,
@@ -6940,7 +6940,7 @@
     },
     {
         "code": "ENG332H5",
-        "name": "Restoration and 18th Century Literature ",
+        "name": "Restoration and 18th Century Literature",
         "prereq": "1.0 credit in ENG and 3.0 additional credits",
         "exclusion": "ENG308Y5",
         "corequisite": null,
@@ -9388,7 +9388,7 @@
     },
     {
         "code": "FRE364H5",
-        "name": "Society through the French Novel ",
+        "name": "Society through the French Novel",
         "prereq": "FRE240H5 and [ FRE280Y5 or ( FRE282H5 and FRE283H5 ) or (a min. grade of 77% in FSL406H5 )]",
         "exclusion": "FRE364Y5",
         "corequisite": null,
@@ -9442,7 +9442,7 @@
     },
     {
         "code": "FRE378H5",
-        "name": "French Syntax and the Multilingual Speaker ",
+        "name": "French Syntax and the Multilingual Speaker",
         "prereq": "( FRE272H5 or FRE272Y5 ) and [ FRE280Y5 or ( FRE282H5 and FRE283H5 ) or (a minimum grade of 77% in FSL406H5 )]",
         "exclusion": "FRE378H1",
         "corequisite": null,
@@ -9523,7 +9523,7 @@
     },
     {
         "code": "FRE391H5",
-        "name": "Women and LGBTQ+ Writers and Filmmakers of the Francophone World ",
+        "name": "Women and LGBTQ+ Writers and Filmmakers of the Francophone World",
         "prereq": "FRE240H5 and [ FRE280Y5 or ( FRE282H5 and FRE283H5 ) or (a min. grade of 77% in FSL406H5 )]",
         "exclusion": null,
         "corequisite": null,
@@ -9550,7 +9550,7 @@
     },
     {
         "code": "FRE397H5",
-        "name": "Francophone African and Caribbean Cinema ",
+        "name": "Francophone African and Caribbean Cinema",
         "prereq": "FRE240H5 and [ FRE280Y5 or ( FRE282H5 and FRE283H5 ) or (a min. grade of 77% in FSL406H5 )]",
         "exclusion": null,
         "corequisite": null,
@@ -9613,7 +9613,7 @@
     },
     {
         "code": "FRE445H5",
-        "name": "Special Topics in French & Francophone Literary and Cultural Studies I ",
+        "name": "Special Topics in French & Francophone Literary and Cultural Studies I",
         "prereq": "(0.5 credit at the 300-level from the French & Francophone Literary and Cultural Studies category) and (0.5 credit of FRE at the 300-level, determined annually contingent on course content)",
         "exclusion": null,
         "corequisite": null,
@@ -9658,7 +9658,7 @@
     },
     {
         "code": "FRE488H5",
-        "name": " Advanced Topics in Theoretical French Linguistics ",
+        "name": "Advanced Topics in Theoretical French Linguistics",
         "prereq": "0.5 credit from the French Linguistics category plus 0.5 FRE 300-level credit determined annually contingent on course content.",
         "exclusion": null,
         "corequisite": null,
@@ -10234,7 +10234,7 @@
     },
     {
         "code": "GER250H5",
-        "name": " Introduction to German Culture",
+        "name": "Introduction to German Culture",
         "prereq": null,
         "exclusion": "GER150H5",
         "corequisite": null,
@@ -10765,7 +10765,7 @@
     },
     {
         "code": "GGR366H5",
-        "name": "(Under)development and Health ",
+        "name": "(Under)development and Health",
         "prereq": "9.0 credits",
         "exclusion": "GGR265H5",
         "corequisite": null,
@@ -10837,7 +10837,7 @@
     },
     {
         "code": "GGR380H5",
-        "name": " Geographic Approaches to Health Research: Methods and Ethics",
+        "name": "Geographic Approaches to Health Research: Methods and Ethics",
         "prereq": "GGR277H5 or approved equivalent",
         "exclusion": null,
         "corequisite": null,
@@ -11701,7 +11701,7 @@
     },
     {
         "code": "HIS341H5",
-        "name": "England in the Age of Reformation and Revolution ",
+        "name": "England in the Age of Reformation and Revolution",
         "prereq": null,
         "exclusion": "HIS395H5 (Fall 2019)",
         "corequisite": null,
@@ -12790,7 +12790,7 @@
     },
     {
         "code": "ITA237H5",
-        "name": "Witches, Myths, and Legends in Italy ",
+        "name": "Witches, Myths, and Legends in Italy",
         "prereq": "Open to all students. If enrolled in an Italian program: ITA100Y5 or permission of the department.",
         "exclusion": null,
         "corequisite": null,
@@ -12961,7 +12961,7 @@
     },
     {
         "code": "ITA370H5",
-        "name": " Machiavelli’s The Prince",
+        "name": "Machiavelli’s The Prince",
         "prereq": "Open to all students. If enrolled in an Italian program: ITA200Y5 or ITA201Y5 or permission of the department.",
         "exclusion": "ITA400H1",
         "corequisite": null,
@@ -13051,7 +13051,7 @@
     },
     {
         "code": "ITA394H5",
-        "name": "Black Voices in Italian Culture ",
+        "name": "Black Voices in Italian Culture",
         "prereq": "Open to all students. If enrolled in an Italian program: ITA200Y5 or ITA201Y5 or permission of the department.",
         "exclusion": "ITA349H1",
         "corequisite": null,
@@ -13060,7 +13060,7 @@
     },
     {
         "code": "ITA395H5",
-        "name": " Topics in Italian Studies",
+        "name": "Topics in Italian Studies",
         "prereq": "Open to all students. If enrolled in an Italian program: ITA200Y5 or ITA201Y5 or permission of the department.",
         "exclusion": null,
         "corequisite": null,
@@ -13762,7 +13762,7 @@
     },
     {
         "code": "LIN352H5",
-        "name": "English Language Linguistics in the Public Sphere ",
+        "name": "English Language Linguistics in the Public Sphere",
         "prereq": "LIN205H5 or LIN256H5 or JAL253H5",
         "exclusion": null,
         "corequisite": null,
@@ -13834,7 +13834,7 @@
     },
     {
         "code": "LIN376H5",
-        "name": "Linguistic Phenomena in the World’s Languages ",
+        "name": "Linguistic Phenomena in the World’s Languages",
         "prereq": "1.0 credit from the following: LIN228H5 or LIN229H5 or LIN231H5 or LIN232H5 or LIN237H5 or LIN256H5 or JLP285H5",
         "exclusion": null,
         "corequisite": null,
@@ -15751,7 +15751,7 @@
     },
     {
         "code": "PHL241H5",
-        "name": "Ethics of Artificial Intelligence ",
+        "name": "Ethics of Artificial Intelligence",
         "prereq": "PHL103H5 or PHL113H5 or 4.0 credits",
         "exclusion": "PHLB18H3",
         "corequisite": null,
@@ -16669,7 +16669,7 @@
     },
     {
         "code": "POL116H5",
-        "name": "Politics & Social Justice ",
+        "name": "Politics & Social Justice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -17038,7 +17038,7 @@
     },
     {
         "code": "POL361H5",
-        "name": "Democracy and its interruptions in Latin America ",
+        "name": "Democracy and its interruptions in Latin America",
         "prereq": "2.0 POL credits or 8.0 credits",
         "exclusion": "POLC91H3",
         "corequisite": null,
@@ -17308,7 +17308,7 @@
     },
     {
         "code": "POL448H5",
-        "name": "Protest and Social Movements in Comparative and Transnational Perspective ",
+        "name": "Protest and Social Movements in Comparative and Transnational Perspective",
         "prereq": "4.0 POL credits, including 1.0 POL credit at the 300-level",
         "exclusion": "POL443Y5 (2018-2019; Winter 2020; 2020-2021; 2021-2022; 2023-2024)",
         "corequisite": null,
@@ -19297,7 +19297,7 @@
     },
     {
         "code": "SOC212H5",
-        "name": "So, You Want To Be a Lawyer? ",
+        "name": "So, You Want To Be a Lawyer?",
         "prereq": "1.0 SSC credit",
         "exclusion": null,
         "corequisite": null,
@@ -19369,7 +19369,7 @@
     },
     {
         "code": "SOC228H5",
-        "name": " Introduction to Indigenous Studies",
+        "name": "Introduction to Indigenous Studies",
         "prereq": "0.5 SSC credit",
         "exclusion": null,
         "corequisite": null,
@@ -19495,7 +19495,7 @@
     },
     {
         "code": "SOC304H5",
-        "name": " Environmental Sociology",
+        "name": "Environmental Sociology",
         "prereq": "SOC100H5 and 1.0 SSC credit at the 200-level",
         "exclusion": "SOC336H5 S Special Topics in Sociology:Environmental Sociology (Winter 2020)",
         "corequisite": null,
@@ -19603,7 +19603,7 @@
     },
     {
         "code": "SOC319H5",
-        "name": "Capitalism and Society ",
+        "name": "Capitalism and Society",
         "prereq": "SOC231H5",
         "exclusion": null,
         "corequisite": null,
@@ -19873,7 +19873,7 @@
     },
     {
         "code": "SOC353H5",
-        "name": "Borders and Human Rights ",
+        "name": "Borders and Human Rights",
         "prereq": "( SOC109H5 or SOC209H5 ) and ( SOC205H5 or SOC231H5 ) and SOC221H5 and SOC222H5",
         "exclusion": null,
         "corequisite": null,
@@ -19918,7 +19918,7 @@
     },
     {
         "code": "SOC360H5",
-        "name": "Movements for Environmental Justice ",
+        "name": "Movements for Environmental Justice",
         "prereq": "( SOC205H5 or SOC231H5 ) and SOC221H5 and SOC222H5",
         "exclusion": "SOC336H5 (Fall 2024)",
         "corequisite": null,
@@ -19981,7 +19981,7 @@
     },
     {
         "code": "SOC368H5",
-        "name": "Global Perspectives on Gang Culture ",
+        "name": "Global Perspectives on Gang Culture",
         "prereq": "SOC109H5 and 1.0 SOC credit at the 200-level",
         "exclusion": null,
         "corequisite": null,
@@ -20080,7 +20080,7 @@
     },
     {
         "code": "SOC388H5",
-        "name": " Race and Indigeneity",
+        "name": "Race and Indigeneity",
         "prereq": "1.0 SSC credit",
         "exclusion": null,
         "corequisite": null,
@@ -20368,7 +20368,7 @@
     },
     {
         "code": "SOC428H5",
-        "name": "Health, Disability, and Crisis ",
+        "name": "Health, Disability, and Crisis",
         "prereq": "SOC221H5 and SOC222H5",
         "exclusion": null,
         "corequisite": null,
@@ -20395,7 +20395,7 @@
     },
     {
         "code": "SOC431H5",
-        "name": "Museums & Indigenous Peoples ",
+        "name": "Museums & Indigenous Peoples",
         "prereq": "1.0 SSC credit, including 0.5 credit at the 300-level",
         "exclusion": null,
         "corequisite": null,
@@ -20431,7 +20431,7 @@
     },
     {
         "code": "SOC435H5",
-        "name": "Sociology of Environmental Health ",
+        "name": "Sociology of Environmental Health",
         "prereq": "SOC100H5 and ( SOC205H5 or SOC231H5 )",
         "exclusion": null,
         "corequisite": null,
@@ -20899,7 +20899,7 @@
     },
     {
         "code": "STA246H5",
-        "name": "Computational Probability and Statistics ",
+        "name": "Computational Probability and Statistics",
         "prereq": "( CSC148H5 or CSC111H5 ) and ( MAT134H5 or MAT136H5 or MAT137Y5 or MAT139H5 or MAT157Y5 or MAT159H5 or a minimum 65% in MAT133Y5 )",
         "exclusion": "STA256H5 or STA237H1 or STA247H1 or STA257H1 or STAB52H3 or ECO227Y5",
         "corequisite": null,
@@ -21700,7 +21700,7 @@
     },
     {
         "code": "WGS211H5",
-        "name": "Gender, Technology and the Body ",
+        "name": "Gender, Technology and the Body",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -21790,7 +21790,7 @@
     },
     {
         "code": "WGS341H5",
-        "name": "Black Queer Cinema and Visual Culture  ",
+        "name": "Black Queer Cinema and Visual Culture",
         "prereq": "WGS200H5 or WGS200Y5 or WGS205H5",
         "exclusion": null,
         "corequisite": null,
@@ -21988,7 +21988,7 @@
     },
     {
         "code": "WGS415H5",
-        "name": "Black Feminist Performance in Popular Culture and Everyday Life ",
+        "name": "Black Feminist Performance in Popular Culture and Everyday Life",
         "prereq": "WGS200H5 or WGS200Y5 and 1.0 WGS 300+ level credits.",
         "exclusion": null,
         "corequisite": null,
@@ -22033,7 +22033,7 @@
     },
     {
         "code": "WGS425H5",
-        "name": "Decolonial Feminist Archival Practices ",
+        "name": "Decolonial Feminist Archival Practices",
         "prereq": "WGS200H5 or WGS200Y5 and 1.0 WGS 300+ level credits.",
         "exclusion": null,
         "corequisite": null,

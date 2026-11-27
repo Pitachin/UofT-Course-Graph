@@ -343,7 +343,7 @@
     },
     {
         "code": "AFR199H1",
-        "name": "Africa in Toronto ",
+        "name": "Africa in Toronto",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -892,7 +892,7 @@
     },
     {
         "code": "ANT191H1",
-        "name": "Personhood and Technologies of Reason ",
+        "name": "Personhood and Technologies of Reason",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1333,7 +1333,7 @@
     },
     {
         "code": "ANT364H1",
-        "name": "Advocating Environmental and Climate Justice ",
+        "name": "Advocating Environmental and Climate Justice",
         "prereq": "ANT204H1 / ANT207H1 / ANT215H1 . Students who do not meet the prerequisite are encouraged to contact the Department.",
         "exclusion": null,
         "corequisite": null,
@@ -1756,7 +1756,7 @@
     },
     {
         "code": "ANT461H1",
-        "name": "Literary Anthropology ",
+        "name": "Literary Anthropology",
         "prereq": "ANT207H1 and 1.0 credit at the 300+ level from Group C (Society, Culture and Language)",
         "exclusion": "ANT484H1 ( Literary Anthropology ) offered in Winter 2026",
         "corequisite": null,
@@ -3007,7 +3007,7 @@
     },
     {
         "code": "BMS351H1",
-        "name": "The Illustrated Dante ",
+        "name": "The Illustrated Dante",
         "prereq": "Completion of 6.0 credits including BMS100H1 , BMS200Y1 , BMS201H1 . Students who do not meet these prerequisites are encouraged to contact the unit.",
         "exclusion": "BMS302H1 S (Special Topics in Book & Media Histories: The Illustrated Dante ) offered in Winter 2024.",
         "corequisite": null,
@@ -3016,7 +3016,7 @@
     },
     {
         "code": "BMS352H1",
-        "name": "Media and the Myths of Romance ",
+        "name": "Media and the Myths of Romance",
         "prereq": "Completion of 6.0 credits including BMS100H1 , BMS200Y1 , BMS201H1 . Students who do not meet these prerequisites are encouraged to contact the unit.",
         "exclusion": "BMS301H1 (Special Topics in Book & Media Cultures: Media & The Myths of Romance ) offered in Winter 2024.",
         "corequisite": null,
@@ -3466,7 +3466,7 @@
     },
     {
         "code": "CAR220H1",
-        "name": "Comparative Caribbean Literature ",
+        "name": "Comparative Caribbean Literature",
         "prereq": null,
         "exclusion": "NEW220H1 , NEW222H1 , NEW222Y1 , NEW223Y1",
         "corequisite": null,
@@ -3583,7 +3583,7 @@
     },
     {
         "code": "CAR391H1",
-        "name": "Caribbean Studies Independent Study Course ",
+        "name": "Caribbean Studies Independent Study Course",
         "prereq": "9.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -3655,7 +3655,7 @@
     },
     {
         "code": "CAR490Y1",
-        "name": "Caribbean Studies Independent Study Course ",
+        "name": "Caribbean Studies Independent Study Course",
         "prereq": "9.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -3664,7 +3664,7 @@
     },
     {
         "code": "CAR491H1",
-        "name": "Caribbean Studies Independent Study Course ",
+        "name": "Caribbean Studies Independent Study Course",
         "prereq": "9.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -3727,7 +3727,7 @@
     },
     {
         "code": "CAS203H1",
-        "name": "Conflict & Cooperation in Asia ",
+        "name": "Conflict & Cooperation in Asia",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3781,7 +3781,7 @@
     },
     {
         "code": "CAS380H1",
-        "name": "Chinese Politics Beyond the Headlines ",
+        "name": "Chinese Politics Beyond the Headlines",
         "prereq": "4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -3979,7 +3979,7 @@
     },
     {
         "code": "CDN235H1",
-        "name": "Learning While Black ",
+        "name": "Learning While Black",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4105,7 +4105,7 @@
     },
     {
         "code": "CDN370H1",
-        "name": "Special Topics in Canadian Studies ",
+        "name": "Special Topics in Canadian Studies",
         "prereq": "8.0 credits completed.",
         "exclusion": null,
         "corequisite": null,
@@ -4231,7 +4231,7 @@
     },
     {
         "code": "CDN470H1",
-        "name": "Special Topics in Canadian Studies ",
+        "name": "Special Topics in Canadian Studies",
         "prereq": "12.0 credits completed.",
         "exclusion": null,
         "corequisite": null,
@@ -4681,7 +4681,7 @@
     },
     {
         "code": "CHM198H1",
-        "name": "Biosensor Technology and Applications for the Non-Scientist ",
+        "name": "Biosensor Technology and Applications for the Non-Scientist",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5563,7 +5563,7 @@
     },
     {
         "code": "CIN365H1",
-        "name": "Nonfiction Video Practice ",
+        "name": "Nonfiction Video Practice",
         "prereq": "CIN105Y1 , CIN201Y1",
         "exclusion": null,
         "corequisite": null,
@@ -5779,7 +5779,7 @@
     },
     {
         "code": "CIN450H1",
-        "name": "Advanced Study in Theory and Criticism ",
+        "name": "Advanced Study in Theory and Criticism",
         "prereq": "At least 10.0 credits, including CIN105Y1 , CIN201Y1",
         "exclusion": null,
         "corequisite": "CIN301Y1",
@@ -6274,7 +6274,7 @@
     },
     {
         "code": "CLA209H1",
-        "name": "Magic, Religion, and Science ",
+        "name": "Magic, Religion, and Science",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -6850,7 +6850,7 @@
     },
     {
         "code": "CLT336H1",
-        "name": "Sport in Ireland ",
+        "name": "Sport in Ireland",
         "prereq": "Completion of 4.0 credits",
         "exclusion": "CLT333H1 (Special Topics in Celtic Studies I: Sport in Ireland), offered in Fall 2022",
         "corequisite": null,
@@ -6886,7 +6886,7 @@
     },
     {
         "code": "CLT340H1",
-        "name": "Ireland Transformed, 1948-2020 ",
+        "name": "Ireland Transformed, 1948-2020",
         "prereq": "4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -6949,7 +6949,7 @@
     },
     {
         "code": "CLT353H1",
-        "name": "The Scottish Witch-Hunt in its European Contexts ",
+        "name": "The Scottish Witch-Hunt in its European Contexts",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -7282,7 +7282,7 @@
     },
     {
         "code": "CRE247H1",
-        "name": "Creativity in the Sciences ",
+        "name": "Creativity in the Sciences",
         "prereq": "Any 1.0 credit combination of courses carrying a breadth requirement (BR) category of 4 or 5.",
         "exclusion": null,
         "corequisite": null,
@@ -7318,7 +7318,7 @@
     },
     {
         "code": "CRE272H1",
-        "name": "Song, Lyrics, and Songwriting ",
+        "name": "Song, Lyrics, and Songwriting",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -7561,7 +7561,7 @@
     },
     {
         "code": "CRI205H1",
-        "name": "Introduction to Criminology ",
+        "name": "Introduction to Criminology",
         "prereq": "4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -7570,7 +7570,7 @@
     },
     {
         "code": "CRI210H1",
-        "name": "Criminal Justice ",
+        "name": "Criminal Justice",
         "prereq": "CRI205H1",
         "exclusion": null,
         "corequisite": null,
@@ -7579,7 +7579,7 @@
     },
     {
         "code": "CRI215H1",
-        "name": "Introduction to Sociolegal Studies ",
+        "name": "Introduction to Sociolegal Studies",
         "prereq": "4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -7615,7 +7615,7 @@
     },
     {
         "code": "CRI300H1",
-        "name": "Theories of Criminal Justice ",
+        "name": "Theories of Criminal Justice",
         "prereq": "( CRI205H1 and CRI225H1 ) or 1.0 credit at the 300+ level from HIS/PHL/POL/SOC",
         "exclusion": null,
         "corequisite": null,
@@ -7633,7 +7633,7 @@
     },
     {
         "code": "CRI335H1",
-        "name": "Policing  ",
+        "name": "Policing",
         "prereq": "CRI210H1 / CRI215H1",
         "exclusion": null,
         "corequisite": null,
@@ -7669,7 +7669,7 @@
     },
     {
         "code": "CRI350H1",
-        "name": "Understanding Criminological Research ",
+        "name": "Understanding Criminological Research",
         "prereq": "CRI205H1 , CRI210H1",
         "exclusion": "SOC200H1 , SOC200Y1",
         "corequisite": null,
@@ -7714,7 +7714,7 @@
     },
     {
         "code": "CRI380H1",
-        "name": "Crime, Gender and Sex ",
+        "name": "Crime, Gender and Sex",
         "prereq": "( CRI205H1 and CRI210H1 ) or (70% in SOC212H1 and enrolment in Sociology program)",
         "exclusion": null,
         "corequisite": null,
@@ -7732,7 +7732,7 @@
     },
     {
         "code": "CRI385H1",
-        "name": "Representing Crime and Authority ",
+        "name": "Representing Crime and Authority",
         "prereq": "1.0 credit from: CRI205H1 , CRI210H1 , CRI225H1",
         "exclusion": null,
         "corequisite": null,
@@ -7759,7 +7759,7 @@
     },
     {
         "code": "CRI389Y0",
-        "name": "Topics in Criminology and Sociolegal Studies Abroad ",
+        "name": "Topics in Criminology and Sociolegal Studies Abroad",
         "prereq": "Consult the Summer Abroad Program Office.",
         "exclusion": null,
         "corequisite": null,
@@ -7813,7 +7813,7 @@
     },
     {
         "code": "CRI395H1",
-        "name": "Independent Study ",
+        "name": "Independent Study",
         "prereq": "CRI205H1 , CRI210H1 , CRI225H1 and 1.0 CRI credit at the 300-level",
         "exclusion": "CRI395Y1",
         "corequisite": null,
@@ -7822,7 +7822,7 @@
     },
     {
         "code": "CRI396H1",
-        "name": "Research Participation ",
+        "name": "Research Participation",
         "prereq": "9.0 credits",
         "exclusion": "CRI397Y1",
         "corequisite": null,
@@ -7894,7 +7894,7 @@
     },
     {
         "code": "CRI425H1",
-        "name": "The Prosecution Process ",
+        "name": "The Prosecution Process",
         "prereq": "CRI205H1 , CRI210H1 , CRI225H1 , 0.5 CRI credit at the 300-level",
         "exclusion": null,
         "corequisite": null,
@@ -7921,7 +7921,7 @@
     },
     {
         "code": "CRI429H1",
-        "name": "Youth Culture, Racialization and Crime in the Global Context ",
+        "name": "Youth Culture, Racialization and Crime in the Global Context",
         "prereq": "1.0 CRI credit at the 300-level (0.5 may be substituted by a 300+ level HIS/PHL/PSY/SOC course)",
         "exclusion": null,
         "corequisite": null,
@@ -7930,7 +7930,7 @@
     },
     {
         "code": "CRI431H1",
-        "name": "Mental Health, Morality & Legal Controls ",
+        "name": "Mental Health, Morality & Legal Controls",
         "prereq": "1.0 CRI credit at the 300-level",
         "exclusion": null,
         "corequisite": null,
@@ -7939,7 +7939,7 @@
     },
     {
         "code": "CRI435H1",
-        "name": "Advanced Seminar in Policing ",
+        "name": "Advanced Seminar in Policing",
         "prereq": "1.0 CRI credit at the 300-level",
         "exclusion": "CRI3130H1",
         "corequisite": null,
@@ -7948,7 +7948,7 @@
     },
     {
         "code": "CRI450H1",
-        "name": "Advanced Research/Reading ",
+        "name": "Advanced Research/Reading",
         "prereq": "1.5 CRI credits at the 300-level",
         "exclusion": null,
         "corequisite": null,
@@ -7957,7 +7957,7 @@
     },
     {
         "code": "CRI480H1",
-        "name": "Interpersonal Violence ",
+        "name": "Interpersonal Violence",
         "prereq": "1.0 CRI credit at the 300-level",
         "exclusion": null,
         "corequisite": null,
@@ -7993,7 +7993,7 @@
     },
     {
         "code": "CRI487H1",
-        "name": "Law, Space, and the City ",
+        "name": "Law, Space, and the City",
         "prereq": "1.0 CRI credit at the 300-level",
         "exclusion": "CRI3256H (when offered as a joint course)",
         "corequisite": null,
@@ -8290,7 +8290,7 @@
     },
     {
         "code": "CSB360H1",
-        "name": "Genetic Foundation of Molecular Biology ",
+        "name": "Genetic Foundation of Molecular Biology",
         "prereq": "BIO230H1 / BIO255H1 , BIO260H1 / HMB265H1 , CSB349H1",
         "exclusion": "MGY340H1",
         "corequisite": null,
@@ -8776,7 +8776,7 @@
     },
     {
         "code": "CSC271H1",
-        "name": "Computational Principles and Methods for Data Science ",
+        "name": "Computational Principles and Methods for Data Science",
         "prereq": "CSC108H1 / CSC108H5 / CSCA08H3 / CSC110Y1 / CSC148H1 / CSC148H5 / CSCA48H3",
         "exclusion": "CSC207H1 / CSC207H5 / CSCB07H3 / ECO225H1",
         "corequisite": null,
@@ -8947,7 +8947,7 @@
     },
     {
         "code": "CSC364H1",
-        "name": "Foundations of Computer Security ",
+        "name": "Foundations of Computer Security",
         "prereq": "CSC209H1 / CSC209H5 / CSCB09H3 , CSC236H1 / CSC236H5 / CSCB36H3 / CSC240H1",
         "exclusion": "CSC347H5 , CSC427H5 , ECE568H1 , CSCD27H3 NOTE: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
         "corequisite": "CSC369H1 / CSC369H5 / CSCC69H3",
@@ -8992,7 +8992,7 @@
     },
     {
         "code": "CSC374H1",
-        "name": "Introduction to Quantum Computing ",
+        "name": "Introduction to Quantum Computing",
         "prereq": "CSC263H1 / CSC265H1 / CSC263H5 / CSCB63H3 , MAT224H1 / MAT247H1 , STA237H1 / STA247H1 / STA255H1 / STA257H1 / MAT377H1",
         "exclusion": "PHY265H1 / PHY365H1 . Note: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
         "corequisite": null,
@@ -9019,7 +9019,7 @@
     },
     {
         "code": "CSC394H1",
-        "name": "Computer Science Project ",
+        "name": "Computer Science Project",
         "prereq": "9.0 credits including 2.0 credits in 200+ level CSC courses. Note: individual projects may have additional prerequisite requirements set by the supervising faculty member.",
         "exclusion": "Note: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
         "corequisite": null,
@@ -9028,7 +9028,7 @@
     },
     {
         "code": "CSC395H1",
-        "name": "Computer Science Project ",
+        "name": "Computer Science Project",
         "prereq": "CSC394H1 ; 9.0 credits, including 2.0 credits of 200+ level CSC courses. Note: individual projects may have additional prerequisite requirements set by the supervising faculty member.",
         "exclusion": "Note: Students not enrolled in the Computer Science Major or Specialist program at A&S, UTM, or UTSC, or the Data Science Specialist at A&S, are limited to a maximum of 1.5 credits in 300-/400-level CSC/ECE courses.",
         "corequisite": null,
@@ -10396,7 +10396,7 @@
     },
     {
         "code": "DTS200H1",
-        "name": "Introduction to Diaspora and Transnational Studies ",
+        "name": "Introduction to Diaspora and Transnational Studies",
         "prereq": null,
         "exclusion": "DTS200Y1 , DTS201H5 and DTS202H5",
         "corequisite": null,
@@ -10504,7 +10504,7 @@
     },
     {
         "code": "DTS401H1",
-        "name": "Advanced Topics in Diaspora and Transnationalism ",
+        "name": "Advanced Topics in Diaspora and Transnationalism",
         "prereq": "14.0 credits including DTS200H1 / DTS200Y1",
         "exclusion": null,
         "corequisite": null,
@@ -10513,7 +10513,7 @@
     },
     {
         "code": "DTS402H1",
-        "name": "Advanced Topics in Diaspora and Transnationalism ",
+        "name": "Advanced Topics in Diaspora and Transnationalism",
         "prereq": "14.0 credits including DTS200H1 / DTS200Y1",
         "exclusion": null,
         "corequisite": null,
@@ -10522,7 +10522,7 @@
     },
     {
         "code": "DTS403H1",
-        "name": "Advanced Topics in Diaspora and Transnationalism ",
+        "name": "Advanced Topics in Diaspora and Transnationalism",
         "prereq": "14.0 credits including DTS200H1 / DTS200Y1",
         "exclusion": null,
         "corequisite": null,
@@ -10540,7 +10540,7 @@
     },
     {
         "code": "DTS405H1",
-        "name": "Advanced Topics in Diaspora and Transnationalism ",
+        "name": "Advanced Topics in Diaspora and Transnationalism",
         "prereq": "14.0 credits including DTS200H1 / DTS200Y1",
         "exclusion": null,
         "corequisite": null,
@@ -10729,7 +10729,7 @@
     },
     {
         "code": "EAS193H1",
-        "name": "What is “The Yellow Peril”? ",
+        "name": "What is “The Yellow Peril”?",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -10855,7 +10855,7 @@
     },
     {
         "code": "EAS214H1",
-        "name": "Reading in Korean Across Genres ",
+        "name": "Reading in Korean Across Genres",
         "prereq": "EAS110Y1 / EAS211Y1 / LGGA10H3 and LGGA12H3 / a placement interview",
         "exclusion": null,
         "corequisite": null,
@@ -11620,7 +11620,7 @@
     },
     {
         "code": "EAS387H1",
-        "name": "Images and Ideas in Chinese Art ",
+        "name": "Images and Ideas in Chinese Art",
         "prereq": "EAS105H1",
         "exclusion": null,
         "corequisite": null,
@@ -11755,7 +11755,7 @@
     },
     {
         "code": "EAS403H1",
-        "name": "Chinese Language in Media ",
+        "name": "Chinese Language in Media",
         "prereq": "EAS401H1 / EAS402H1 / EAS404H1 or self-identified advanced and near-native user of Chinese.",
         "exclusion": null,
         "corequisite": null,
@@ -12358,7 +12358,7 @@
     },
     {
         "code": "ECO225H1",
-        "name": "Big-Data Tools for Economists ",
+        "name": "Big-Data Tools for Economists",
         "prereq": "( ECO101H1 (63%), ECO102H1 (63%))/ ECO105Y1 (80%)/ ECO100Y5 (67%)/ ( ECO101H5 (63%), ECO102H5 (63%))/ ( MGEA02H3 (67%), MGEA06H3 (67%)); MAT133Y1 (63%)/ ( MAT130H1 (60%)/ MAT135H1 (60%), MAT136H1 (60%))/ ( MAT148H1 (55%), MAT149H1 (55%)/ MAT137Y1 (55%))/  ( MAT158H1 (55%), MAT159H1 (55%)/ MAT157Y1 (55%); CSC108H1 / CSC110Y1 / CSC148H1",
         "exclusion": "CSC311H1 , ECO250Y0 (Special Topics Abroad in Economics: Big Data Tools and Machine Learning for Economists) taken in Summer 2023, ESC190H1 , JSC270H1 , STA314H1 , ECO225H5 .",
         "corequisite": null,
@@ -12718,7 +12718,7 @@
     },
     {
         "code": "ECO357H1",
-        "name": "Sports Economics ",
+        "name": "Sports Economics",
         "prereq": "ECO200Y1 / ECO204Y1 / ECO206Y1 , ECO220Y1 / ECO227Y1 / ( STA237H1 , STA238H1 )/ ( STA247H1 , STA248H1 )/ ( STA257H1 , STA261H1 )",
         "exclusion": "ECO353H1 (Topic: Sports Economics ) offered in Fall 2022, 2024 and 2025, Winter 2023 and 2024, and Summer 2023 and 2024; RSM384H1 .",
         "corequisite": null,
@@ -13177,7 +13177,7 @@
     },
     {
         "code": "ECO466H1",
-        "name": "Empirical Macroeconomics and Policy ",
+        "name": "Empirical Macroeconomics and Policy",
         "prereq": "ECO208Y1 (70%)/ ECO209Y1 (70%)/ ECO202Y1 (75%)/ ECO325H1 (70%), ECO374H1 (70%)/ ECO375H1 (70%)",
         "exclusion": "ECO466H5",
         "corequisite": null,
@@ -13258,7 +13258,7 @@
     },
     {
         "code": "EDS260H1",
-        "name": "Equity and Diversity in Education ",
+        "name": "Equity and Diversity in Education",
         "prereq": null,
         "exclusion": "VIC260H1 , JSV202H1",
         "corequisite": null,
@@ -13285,7 +13285,7 @@
     },
     {
         "code": "EDS263H1",
-        "name": "Disability, Inclusion and Education ",
+        "name": "Disability, Inclusion and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -14203,7 +14203,7 @@
     },
     {
         "code": "ENG254H1",
-        "name": "Introduction to Indigenous Literatures ",
+        "name": "Introduction to Indigenous Literatures",
         "prereq": "1.0 ENG credit or any 4.0 credits",
         "exclusion": "ENG254Y1",
         "corequisite": null,
@@ -14266,7 +14266,7 @@
     },
     {
         "code": "ENG286H1",
-        "name": "Literature and Data ",
+        "name": "Literature and Data",
         "prereq": "1.0 ENG credit or any 4.0 credits",
         "exclusion": "CSC111H1 , CSC148H1 , STA130H1 , STA238H1 , STA248H1 , STA261H1 , GGR274H1 , EEB125H1",
         "corequisite": null,
@@ -14527,7 +14527,7 @@
     },
     {
         "code": "ENG340H1",
-        "name": "Modern Drama ",
+        "name": "Modern Drama",
         "prereq": "2.0 ENG credits and any 4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -14698,7 +14698,7 @@
     },
     {
         "code": "ENG368H1",
-        "name": "Asian North American Literature ",
+        "name": "Asian North American Literature",
         "prereq": "2.0 ENG credits and any 4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -14707,7 +14707,7 @@
     },
     {
         "code": "ENG369H1",
-        "name": "South Asian Literatures in English ",
+        "name": "South Asian Literatures in English",
         "prereq": "2.0 ENG credits and any 4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -14932,7 +14932,7 @@
     },
     {
         "code": "ENG400H1",
-        "name": "Internship ",
+        "name": "Internship",
         "prereq": "14.0 credits, including ENG202H1 , ENG203H1 , ENG250H1 , ENG252H1 , and an additional 2.0 ENG credits; an application (including a short writing sample) is required.",
         "exclusion": null,
         "corequisite": null,
@@ -15643,7 +15643,7 @@
     },
     {
         "code": "ENV461H1",
-        "name": "The U of T Campus as a Living Lab of Sustainability ",
+        "name": "The U of T Campus as a Living Lab of Sustainability",
         "prereq": "Completion of 10.0 credits including ENV221H1 or ENV222H1 ; or permission of the Undergraduate Associate Director",
         "exclusion": null,
         "corequisite": null,
@@ -16417,7 +16417,7 @@
     },
     {
         "code": "EUR400H1",
-        "name": "Selected Topics in European Affairs ",
+        "name": "Selected Topics in European Affairs",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -16426,7 +16426,7 @@
     },
     {
         "code": "EUR401H1",
-        "name": "Selected Topics in European Affairs ",
+        "name": "Selected Topics in European Affairs",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -16552,7 +16552,7 @@
     },
     {
         "code": "FAH208H1",
-        "name": "Heroes of the Classical World ",
+        "name": "Heroes of the Classical World",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -18037,7 +18037,7 @@
     },
     {
         "code": "FOR199H1",
-        "name": "Trees in Architecture and Urban Design ",
+        "name": "Trees in Architecture and Urban Design",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -18819,8 +18819,8 @@
         "source_url": "https://artsci.calendar.utoronto.ca/search-courses?page=69"
     },
     {
-        "code": " French",
-        "name": "English",
+        "code": "FSL375H1",
+        "name": "Practical Translation: French - English",
         "prereq": "1.0 credit in FSL at the 300-level or placement in FSL420H1 based on the results of the French Placement Test",
         "exclusion": "FSL375Y1 , FSL415H1 , FSL442H1 , FSL443H1 , FSL472H1 , FSL473H1 , FSL475H1 . Students who are fluent French speakers or whose command of the French language is equivalent to near-native proficiency must contact the Department of French before enrolling in this course.",
         "corequisite": null,
@@ -18964,7 +18964,7 @@
     },
     {
         "code": "GER205H1",
-        "name": "Masterpieces of German Literature ",
+        "name": "Masterpieces of German Literature",
         "prereq": "GER100Y1",
         "exclusion": "GER300Y1 and GER301H1 taken previously.",
         "corequisite": "GER200Y1",
@@ -19270,7 +19270,7 @@
     },
     {
         "code": "GER370H1",
-        "name": "German Business Culture ",
+        "name": "German Business Culture",
         "prereq": "GER272H1 / GER200Y1 / GER201H1",
         "exclusion": null,
         "corequisite": null,
@@ -19630,7 +19630,7 @@
     },
     {
         "code": "GGR274H1",
-        "name": "Introductory Computation and Data Science for the Social Sciences ",
+        "name": "Introductory Computation and Data Science for the Social Sciences",
         "prereq": null,
         "exclusion": "CSC111H1 , CSC148H1 , STA130H1 , STA238H1 , STA248H1 , STA261H1 , EEB125H1",
         "corequisite": null,
@@ -20287,7 +20287,7 @@
     },
     {
         "code": "GGR493Y1",
-        "name": "Geography Professional Experience ",
+        "name": "Geography Professional Experience",
         "prereq": "14.5 credits and an application",
         "exclusion": null,
         "corequisite": null,
@@ -23275,7 +23275,7 @@
     },
     {
         "code": "HMB490Y1",
-        "name": "Health in Community ",
+        "name": "Health in Community",
         "prereq": "BIO230H1 / BIO255H1 , HMB265H1 / BIO260H1 , BCH210H1 , PSL300H1 , PSL301H1 , HMB200H1 / HMB201H1 / HMB202H1 / HMB203H1 / HMB204H1",
         "exclusion": "HMB473H1",
         "corequisite": null,
@@ -23428,7 +23428,7 @@
     },
     {
         "code": "HPS208H1",
-        "name": "How We Think About Life ",
+        "name": "How We Think About Life",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -23824,7 +23824,7 @@
     },
     {
         "code": "HPS422H1",
-        "name": "History of Data ",
+        "name": "History of Data",
         "prereq": "9.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -23860,7 +23860,7 @@
     },
     {
         "code": "HPS444H1",
-        "name": "Health, Medicine, and Society in the Mediterranean World ",
+        "name": "Health, Medicine, and Society in the Mediterranean World",
         "prereq": "1.0 credit from the following: HPS205H1 , HPS240H1 , HPS245H1 , HPS260H1 , HPS301H1 , HPS304H1 , HPS316H1 , HPS318H1 , HPS319H1 , HPS331H1 , HPS351H1 , HPS354H1 , HPS402H1 , HPS412H1 , HPS430H1 , HPS431H1 , HPS442H1 , HIS218H1 , HIS313H1 . At least one 0.5 credit must be at the 300+ level. Students who do not meet the prerequisites are encouraged to contact the academic unit.",
         "exclusion": null,
         "corequisite": null,
@@ -24175,7 +24175,7 @@
     },
     {
         "code": "INI101H1",
-        "name": "Writing, Advocacy, and Social Media ",
+        "name": "Writing, Advocacy, and Social Media",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -24292,7 +24292,7 @@
     },
     {
         "code": "INS220Y1",
-        "name": "Introduction to Kanien’kéha (Mohawk Language) ",
+        "name": "Introduction to Kanien’kéha (Mohawk Language)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -24328,7 +24328,7 @@
     },
     {
         "code": "INS242H1",
-        "name": "Ecological Interactions in Indigenous and Western Sciences ",
+        "name": "Ecological Interactions in Indigenous and Western Sciences",
         "prereq": "INS201Y1 / ( INS201H1 , INS202H1 )",
         "exclusion": "INS240Y1",
         "corequisite": null,
@@ -24373,7 +24373,7 @@
     },
     {
         "code": "INS303H1",
-        "name": "Understanding Indigenous Language Vitality and Endangerment   ",
+        "name": "Understanding Indigenous Language Vitality and Endangerment",
         "prereq": "5.0 credits including INS201Y1 / ( INS201H1 , INS202H1 ), plus 1.0 additional INS credit",
         "exclusion": null,
         "corequisite": null,
@@ -24382,7 +24382,7 @@
     },
     {
         "code": "INS304H1",
-        "name": "Best Practices in Indigenous Language Revitalization ",
+        "name": "Best Practices in Indigenous Language Revitalization",
         "prereq": "5.0 credits including INS201Y1 / ( INS201H1 , INS202H1 ), plus 1.0 additional INS credit",
         "exclusion": null,
         "corequisite": null,
@@ -24418,7 +24418,7 @@
     },
     {
         "code": "INS320Y1",
-        "name": "Kanien’kéha II ",
+        "name": "Kanien’kéha II",
         "prereq": "INS220Y1",
         "exclusion": "INS323Y1",
         "corequisite": null,
@@ -24598,7 +24598,7 @@
     },
     {
         "code": "INS460H1",
-        "name": "Indigenous Theory, Research and Methods ",
+        "name": "Indigenous Theory, Research and Methods",
         "prereq": "10.0 credits, including INS201Y1 / ( INS201H1 , INS202H1 ) and INS390H1 , and 1.0 additional INS credit",
         "exclusion": null,
         "corequisite": null,
@@ -24688,7 +24688,7 @@
     },
     {
         "code": "INT200H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "PDC221H1",
         "exclusion": null,
         "corequisite": null,
@@ -24697,7 +24697,7 @@
     },
     {
         "code": "INT300H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "PDC321H1",
         "exclusion": "INT301H1",
         "corequisite": null,
@@ -24706,7 +24706,7 @@
     },
     {
         "code": "INT301H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "PDC231H1 , PDC331H1",
         "exclusion": "INT300H1",
         "corequisite": null,
@@ -24715,7 +24715,7 @@
     },
     {
         "code": "INT400H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "INT300H1",
         "exclusion": "INT401H1",
         "corequisite": null,
@@ -24724,7 +24724,7 @@
     },
     {
         "code": "INT401H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "INT301H1",
         "exclusion": "INT400H1",
         "corequisite": null,
@@ -24733,7 +24733,7 @@
     },
     {
         "code": "INT450H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "INT400H1",
         "exclusion": "INT451H1",
         "corequisite": null,
@@ -24742,7 +24742,7 @@
     },
     {
         "code": "INT451H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "INT401H1",
         "exclusion": "INT450H1",
         "corequisite": null,
@@ -24751,7 +24751,7 @@
     },
     {
         "code": "INT470H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "INT450H1",
         "exclusion": "INT471H1",
         "corequisite": null,
@@ -24760,7 +24760,7 @@
     },
     {
         "code": "INT471H1",
-        "name": "Arts & Science Internship Program - Professional Work Term ",
+        "name": "Arts & Science Internship Program - Professional Work Term",
         "prereq": "INT451H1",
         "exclusion": "INT470H1",
         "corequisite": null,
@@ -24787,7 +24787,7 @@
     },
     {
         "code": "IRE244H1",
-        "name": "Labour Relations ",
+        "name": "Labour Relations",
         "prereq": "4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -24823,7 +24823,7 @@
     },
     {
         "code": "IRE332Y0",
-        "name": "Topics in Industrial Relations and Human Resources (Summer Abroad Program) ",
+        "name": "Topics in Industrial Relations and Human Resources (Summer Abroad Program)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -24832,7 +24832,7 @@
     },
     {
         "code": "IRE339H1",
-        "name": "Labour Markets and Public Policy ",
+        "name": "Labour Markets and Public Policy",
         "prereq": "ECO101H1 / ECO105Y1 / IRW230H1",
         "exclusion": "ECO339H1",
         "corequisite": null,
@@ -24868,7 +24868,7 @@
     },
     {
         "code": "IRE346H1",
-        "name": "HR Planning & Strategy ",
+        "name": "HR Planning & Strategy",
         "prereq": "0.5 credit from: IRE244H1 , IRE260H1 , IRW220H1 , IRW230H1 , IRW240H1",
         "exclusion": null,
         "corequisite": null,
@@ -24895,7 +24895,7 @@
     },
     {
         "code": "IRE367H1",
-        "name": "Compensation ",
+        "name": "Compensation",
         "prereq": "IRE242H1",
         "exclusion": null,
         "corequisite": null,
@@ -24931,7 +24931,7 @@
     },
     {
         "code": "IRE396H1",
-        "name": "Research Participation ",
+        "name": "Research Participation",
         "prereq": "IRE244H1 , IRE260H1 and an average of at least 70% in 1.0 credit in IRE at the 300+ level. Approval of the Program Coordinator.",
         "exclusion": null,
         "corequisite": null,
@@ -24976,7 +24976,7 @@
     },
     {
         "code": "IRE432Y0",
-        "name": "Advanced Topics in Industrial Relations and Human Resources (Abroad) ",
+        "name": "Advanced Topics in Industrial Relations and Human Resources (Abroad)",
         "prereq": "13.0 credits including IRE244H1 , IRE260H1 and 1.0 credit in IRE at the 300+ level",
         "exclusion": null,
         "corequisite": null,
@@ -24994,7 +24994,7 @@
     },
     {
         "code": "IRE446H1",
-        "name": "Working as an Internal Organizational Consultant ",
+        "name": "Working as an Internal Organizational Consultant",
         "prereq": "0.5 credit in IRE at the 300+ level",
         "exclusion": "IRW446Y1",
         "corequisite": null,
@@ -25003,7 +25003,7 @@
     },
     {
         "code": "IRE447H1",
-        "name": "Contemporary Challenges Facing Today's Organizations ",
+        "name": "Contemporary Challenges Facing Today's Organizations",
         "prereq": "0.5 credit in IRE at the 300+ level",
         "exclusion": null,
         "corequisite": null,
@@ -25012,7 +25012,7 @@
     },
     {
         "code": "IRE472H1",
-        "name": "Negotiations ",
+        "name": "Negotiations",
         "prereq": "1.0 credit from IRE242H1 / IRE260H1 / IRW240H1 and 0.5 IRE/ IRW credit at the 300+ level",
         "exclusion": null,
         "corequisite": null,
@@ -25039,7 +25039,7 @@
     },
     {
         "code": "IRW220H1",
-        "name": "Statistics for Work and Organizations ",
+        "name": "Statistics for Work and Organizations",
         "prereq": "Completion of 4.0 credits",
         "exclusion": "ECO220Y1 / EEB225H1 / GGR270H1 / IRE379H1 / POL222H1 / PSY201H1 / SOC202H1 / STA220H1 / STA238H1 / STA248H1 / STA288H1 / MGEB12H3 / PSYB07H3 / STAB22H3 / STAB23H3 / ECO227Y5 / PSY201H5 / STA215H5 / STA218H5 / STA220H5",
         "corequisite": null,
@@ -25093,7 +25093,7 @@
     },
     {
         "code": "IRW432Y1",
-        "name": "Entrepreneurship ",
+        "name": "Entrepreneurship",
         "prereq": "14.0 credits including 1.0 credit from IRE260H1 , IRE244H1 , IRW220H1 , IRW240H1 , PHL295H1 and 1.0 credit from IRE342H1 , IRE379H1 , IRW300H1 , IRW410H1 , IRW420H1",
         "exclusion": "RSM493H1",
         "corequisite": null,
@@ -25102,7 +25102,7 @@
     },
     {
         "code": "IRW446Y1",
-        "name": "Working as an Organizational Consultant ",
+        "name": "Working as an Organizational Consultant",
         "prereq": "14.0 credits including 1.0 credit from IRE260H1 , IRE244H1 , IRW220H1 , IRW240H1 , PHL295H1 and 1.0 credit from IRE342H1 , IRE379H1 , IRW300H1 , IRW410H1 , IRW420H1",
         "exclusion": "IRE446H1",
         "corequisite": null,
@@ -25498,7 +25498,7 @@
     },
     {
         "code": "ITA364H1",
-        "name": "Italian and Social Media ",
+        "name": "Italian and Social Media",
         "prereq": "ITA250Y1 / ITA251Y1",
         "exclusion": null,
         "corequisite": null,
@@ -25858,7 +25858,7 @@
     },
     {
         "code": "JCC250H1",
-        "name": "Computing for Science ",
+        "name": "Computing for Science",
         "prereq": "CHM135H1 / CHM136H1 / CHM151Y1 , 0.5 credit in MAT (excluding FYF courses)",
         "exclusion": "Any CSC course except CSC104H1 , CSC196H1 , CSC197H1",
         "corequisite": null,
@@ -26317,7 +26317,7 @@
     },
     {
         "code": "JMH385H1",
-        "name": "Islamic Law and the Modern State ",
+        "name": "Islamic Law and the Modern State",
         "prereq": "NMC103H1 / RLG204H1",
         "exclusion": null,
         "corequisite": null,
@@ -26425,7 +26425,7 @@
     },
     {
         "code": "JPI201H1",
-        "name": "Indigenous Politics in Canada ",
+        "name": "Indigenous Politics in Canada",
         "prereq": "4.0 credits, or 1.0 credit in POL/ JPA/ JPF/ JPI/ JPR/ JPS/ JRA courses, or INS201Y1 / ( INS201H1 , INS202H1 )",
         "exclusion": "POL308H1 / POLC56H3",
         "corequisite": null,
@@ -26461,7 +26461,7 @@
     },
     {
         "code": "JPR365H1",
-        "name": "Global Religion and Politics ",
+        "name": "Global Religion and Politics",
         "prereq": "0.5 credit in POL/ JPI/ RLG courses at the 200+ level, or 1.0 credit in HIS/ PHL/ SOC courses at the 200-level",
         "exclusion": "JPR364Y1",
         "corequisite": null,
@@ -26614,7 +26614,7 @@
     },
     {
         "code": "JSN242H1",
-        "name": "Women and Money in the Medieval Middle East ",
+        "name": "Women and Money in the Medieval Middle East",
         "prereq": "2.0 credits in BR= 1/ BR= 2",
         "exclusion": "NMC242H1",
         "corequisite": null,
@@ -27757,7 +27757,7 @@
     },
     {
         "code": "LMP200H1",
-        "name": "Pathobiology of the Cell ",
+        "name": "Pathobiology of the Cell",
         "prereq": "BIO230H1 , PSL300H1 ; enrolment is limited to students in the Pathobiology Specialist program",
         "exclusion": "LMP301H1 , LMP363H1 , LMP340H1",
         "corequisite": null,
@@ -27802,7 +27802,7 @@
     },
     {
         "code": "LMP310H1",
-        "name": "Fundamentals of Pathobiology ",
+        "name": "Fundamentals of Pathobiology",
         "prereq": "LMP200H1 , BCH210H1",
         "exclusion": null,
         "corequisite": null,
@@ -27811,7 +27811,7 @@
     },
     {
         "code": "LMP320H1",
-        "name": "Pathobiology of Stem Cells  ",
+        "name": "Pathobiology of Stem Cells",
         "prereq": "LMP200H1",
         "exclusion": null,
         "corequisite": null,
@@ -27820,7 +27820,7 @@
     },
     {
         "code": "LMP330H1",
-        "name": "Genetic and Computational Modeling in Human Development and Disease ",
+        "name": "Genetic and Computational Modeling in Human Development and Disease",
         "prereq": "LMP200H1 , BIO260H1 / HMB265H1",
         "exclusion": "LMP408H1",
         "corequisite": null,
@@ -27883,7 +27883,7 @@
     },
     {
         "code": "LMP420H1",
-        "name": "Cancer Pathogenesis ",
+        "name": "Cancer Pathogenesis",
         "prereq": "LMP310H1 . Life sciences students who do not have all of the required prerequisites are encouraged to contact the academic unit to seek a waiver.",
         "exclusion": null,
         "corequisite": null,
@@ -27892,7 +27892,7 @@
     },
     {
         "code": "LMP430H1",
-        "name": "Metabolic Disorders ",
+        "name": "Metabolic Disorders",
         "prereq": "BCH210H1 , PSL300H1 . Life sciences students who do not have all of the required prerequisites are encouraged to contact the academic unit to seek a waiver.",
         "exclusion": null,
         "corequisite": null,
@@ -27910,7 +27910,7 @@
     },
     {
         "code": "LMP450H1",
-        "name": "Organogenesis in Health and Disease ",
+        "name": "Organogenesis in Health and Disease",
         "prereq": "LMP320H1 , LMP330H1 . Life sciences students who do not have all of the required prerequisites are encouraged to contact the academic unit to seek a waiver.",
         "exclusion": null,
         "corequisite": null,
@@ -28873,7 +28873,7 @@
     },
     {
         "code": "MCS331H1",
-        "name": "The Materiality of Information ",
+        "name": "The Materiality of Information",
         "prereq": "Completion of 9.0 credits",
         "exclusion": "MCS330H1 (Topics in Material Culture: Materiality of Information), offered in Fall 2023",
         "corequisite": null,
@@ -28891,7 +28891,7 @@
     },
     {
         "code": "MCS373H1",
-        "name": "Materialities of Music ",
+        "name": "Materialities of Music",
         "prereq": "Completion of 9.0 credits",
         "exclusion": "VIC373H1",
         "corequisite": null,
@@ -29980,7 +29980,7 @@
     },
     {
         "code": "MUN210H1",
-        "name": "Research Design, Methods, and Social Inquiry ",
+        "name": "Research Design, Methods, and Social Inquiry",
         "prereq": "Admission to PCJ",
         "exclusion": "PCJ210H1",
         "corequisite": null,
@@ -30034,7 +30034,7 @@
     },
     {
         "code": "MUN322H1",
-        "name": "Inequality and Growth ",
+        "name": "Inequality and Growth",
         "prereq": "Completion of 1.0 credit in MUN, PPG, and/or PCJ courses at the 200+ levels.",
         "exclusion": "PPG410H1 ( Inequality and Growth ) offered in Fall 2025. PPG410H1 ( Inequality and Growth: Evidence and Policy Challenges ) offered in Fall 2024.",
         "corequisite": null,
@@ -30052,7 +30052,7 @@
     },
     {
         "code": "MUN324H1",
-        "name": "The Rise and Fall of Trade Cooperation ",
+        "name": "The Rise and Fall of Trade Cooperation",
         "prereq": "Completion of 1.0 credit at the 200+ levels from MUN, PPG, CAS, EUR, AMS and/or PCJ courses",
         "exclusion": null,
         "corequisite": null,
@@ -30142,7 +30142,7 @@
     },
     {
         "code": "MUN371H1",
-        "name": "Technology, Surveillance, and Society ",
+        "name": "Technology, Surveillance, and Society",
         "prereq": "Completion of 1.0 credit from MUN, PPG, PCJ, CAS, EUR and/or AMS courses at the 200+ levels.",
         "exclusion": "PCJ360H1 and PPG310H1 ( Surveillance and Society ) both offered in Winter 2026.",
         "corequisite": null,
@@ -30241,7 +30241,7 @@
     },
     {
         "code": "MUN470H1",
-        "name": "Advanced Topics in Global Affairs and Public Policy ",
+        "name": "Advanced Topics in Global Affairs and Public Policy",
         "prereq": "Completion of 16.0 credits. Students who do not meet the prerequisite are encouraged to contact the instructor.",
         "exclusion": null,
         "corequisite": null,
@@ -30250,7 +30250,7 @@
     },
     {
         "code": "MUN471H1",
-        "name": "Advanced Topics in Global Affairs and Public Policy ",
+        "name": "Advanced Topics in Global Affairs and Public Policy",
         "prereq": "Completion of 16.0 credits. Students who do not meet the prerequisite are encouraged to contact the instructor.",
         "exclusion": null,
         "corequisite": null,
@@ -30925,7 +30925,7 @@
     },
     {
         "code": "NFS310H1",
-        "name": "Introduction to Clinical Nutrition ",
+        "name": "Introduction to Clinical Nutrition",
         "prereq": "NFS284H1",
         "exclusion": null,
         "corequisite": "PSL300H1",
@@ -30934,7 +30934,7 @@
     },
     {
         "code": "NFS311H1",
-        "name": "Advanced Clinical Nutrition ",
+        "name": "Advanced Clinical Nutrition",
         "prereq": "NFS284H1 , NFS310H1",
         "exclusion": null,
         "corequisite": null,
@@ -30952,7 +30952,7 @@
     },
     {
         "code": "NFS386H1",
-        "name": "Introduction to Food Science ",
+        "name": "Introduction to Food Science",
         "prereq": "CHM135H1 / CHM136H1 , NFS284H1",
         "exclusion": null,
         "corequisite": null,
@@ -31114,7 +31114,7 @@
     },
     {
         "code": "NMC106H1",
-        "name": "Arab Worlds ",
+        "name": "Arab Worlds",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -31150,7 +31150,7 @@
     },
     {
         "code": "NMC201H1",
-        "name": "Slavery in Islamic History 600-1600 ",
+        "name": "Slavery in Islamic History 600-1600",
         "prereq": null,
         "exclusion": "NMC277H1 ( Slavery in Islamic History 600-1600 ) offered in Summer 2023, 2024, and 2025.",
         "corequisite": null,
@@ -31168,7 +31168,7 @@
     },
     {
         "code": "NMC230H1",
-        "name": "Ancient Egypt in Popular Media ",
+        "name": "Ancient Egypt in Popular Media",
         "prereq": null,
         "exclusion": "NMC277H1 ( Ancient Egypt in Film ) offered in Summer 2024.",
         "corequisite": null,
@@ -31195,7 +31195,7 @@
     },
     {
         "code": "NMC239H1",
-        "name": "Women and Gender in the Near and Middle East ",
+        "name": "Women and Gender in the Near and Middle East",
         "prereq": "4.0 Credits",
         "exclusion": "NMC 277H1 ( Women and Gender in the ancient and modern Near and Middle East ) offered in Fall 2024",
         "corequisite": null,
@@ -31429,7 +31429,7 @@
     },
     {
         "code": "NMC269H1",
-        "name": "Ancient Egyptian Science ",
+        "name": "Ancient Egyptian Science",
         "prereq": "2.0 100-level credits",
         "exclusion": null,
         "corequisite": null,
@@ -31456,7 +31456,7 @@
     },
     {
         "code": "NMC272H1",
-        "name": "Hajj and History ",
+        "name": "Hajj and History",
         "prereq": "4 .0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -31528,7 +31528,7 @@
     },
     {
         "code": "NMC290H0",
-        "name": "Field Archaeology 1 ",
+        "name": "Field Archaeology 1",
         "prereq": "4.0 credits",
         "exclusion": "NMC261Y0",
         "corequisite": null,
@@ -31537,7 +31537,7 @@
     },
     {
         "code": "NMC291H0",
-        "name": "Field Archaeology 2 ",
+        "name": "Field Archaeology 2",
         "prereq": "NMC290H0",
         "exclusion": "NMC261Y0",
         "corequisite": null,
@@ -31546,7 +31546,7 @@
     },
     {
         "code": "NMC292H1",
-        "name": "The Rise of the City ",
+        "name": "The Rise of the City",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -31573,7 +31573,7 @@
     },
     {
         "code": "NMC301H1",
-        "name": "Religious Revolts, Popular Uprisings, and Internal Conflicts in Islamic History 610-1600 CE ",
+        "name": "Religious Revolts, Popular Uprisings, and Internal Conflicts in Islamic History 610-1600 CE",
         "prereq": null,
         "exclusion": "NMC471H1 ( Religious Revolts, Popular Uprisings, and Internal Conflicts in Islamic History 610-1600 CE ) offered in Fall 2023, 2024, and 2025.",
         "corequisite": null,
@@ -31582,7 +31582,7 @@
     },
     {
         "code": "NMC304H1",
-        "name": "GIS and Spatial Analysis in Archaeology ",
+        "name": "GIS and Spatial Analysis in Archaeology",
         "prereq": "7.0 credits",
         "exclusion": "NMC471H1 ( GIS Applications in Archaeology ) offered in Winter 2026",
         "corequisite": null,
@@ -31690,7 +31690,7 @@
     },
     {
         "code": "NMC345H1",
-        "name": "Nubian Archaeology ",
+        "name": "Nubian Archaeology",
         "prereq": "2.0 credit at the 200+-level in BR= 1/ BR= 2/ BR= 3",
         "exclusion": null,
         "corequisite": null,
@@ -31726,7 +31726,7 @@
     },
     {
         "code": "NMC349H1",
-        "name": "Climate and Collapse in the Ancient Near East ",
+        "name": "Climate and Collapse in the Ancient Near East",
         "prereq": "9.0 credits, including one of: ARH100Y1 , ARH205H1 , NMC260H1 , NMC262H1 . Students who do not meet the prerequisites are encouraged to contact the department.",
         "exclusion": null,
         "corequisite": null,
@@ -31861,7 +31861,7 @@
     },
     {
         "code": "NMC371H1",
-        "name": "Topics in Hebrew Bible ",
+        "name": "Topics in Hebrew Bible",
         "prereq": "2.0 credits at the 200+-level",
         "exclusion": null,
         "corequisite": null,
@@ -31951,7 +31951,7 @@
     },
     {
         "code": "NMC387H1",
-        "name": "Women, Gender, and Sexuality in the Ottoman Empire ",
+        "name": "Women, Gender, and Sexuality in the Ottoman Empire",
         "prereq": "2.0 credits at the 200+-level",
         "exclusion": null,
         "corequisite": null,
@@ -32014,7 +32014,7 @@
     },
     {
         "code": "NMC414H1",
-        "name": "Ancient Egyptian Artifacts ",
+        "name": "Ancient Egyptian Artifacts",
         "prereq": "0.5 credit 200- or 300- level course offered under an NMC, CLA, ANT, FAH, HIS, or ARH course code",
         "exclusion": null,
         "corequisite": null,
@@ -32023,7 +32023,7 @@
     },
     {
         "code": "NMC423H1",
-        "name": "Debates in Egyptian Archaeology ",
+        "name": "Debates in Egyptian Archaeology",
         "prereq": "2.0 credits in BR 2 and/or BR 3",
         "exclusion": null,
         "corequisite": null,
@@ -32086,7 +32086,7 @@
     },
     {
         "code": "NMC454H1",
-        "name": "Mapping the Ottoman World ",
+        "name": "Mapping the Ottoman World",
         "prereq": "1.0 credit in NMC/HIS/HPS at the 200+ level. Students who do not meet these prerequisites are encouraged to contact the Department.",
         "exclusion": "NMC471H1 (Advanced Topics in Near and Middle Eastern Civilizations: Mapping the Ottoman World), offered in Fall 2021",
         "corequisite": null,
@@ -32104,7 +32104,7 @@
     },
     {
         "code": "NMC459H1",
-        "name": "Advanced Data Science Applications in Archaeology ",
+        "name": "Advanced Data Science Applications in Archaeology",
         "prereq": "9.0 credits including one of NMC268H1 or ARH312Y1 . Students who do not meet the prerequisites are encouraged to contact the department.",
         "exclusion": null,
         "corequisite": null,
@@ -32356,7 +32356,7 @@
     },
     {
         "code": "NML212H1",
-        "name": "Classical Arabic Prose ",
+        "name": "Classical Arabic Prose",
         "prereq": "NML310Y1 . Students who do not meet the prerequisites are encouraged to contact the department.",
         "exclusion": "NML412H1",
         "corequisite": null,
@@ -32464,7 +32464,7 @@
     },
     {
         "code": "NML320H1",
-        "name": " Targum - Aramaic Bible Translations",
+        "name": "Targum - Aramaic Bible Translations",
         "prereq": "Intermediate-level Hebrew or experience in Babylonian Talmud or NML220Y1 .",
         "exclusion": null,
         "corequisite": null,
@@ -32473,7 +32473,7 @@
     },
     {
         "code": "NML340H1",
-        "name": "Intermediate Middle Egyptian I ",
+        "name": "Intermediate Middle Egyptian I",
         "prereq": "NML240Y1",
         "exclusion": "NML340Y1",
         "corequisite": null,
@@ -32482,7 +32482,7 @@
     },
     {
         "code": "NML341H1",
-        "name": "Intermediate Middle Egyptian II ",
+        "name": "Intermediate Middle Egyptian II",
         "prereq": "NML340H1",
         "exclusion": "NML340Y1",
         "corequisite": null,
@@ -32590,7 +32590,7 @@
     },
     {
         "code": "NML372H1",
-        "name": "Turkish Language through Television, Film, and Media ",
+        "name": "Turkish Language through Television, Film, and Media",
         "prereq": "NML270Y1",
         "exclusion": "Native speakers",
         "corequisite": null,
@@ -32653,7 +32653,7 @@
     },
     {
         "code": "NML420Y1",
-        "name": "Western Aramaic – Jerusalem Talmud ",
+        "name": "Western Aramaic – Jerusalem Talmud",
         "prereq": "Intermediate-level Hebrew (Modern or Biblical)",
         "exclusion": null,
         "corequisite": null,
@@ -32689,7 +32689,7 @@
     },
     {
         "code": "NML443H1",
-        "name": "Demotic I ",
+        "name": "Demotic I",
         "prereq": "NML340Y1 or NML442Y1",
         "exclusion": null,
         "corequisite": null,
@@ -32698,7 +32698,7 @@
     },
     {
         "code": "NML444H1",
-        "name": "Demotic II ",
+        "name": "Demotic II",
         "prereq": "NML443H1",
         "exclusion": null,
         "corequisite": null,
@@ -32716,7 +32716,7 @@
     },
     {
         "code": "NML446H1",
-        "name": "Late Egyptian Readings ",
+        "name": "Late Egyptian Readings",
         "prereq": "NML445H1",
         "exclusion": "NML442Y1",
         "corequisite": "NML341H1",
@@ -32797,7 +32797,7 @@
     },
     {
         "code": "NML463H1",
-        "name": "Advanced Persian II ",
+        "name": "Advanced Persian II",
         "prereq": "NML460H1 . Students who have an equivalent level of proficiency should contact the instructor concerning enrolling in the course.",
         "exclusion": "Native Speakers",
         "corequisite": null,
@@ -32806,7 +32806,7 @@
     },
     {
         "code": "NML464H1",
-        "name": "Old Persian ",
+        "name": "Old Persian",
         "prereq": "14.0 credits. Students who do not meet the prerequisites are encouraged to contact the department",
         "exclusion": "NML464Y1",
         "corequisite": null,
@@ -33202,7 +33202,7 @@
     },
     {
         "code": "PDC221H1",
-        "name": "Arts & Science Internship Program - Essential Skills for ASIP Success ",
+        "name": "Arts & Science Internship Program - Essential Skills for ASIP Success",
         "prereq": "PDC220H1",
         "exclusion": "PDC231H1",
         "corequisite": null,
@@ -33220,7 +33220,7 @@
     },
     {
         "code": "PDC231H1",
-        "name": "Arts & Science Internship Program - Essential Skills for ASIP Success ",
+        "name": "Arts & Science Internship Program - Essential Skills for ASIP Success",
         "prereq": "PDC230H1",
         "exclusion": "PDC221H1",
         "corequisite": null,
@@ -35056,7 +35056,7 @@
     },
     {
         "code": "PHS450Y1",
-        "name": "Undergraduate Research Project in Public Health ",
+        "name": "Undergraduate Research Project in Public Health",
         "prereq": "( HST250H1 / PHS250H1 ), STA220H1 , ( HST350Y1 / PHS350Y1 ) and an Independent Research Course Proposal form",
         "exclusion": "HST450Y1",
         "corequisite": null,
@@ -35362,7 +35362,7 @@
     },
     {
         "code": "PHY359H1",
-        "name": "Understanding Neural Networks using Physics ",
+        "name": "Understanding Neural Networks using Physics",
         "prereq": "MAT223H1 / MAT240H1 , MAT235Y1 / MAT237Y1 / MAT257Y1 , PHY224H1 , PHY252H1 , PHY254H1",
         "exclusion": null,
         "corequisite": null,
@@ -36001,7 +36001,7 @@
     },
     {
         "code": "POL305H1",
-        "name": "Introduction to Latin American Politics and Societies ",
+        "name": "Introduction to Latin American Politics and Societies",
         "prereq": "1.0 credit in POL/ JPA/ JPF/ JPI/ JPR/ JPS/ JRA courses",
         "exclusion": "POL305Y1 / POL360H5 / POLC91H3 / POLC99H3",
         "corequisite": null,
@@ -36127,7 +36127,7 @@
     },
     {
         "code": "POL325H1",
-        "name": "Contemporary Latin American Politics ",
+        "name": "Contemporary Latin American Politics",
         "prereq": "1.0 credit in POL/ JPA/ JPF/ JPI/ JPR/ JPS/ JRA courses",
         "exclusion": "POL305Y1 / POL360H5 / POLC91H3 / POLC99H3",
         "corequisite": null,
@@ -36478,7 +36478,7 @@
     },
     {
         "code": "POL386H1",
-        "name": "U.S. Government and Politics ",
+        "name": "U.S. Government and Politics",
         "prereq": "1.0 credit in POL/ JPA/ JPF/ JPI/ JPR/ JPS/ JRA courses",
         "exclusion": "POL203Y1 / POL203Y5 / POL386Y1 / POLC92H3 / POLC93H3",
         "corequisite": null,
@@ -38692,7 +38692,7 @@
     },
     {
         "code": "REN240H1",
-        "name": "The Renaissance in Italy ",
+        "name": "The Renaissance in Italy",
         "prereq": null,
         "exclusion": "REN240Y1",
         "corequisite": null,
@@ -38728,7 +38728,7 @@
     },
     {
         "code": "REN244H1",
-        "name": "The Renaissance in Europe and the World ",
+        "name": "The Renaissance in Europe and the World",
         "prereq": null,
         "exclusion": "REN240Y1",
         "corequisite": null,
@@ -39673,7 +39673,7 @@
     },
     {
         "code": "RLG336H1",
-        "name": "Religion and its Monsters ",
+        "name": "Religion and its Monsters",
         "prereq": "Completion of 4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -39988,7 +39988,7 @@
     },
     {
         "code": "RLG375H1",
-        "name": "Biohacking Breath ",
+        "name": "Biohacking Breath",
         "prereq": "Completion of 4.0 credits",
         "exclusion": null,
         "corequisite": null,
@@ -40573,7 +40573,7 @@
     },
     {
         "code": "RLG481H1",
-        "name": "Islamic Intellectual Tradition ",
+        "name": "Islamic Intellectual Tradition",
         "prereq": "RLG204H1 or RLG355H1",
         "exclusion": null,
         "corequisite": null,
@@ -41014,7 +41014,7 @@
     },
     {
         "code": "RSM351H1",
-        "name": "Data Based Decision Making ",
+        "name": "Data Based Decision Making",
         "prereq": "RSM250H1",
         "exclusion": "RSM311H1 (Special Topics in Management: Data-based Decision Making ), offered in the Fall of 2021, 2022, and Winter 2024.",
         "corequisite": null,
@@ -41374,7 +41374,7 @@
     },
     {
         "code": "RSM425H1",
-        "name": "Taxation for Business Professionals ",
+        "name": "Taxation for Business Professionals",
         "prereq": "RSM219H1 , RSM230H1 , and the completion of 9.0 credits",
         "exclusion": "RSM315H1 (Special Topics in Management: Taxation for Business Professionals), offered in Fall 2020 to Winter 2026.",
         "corequisite": null,
@@ -41905,7 +41905,7 @@
     },
     {
         "code": "SDS379H1",
-        "name": "Sex and the State ",
+        "name": "Sex and the State",
         "prereq": "A combined minimum of 1.0 credit from POL and/or SDS courses",
         "exclusion": "JPS378H1",
         "corequisite": null,
@@ -43417,7 +43417,7 @@
     },
     {
         "code": "SOC201H1",
-        "name": "Classical Sociological Theory ",
+        "name": "Classical Sociological Theory",
         "prereq": "SOC100H1 + SOC150H1",
         "exclusion": "SOC203H1 , SOC231H5 , SOCB42H3",
         "corequisite": null,
@@ -43435,7 +43435,7 @@
     },
     {
         "code": "SOC204H1",
-        "name": "Introduction to Qualitative Methods in Sociology ",
+        "name": "Introduction to Qualitative Methods in Sociology",
         "prereq": "SOC100H1 + SOC150H1",
         "exclusion": "SOC302H1 , SOCC23H3 , SOC387H5 , POL352H1",
         "corequisite": null,
@@ -43606,7 +43606,7 @@
     },
     {
         "code": "SOC252H1",
-        "name": "Intermediate Quantitative Methods in Sociology ",
+        "name": "Intermediate Quantitative Methods in Sociology",
         "prereq": "SOC202H1",
         "exclusion": "SOC300H1 , ECO220Y1 , PSY202H1 , STA221H1",
         "corequisite": null,
@@ -44695,7 +44695,7 @@
     },
     {
         "code": "SPA275H1",
-        "name": "21st Century Latin American Cinema ",
+        "name": "21st Century Latin American Cinema",
         "prereq": null,
         "exclusion": "SPA375H1 , SPA275H5",
         "corequisite": null,
@@ -44839,7 +44839,7 @@
     },
     {
         "code": "SPA350H1",
-        "name": "Medieval Spain Portrayed Through Visual Arts ",
+        "name": "Medieval Spain Portrayed Through Visual Arts",
         "prereq": "SPA202H1 / SPA205H1 / SPA120Y1 / SPA220Y1 / SPA219Y1 or Spanish placement test, SPA258H1",
         "exclusion": "SPA450H1",
         "corequisite": "SPA302H1 / SPA305H1",
@@ -45649,7 +45649,7 @@
     },
     {
         "code": "STS301H1",
-        "name": "Public Communication in Science ",
+        "name": "Public Communication in Science",
         "prereq": "Completion of 4.0 credits",
         "exclusion": "VIC301H1",
         "corequisite": null,
@@ -45658,7 +45658,7 @@
     },
     {
         "code": "STS302H1",
-        "name": "Science Policy ",
+        "name": "Science Policy",
         "prereq": "Completion of 4.0 credits",
         "exclusion": "VIC302H1",
         "corequisite": null,
@@ -45892,7 +45892,7 @@
     },
     {
         "code": "TRN172Y1",
-        "name": "Ethics and the Law ",
+        "name": "Ethics and the Law",
         "prereq": null,
         "exclusion": null,
         "corequisite": "TRN171Y1",
@@ -45937,7 +45937,7 @@
     },
     {
         "code": "TRN195H1",
-        "name": "Poetry & The Public; Social Movements & The Ethics of Response ",
+        "name": "Poetry & The Public; Social Movements & The Ethics of Response",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -46702,7 +46702,7 @@
     },
     {
         "code": "VIC103H1",
-        "name": "Leadership, Narrative, and Creativity ",
+        "name": "Leadership, Narrative, and Creativity",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -46819,7 +46819,7 @@
     },
     {
         "code": "VIC122H1",
-        "name": "Scientific Evidence in Public Policy ",
+        "name": "Scientific Evidence in Public Policy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -46891,7 +46891,7 @@
     },
     {
         "code": "VIC145H1",
-        "name": "Mental Health Literacy in Education ",
+        "name": "Mental Health Literacy in Education",
         "prereq": null,
         "exclusion": "VIC150H1 , VIC151H1 , VIC152H1 , VIC153H1",
         "corequisite": null,
@@ -47098,7 +47098,7 @@
     },
     {
         "code": "VIC185H1",
-        "name": "Democracy and Dictatorship ",
+        "name": "Democracy and Dictatorship",
         "prereq": "Admission to Vic One: https://vic.utoronto.ca/future-students/vic-one/",
         "exclusion": null,
         "corequisite": "VIC181H1 , VIC183H1 , VIC184H1 , and 1.0 credit in any 100-level course in ECO, HIS or POL",
@@ -47998,7 +47998,7 @@
     },
     {
         "code": "WGS451Y1",
-        "name": "Independent Study in Women and Gender Studies ",
+        "name": "Independent Study in Women and Gender Studies",
         "prereq": "Completion of WGS160Y1 , WGS260H1 , and WGS360H1 , a CGPA of at least 3.0 and permission of the Undergraduate Coordinator.",
         "exclusion": null,
         "corequisite": null,
@@ -48196,7 +48196,7 @@
     },
     {
         "code": "WRR311H1",
-        "name": "Seminar in Creative Writing – Fiction ",
+        "name": "Seminar in Creative Writing – Fiction",
         "prereq": "4.0 credits",
         "exclusion": "WRR311Y1 , INI311Y1",
         "corequisite": null,
@@ -48250,7 +48250,7 @@
     },
     {
         "code": "WRR319H1",
-        "name": "Rhetoric of Race ",
+        "name": "Rhetoric of Race",
         "prereq": "Completion of 4.0 credits",
         "exclusion": null,
         "corequisite": null,

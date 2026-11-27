@@ -1,6 +1,6 @@
 [
     {
-        "code": " ARC100H1",
+        "code": "ARC100H1",
         "name": "Drawing and Representation I",
         "prereq": null,
         "exclusion": "ARC221H1",
@@ -9,7 +9,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC112H1",
+        "code": "ARC112H1",
         "name": "Design & Engineering I",
         "prereq": "Minimum 70% in ARC100H1",
         "exclusion": "JAV101H1",
@@ -18,7 +18,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC180H1",
+        "code": "ARC180H1",
         "name": "Computation and Design",
         "prereq": null,
         "exclusion": null,
@@ -27,7 +27,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC181H1",
+        "code": "ARC181H1",
         "name": "Technologies of Architecture, Landscape, Urbanism, and Art I",
         "prereq": null,
         "exclusion": "ARC231H1",
@@ -36,7 +36,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC200H1",
+        "code": "ARC200H1",
         "name": "Drawing and Representation II",
         "prereq": "ARC100H1 / ARC221H1",
         "exclusion": "ARC321H1",
@@ -45,7 +45,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC201H1",
+        "code": "ARC201H1",
         "name": "Design Studio II",
         "prereq": "ARC101H1 / ARC112H1 / JAV101H1 and ARC100H1 / ARC221H1",
         "exclusion": null,
@@ -54,7 +54,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC251H1",
+        "code": "ARC251H1",
         "name": "Close Readings in Architecture",
         "prereq": "ARC132H1 / JAV132H1 / JAV152H1",
         "exclusion": null,
@@ -63,7 +63,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC252H1",
+        "code": "ARC252H1",
         "name": "Close Readings in Landscape Architecture",
         "prereq": "ARC132H1 / JAV132H1 / JAV152H1",
         "exclusion": null,
@@ -72,7 +72,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC253H1",
+        "code": "ARC253H1",
         "name": "Close Readings in Urban Design",
         "prereq": "ARC132H1 / JAV132H1 / JAV152H1",
         "exclusion": null,
@@ -81,7 +81,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC280H1",
+        "code": "ARC280H1",
         "name": "Modeling and Fabrication in Design",
         "prereq": "ARC180H1 , JAV101H1",
         "exclusion": null,
@@ -90,7 +90,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC281H1",
+        "code": "ARC281H1",
         "name": "Structures, Building Systems, and Environments I",
         "prereq": null,
         "exclusion": null,
@@ -99,7 +99,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC300H0",
+        "code": "ARC300H0",
         "name": "Studies Abroad",
         "prereq": "1.0 credit at the 200-level in ARC courses and permission of instructor",
         "exclusion": null,
@@ -108,7 +108,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC300Y0",
+        "code": "ARC300Y0",
         "name": "Summer Studio Abroad",
         "prereq": "1.0 credit at the 200-level in ARC courses and permission of instructor",
         "exclusion": null,
@@ -117,7 +117,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC302H1",
+        "code": "ARC302H1",
         "name": "Exploring Design Practices",
         "prereq": "JAV152H1",
         "exclusion": null,
@@ -126,7 +126,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC331Y0",
+        "code": "ARC331Y0",
         "name": "Studies in International Architecture, Landscape, and Urbanism",
         "prereq": "1.0 credit at the 200-level in ARC courses or permission of the instructor",
         "exclusion": null,
@@ -135,7 +135,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC351H1",
+        "code": "ARC351H1",
         "name": "Global Modernisms",
         "prereq": "ARC251H1 / ARC252H1 / ARC253H1",
         "exclusion": null,
@@ -144,7 +144,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC352H1",
+        "code": "ARC352H1",
         "name": "History of Architectural Knowledge",
         "prereq": "ARC251H1 / ARC252H1 / ARC253H1",
         "exclusion": null,
@@ -153,7 +153,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC353H1",
+        "code": "ARC353H1",
         "name": "Architecture and Media",
         "prereq": "ARC251H1 / ARC252H1 / ARC253H1",
         "exclusion": null,
@@ -162,7 +162,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC354H1",
+        "code": "ARC354H1",
         "name": "History of Housing",
         "prereq": "ARC251H1 / ARC252H1 / ARC253H1",
         "exclusion": null,
@@ -171,7 +171,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC355H1",
+        "code": "ARC355H1",
         "name": "History of Urbanism",
         "prereq": "ARC251H1 / ARC252H1 / ARC253H1",
         "exclusion": "ARC333H1 , ARC334H1",
@@ -180,7 +180,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC356H1",
+        "code": "ARC356H1",
         "name": "Design History of Landscape Architecture",
         "prereq": "ARC251H1 / ARC252H1 / ARC253H1",
         "exclusion": "ARC377H1",
@@ -189,7 +189,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC357H1",
+        "code": "ARC357H1",
         "name": "Environmental History of Landscape Architecture",
         "prereq": "ARC251H1 / ARC252H1 / ARC253H1 /1.0 FCE in ARC 200+ level lecture courses",
         "exclusion": null,
@@ -198,7 +198,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC361Y1",
+        "code": "ARC361Y1",
         "name": "Architecture Studio III",
         "prereq": "ARC201H1",
         "exclusion": "ARC363Y1 , ARC380Y1",
@@ -207,7 +207,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC362Y1",
+        "code": "ARC362Y1",
         "name": "Architecture Studio IV",
         "prereq": "ARC361Y1 / ARC363Y1",
         "exclusion": "ARC364Y1 , ARC381Y1",
@@ -216,7 +216,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC363Y1",
+        "code": "ARC363Y1",
         "name": "Landscape Architecture Studio III",
         "prereq": "ARC201H1",
         "exclusion": "ARC314H1 , ARC361Y1 , ARC380Y1",
@@ -225,7 +225,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC364Y1",
+        "code": "ARC364Y1",
         "name": "Landscape Architecture Studio IV",
         "prereq": "ARC361Y1 / ARC363Y1",
         "exclusion": "ARC362Y1 , ARC381Y1",
@@ -234,7 +234,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC365H1",
+        "code": "ARC365H1",
         "name": "Selected Topics in Architecture",
         "prereq": "ARC201H1",
         "exclusion": null,
@@ -243,7 +243,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC366H1",
+        "code": "ARC366H1",
         "name": "Selected Topics in Landscape Architecture",
         "prereq": "ARC201H1",
         "exclusion": null,
@@ -252,7 +252,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC367H1",
+        "code": "ARC367H1",
         "name": "Selected Topics in Urban Design",
         "prereq": "ARC201H1",
         "exclusion": null,
@@ -261,7 +261,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC369Y1",
+        "code": "ARC369Y1",
         "name": "Comprehensive Studio III",
         "prereq": "ARC201H1",
         "exclusion": "Available only to students enrolled in AHSPE1000 (Specialist in Architectural Studies: Comprehensive Stream), AHMAJ1000 (Major in Architectural Studies), or AHSPE1002 (Specialist in Architectural Studies: History and Theory of Architecture, Landscape, and Urbanism Stream)",
@@ -270,7 +270,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " ARC380Y1",
+        "code": "ARC380Y1",
         "name": "Technology Studio III",
         "prereq": "ARC201H1",
         "exclusion": "ARC361Y1 , ARC363Y1",
@@ -279,7 +279,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC381Y1",
+        "code": "ARC381Y1",
         "name": "Technology Studio IV",
         "prereq": "ARC201H1",
         "exclusion": "ARC362Y1 , ARC364Y1",
@@ -288,7 +288,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC382H1",
+        "code": "ARC382H1",
         "name": "Structures, Building Systems, and Environments II",
         "prereq": "ARC281H1",
         "exclusion": null,
@@ -297,7 +297,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC383H1",
+        "code": "ARC383H1",
         "name": "Technologies of Architecture, Landscape, Urbanism, and Art II",
         "prereq": "ARC181H1 and 1.0 credit in ARC200-level lecture courses",
         "exclusion": null,
@@ -315,7 +315,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC385H1",
+        "code": "ARC385H1",
         "name": "Physical Computing",
         "prereq": "ARC280H1",
         "exclusion": null,
@@ -324,7 +324,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC386H1",
+        "code": "ARC386H1",
         "name": "Landscape Ecology",
         "prereq": "1.0 credit at the 200-level lecture course",
         "exclusion": "ARC341H1",
@@ -333,7 +333,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC387H1",
+        "code": "ARC387H1",
         "name": "Landscape Topography and Hydrology",
         "prereq": "1.0 credit at the 200-level lecture course",
         "exclusion": "ARC341H1",
@@ -342,7 +342,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC395H1",
+        "code": "ARC395H1",
         "name": "Design Build Studio",
         "prereq": "ARC200H1 , ARC201H1 . An application must be submitted to the Program Director.",
         "exclusion": null,
@@ -351,7 +351,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC399H1",
+        "code": "ARC399H1",
         "name": "Research Opportunity Program",
         "prereq": "1.0 credit at the 300-level in ARC courses. An application must be submitted to the Program Director.",
         "exclusion": null,
@@ -360,7 +360,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC399Y1",
+        "code": "ARC399Y1",
         "name": "Research Opportunity Program",
         "prereq": "1.0 credit at the 300-level in ARC courses. An application must be submitted to the program director.",
         "exclusion": null,
@@ -369,7 +369,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC401H1",
+        "code": "ARC401H1",
         "name": "Senior Seminar (Research)",
         "prereq": "2.0 credits in ARC courses at the 300-level with a final grade of 80% or above and permission of the Program Director",
         "exclusion": "ARC456H1 / ARC461H1 / ARC486H1 / ARC490Y1 / ARC492Y1",
@@ -378,7 +378,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC402Y1",
+        "code": "ARC402Y1",
         "name": "Senior Seminar (Thesis)",
         "prereq": "ARC401H1 with a final grade of 80% and permission of the Program Director",
         "exclusion": "ARC457Y1 / ARC462Y1 / ARC487Y1 / ARC490Y1 / ARC492Y1",
@@ -387,7 +387,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC426H1",
+        "code": "ARC426H1",
         "name": "Working with Wood",
         "prereq": "1.0 credit at the 300-level in ARC courses",
         "exclusion": null,
@@ -396,7 +396,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC451H1",
+        "code": "ARC451H1",
         "name": "Advanced Topics in the History and Theory of Architecture",
         "prereq": "1.0 credit at the 300-level in ARC courses",
         "exclusion": null,
@@ -405,7 +405,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC452H1",
+        "code": "ARC452H1",
         "name": "Advanced Topics in the History and Theory of Landscape Architecture",
         "prereq": "1.0 credit at the 300-level in ARC courses",
         "exclusion": null,
@@ -414,7 +414,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC453H1",
+        "code": "ARC453H1",
         "name": "Advanced Topics in the History and Theory of Urbanism",
         "prereq": "1.0 credit at the 300-level in ARC courses",
         "exclusion": null,
@@ -423,7 +423,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC456H1",
+        "code": "ARC456H1",
         "name": "Senior Seminar in History and Theory (Research)",
         "prereq": "2.0 credits from ARC351H1 , ARC352H1 , ARC353H1 , ARC354H1 , ARC355H1 , ARC356H1 , ARC357H1 , VIS330H1 , VIS332H1 , with a final average of 80% and permission of the Program Director.",
         "exclusion": "ARC456H1 / ARC486H1 / ARC490Y1 / ARC492Y1",
@@ -432,7 +432,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC457Y1",
+        "code": "ARC457Y1",
         "name": "Senior Seminar in History and Theory (Thesis)",
         "prereq": "ARC456H1 / ARC461H1 / ARC486H1 with a final grade of 80% and permission of the Program Director",
         "exclusion": "ARC462Y1 / ARC487Y1 / ARC490Y1 / ARC492Y1",
@@ -441,7 +441,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC461H1",
+        "code": "ARC461H1",
         "name": "Senior Seminar in Design (Research)",
         "prereq": "ARC362Y1 / ARC364Y1 with a final grade of 80% and permission of the Program Director",
         "exclusion": "ARC456H1 / ARC486H1 / ARC490Y1 / ARC492Y1",
@@ -450,7 +450,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC462Y1",
+        "code": "ARC462Y1",
         "name": "Senior Seminar in Design (Thesis)",
         "prereq": "ARC456H1 / ARC461H1 / ARC486H1 with a final grade of 80% and permission of the Program Director",
         "exclusion": "ARC457Y1 / ARC487Y1 / ARC490Y1 / ARC492Y1",
@@ -459,7 +459,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC465H1",
+        "code": "ARC465H1",
         "name": "Advanced Topics in Architecture",
         "prereq": "1.0 credit at the 300-level in ARC courses",
         "exclusion": null,
@@ -468,7 +468,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC466H1",
+        "code": "ARC466H1",
         "name": "Advanced Topics in Landscape Architecture",
         "prereq": "1.0 credit at the 300-level in ARC courses",
         "exclusion": null,
@@ -477,7 +477,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC467H1",
+        "code": "ARC467H1",
         "name": "Advanced Topics in Urban Design",
         "prereq": "1.0 credit at the 300-level in ARC courses",
         "exclusion": null,
@@ -486,7 +486,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC480H1",
+        "code": "ARC480H1",
         "name": "Advanced Topics in the Technology of Architecture",
         "prereq": "1.0 credit at the 300-level in ARC courses.",
         "exclusion": null,
@@ -495,7 +495,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC481H1",
+        "code": "ARC481H1",
         "name": "Advanced Topics in the Technology of Landscape Architecture",
         "prereq": "ARC382H1",
         "exclusion": null,
@@ -504,7 +504,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC482H1",
+        "code": "ARC482H1",
         "name": "Advanced Topics in the Technology of Urbanism",
         "prereq": "ARC382H1",
         "exclusion": null,
@@ -513,7 +513,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC483H1",
+        "code": "ARC483H1",
         "name": "Advanced Topics in Building Science",
         "prereq": "ARC382H1",
         "exclusion": null,
@@ -522,7 +522,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC484H1",
+        "code": "ARC484H1",
         "name": "Wood-Frame Construction Technology",
         "prereq": "ARC382H - Structures, Building Systems, and Environments II",
         "exclusion": null,
@@ -531,7 +531,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC486H1",
+        "code": "ARC486H1",
         "name": "Senior Seminar in Technology (Research)",
         "prereq": "ARC381Y1 with a final grade of 80% and permission of the Program Director",
         "exclusion": "ARC456H1 / ARC461H1 / ARC490Y1 / ARC492Y1",
@@ -540,7 +540,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " ARC487Y1",
+        "code": "ARC487Y1",
         "name": "Senior Seminar in Technology (Thesis)",
         "prereq": "ARC456H1 / ARC461H1 / ARC486H1 with a final grade of 80% and permission of the Program Director",
         "exclusion": "ARC457Y1 / ARC462Y1 / ARC490Y1 / ARC492Y1",
@@ -549,7 +549,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " ARC490Y1",
+        "code": "ARC490Y1",
         "name": "Multidisciplinary Urban Capstone Project",
         "prereq": "2.0 credits in ARC courses at the 300-level with a final average of 80% or above and permission of the Program Director and MUCP admissions committee",
         "exclusion": "ARC401H1 / ARC402Y1 / ARC456H1 / ARC457Y1 / ARC461H1 / ARC462Y1 / ARC486H1 / ARC487Y1",
@@ -558,7 +558,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " ARC491H1",
+        "code": "ARC491H1",
         "name": "Multidisciplinary Capstone Design Seminar",
         "prereq": null,
         "exclusion": null,
@@ -567,7 +567,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " ARC492Y1",
+        "code": "ARC492Y1",
         "name": "Design & Community-Engagement Capstone Project",
         "prereq": "2.0 credits in ARC courses at the 300-level with a final average of 80% or above and permission of the Program Director and Design and Community-Engagement admissions committee",
         "exclusion": "ARC401H1 / ARC402Y1 / ARC456H1 / ARC457Y1 / ARC461H1 / ARC462Y1 / ARC486H1 / ARC487Y1 / ARC490Y1",
@@ -576,7 +576,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " ARC495Y1",
+        "code": "ARC495Y1",
         "name": "Architectural Studies Internship",
         "prereq": "1.0 credit ARC 300-level courses. An application must be submitted to the Program Director.",
         "exclusion": null,
@@ -585,7 +585,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JAV101H1",
+        "code": "JAV101H1",
         "name": "Design Studio I",
         "prereq": null,
         "exclusion": "ARC101H1 / ARC213H1",
@@ -594,7 +594,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JAV120H1",
+        "code": "JAV120H1",
         "name": "Visual Concepts",
         "prereq": null,
         "exclusion": "VIS120H1",
@@ -603,7 +603,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JAV130H1",
+        "code": "JAV130H1",
         "name": "Visual Strategies",
         "prereq": "JAV120H1 / VIS120H1 , or registration in the Bachelor of Arts Degree in Visual Studies",
         "exclusion": "VIS130H1",
@@ -612,7 +612,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JAV151H1",
+        "code": "JAV151H1",
         "name": "History of Architecture, Landscape, Urbanism, and Art I",
         "prereq": null,
         "exclusion": "ARC131H1 / JAV131H1",
@@ -621,7 +621,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JAV152H1",
+        "code": "JAV152H1",
         "name": "History of Architecture, Landscape, Urbanism, and Art II",
         "prereq": "ARC131H1 / JAV131H1 / JAV151H1",
         "exclusion": "ARC132H1 / JAV132H1",
@@ -630,7 +630,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JAV200H1",
+        "code": "JAV200H1",
         "name": "Introduction to Critical Theory",
         "prereq": null,
         "exclusion": "VIS200H1",
@@ -639,7 +639,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JAV303H1",
+        "code": "JAV303H1",
         "name": "Land,  Relations, Truth and Reconciliation",
         "prereq": "JAV200H1",
         "exclusion": null,
@@ -657,7 +657,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS202H1",
+        "code": "VIS202H1",
         "name": "Artists' Moving Image I",
         "prereq": "JAV130H1 / VIS130H1",
         "exclusion": null,
@@ -666,7 +666,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS203H1",
+        "code": "VIS203H1",
         "name": "Time-Based Installation I",
         "prereq": "JAV130H1 / VIS130H1",
         "exclusion": "FAS349Y5",
@@ -693,7 +693,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS208H1",
+        "code": "VIS208H1",
         "name": "Performance Art",
         "prereq": "JAV130H1 / VIS130H1",
         "exclusion": null,
@@ -702,7 +702,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS209H1",
+        "code": "VIS209H1",
         "name": "Contemporary Printing",
         "prereq": "JAV130H1",
         "exclusion": null,
@@ -711,7 +711,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS211H1",
+        "code": "VIS211H1",
         "name": "Works on Paper",
         "prereq": "JAV130H1 / VIS130H1",
         "exclusion": "FAS143H5 , FAS243H5",
@@ -720,7 +720,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS212H1",
+        "code": "VIS212H1",
         "name": "Colour",
         "prereq": "JAV130H1 / VIS130H1",
         "exclusion": null,
@@ -729,7 +729,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS217H1",
+        "code": "VIS217H1",
         "name": "Photo-based (Chemical)",
         "prereq": "JAV130H1 / VIS130H1",
         "exclusion": "FAS147H5",
@@ -738,7 +738,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS218H1",
+        "code": "VIS218H1",
         "name": "Photo-based (Digital)",
         "prereq": "JAV130H1 / VIS130H1",
         "exclusion": "FAS147H5",
@@ -747,7 +747,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS220H1",
+        "code": "VIS220H1",
         "name": "Painting and the Subject",
         "prereq": "JAV130H1 / VIS130H1",
         "exclusion": "FAS145H5",
@@ -756,7 +756,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS240H1",
+        "code": "VIS240H1",
         "name": "Sound Art I",
         "prereq": "JAV130H1",
         "exclusion": null,
@@ -765,7 +765,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS300H0",
+        "code": "VIS300H0",
         "name": "Summer Studio Abroad",
         "prereq": "1.0 credit at the 200 or higher-level in VIS courses and permission of instructor",
         "exclusion": null,
@@ -774,7 +774,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS300Y0",
+        "code": "VIS300Y0",
         "name": "Summer Studio Abroad",
         "prereq": "1.0 credit at the 200 or higher-level in VIS courses and permission of instructor",
         "exclusion": null,
@@ -792,7 +792,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS302H1",
+        "code": "VIS302H1",
         "name": "Artists' Moving Image II",
         "prereq": "JAV200H1 / VIS200H1 , VIS202H1 / VIS203H1",
         "exclusion": "FAS349Y5",
@@ -801,7 +801,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " VIS303H1",
+        "code": "VIS303H1",
         "name": "Time-Based Installation II",
         "prereq": "VIS203H1 or VIS202H1",
         "exclusion": null,
@@ -828,7 +828,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS307H1",
+        "code": "VIS307H1",
         "name": "Art and Context",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -837,7 +837,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS309H1",
+        "code": "VIS309H1",
         "name": "Contemporary Printing II",
         "prereq": "JAV200H1 / VIS200H1 , VIS209H1",
         "exclusion": "FAS334Y5",
@@ -846,7 +846,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS310H1",
+        "code": "VIS310H1",
         "name": "Imaging the Political",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -855,7 +855,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS312H1",
+        "code": "VIS312H1",
         "name": "Collage",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -864,7 +864,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS313H1",
+        "code": "VIS313H1",
         "name": "The Body",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses.",
         "exclusion": null,
@@ -873,7 +873,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS316H1",
+        "code": "VIS316H1",
         "name": "The Constructed Image",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses.",
         "exclusion": null,
@@ -882,7 +882,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS318H1",
+        "code": "VIS318H1",
         "name": "Integrated Photo-based Explorations",
         "prereq": "JAV200H1 / VIS200H1 , VIS217H1 or VIS218H1",
         "exclusion": "FAS347Y5",
@@ -891,7 +891,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS319H1",
+        "code": "VIS319H1",
         "name": "Defining Landscapes",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses.",
         "exclusion": null,
@@ -900,7 +900,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS320H1",
+        "code": "VIS320H1",
         "name": "Critical Curatorial Lab",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses.",
         "exclusion": "FAH451H5",
@@ -909,7 +909,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS321H1",
+        "code": "VIS321H1",
         "name": "Artists' Multiples",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses.",
         "exclusion": null,
@@ -927,7 +927,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS324H1",
+        "code": "VIS324H1",
         "name": "The Aesthetics of Everyday Life",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses.",
         "exclusion": null,
@@ -936,7 +936,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS325H1",
+        "code": "VIS325H1",
         "name": "Contemporary Art Issues",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses.",
         "exclusion": null,
@@ -945,7 +945,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS326H1",
+        "code": "VIS326H1",
         "name": "Studio Practice",
         "prereq": "1.0 credit at the 200 or higher-level in VIS courses.",
         "exclusion": null,
@@ -963,7 +963,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS328H1",
+        "code": "VIS328H1",
         "name": "Publishing Platforms",
         "prereq": "JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -972,7 +972,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS330H1",
+        "code": "VIS330H1",
         "name": "Artists' Writings",
         "prereq": "JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -981,7 +981,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS331H1",
+        "code": "VIS331H1",
         "name": "Art Criticism",
         "prereq": "JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -990,7 +990,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS332H1",
+        "code": "VIS332H1",
         "name": "Advanced Critical Theory",
         "prereq": "JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -999,7 +999,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS333H1",
+        "code": "VIS333H1",
         "name": "Arts, Technology, and Theory",
         "prereq": "JAV200 and 0.5 credits in VIS courses at the 200-level or higher",
         "exclusion": null,
@@ -1008,7 +1008,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS340H1",
+        "code": "VIS340H1",
         "name": "Sound Art II",
         "prereq": "VIS240H1 JAV200H1",
         "exclusion": null,
@@ -1017,7 +1017,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS399H1",
+        "code": "VIS399H1",
         "name": "Research Opportunity Program",
         "prereq": "1.0 credit at the 300 or higher-level in VIS courses and permission of instructor.",
         "exclusion": null,
@@ -1026,7 +1026,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS399Y1",
+        "code": "VIS399Y1",
         "name": "Research Opportunity Program",
         "prereq": "1.0 credit at the 300 or higher-level in VIS courses and permission of instructor.",
         "exclusion": null,
@@ -1035,7 +1035,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS404H1",
+        "code": "VIS404H1",
         "name": "Independent Studies",
         "prereq": "1.0 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1 , 1.0 credit at the 300-level in VIS courses, and permission of Program Director.",
         "exclusion": null,
@@ -1044,7 +1044,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS405H1",
+        "code": "VIS405H1",
         "name": "Visual Studies Internship",
         "prereq": "1.0 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1 , 1.0 credit at the 300-level in VIS courses, and permission of Program Director.",
         "exclusion": null,
@@ -1053,7 +1053,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS406H1",
+        "code": "VIS406H1",
         "name": "Public Art",
         "prereq": "1.0 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1 , VIS306H1 or permission of Program Director.",
         "exclusion": null,
@@ -1062,7 +1062,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS410H1",
+        "code": "VIS410H1",
         "name": "Artist In Residence Master Class",
         "prereq": "1.0 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1 , 1.0 credit at the 300 or higher-level in VIS courses, and permission of the Program Director",
         "exclusion": null,
@@ -1071,7 +1071,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS420H1",
+        "code": "VIS420H1",
         "name": "Advanced Readings in Contemporary Art and Culture",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -1080,7 +1080,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " VIS421H1",
+        "code": "VIS421H1",
         "name": "Institutions and Exhibitions",
         "prereq": "0.5 credit at the 200 or higher-level in VIS courses, JAV200H1 / VIS200H1",
         "exclusion": null,
@@ -1089,7 +1089,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " VIS426H1",
+        "code": "VIS426H1",
         "name": "Studio Practice II",
         "prereq": "JAV200H1 / VIS200H1 , VIS326 or 1.0 credit at the 300 or higher level in VIS courses and permission of instructor",
         "exclusion": null,
@@ -1098,7 +1098,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " VIS430Y1",
+        "code": "VIS430Y1",
         "name": "Thesis Project (Critical Practices)",
         "prereq": "1.0 credit at the 200-level in VIS courses, 1.0 credit at the 300-level in VIS courses",
         "exclusion": "VIS431Y1",
@@ -1107,7 +1107,7 @@
         "source_url": "https://daniels.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " VIS431Y1",
+        "code": "VIS431Y1",
         "name": "Thesis Project (Studio)",
         "prereq": "1.0 credit at the 200-level in VIS courses, 1.0 credit at the 300-level in VIS courses",
         "exclusion": "VIS430Y1",

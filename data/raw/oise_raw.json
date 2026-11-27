@@ -1,7 +1,7 @@
 [
     {
         "code": "APD1200H",
-        "name": "Foundations of Human Development and Education ",
+        "name": "Foundations of Human Development and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -10,7 +10,7 @@
     },
     {
         "code": "APD1201H",
-        "name": "Child and Adolescent Development ",
+        "name": "Child and Adolescent Development",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -19,7 +19,7 @@
     },
     {
         "code": "APD1202H",
-        "name": "Theories and Techniques of Counselling and Psychotherapy – Part I ",
+        "name": "Theories and Techniques of Counselling and Psychotherapy – Part I",
         "prereq": null,
         "exclusion": "APD1202Y Theories and Techniques of Counselling and Psychotherapy (1.0 FCE)",
         "corequisite": null,
@@ -37,7 +37,7 @@
     },
     {
         "code": "APD1204H",
-        "name": "Personality Theories ",
+        "name": "Personality Theories",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -46,7 +46,7 @@
     },
     {
         "code": "APD1205H",
-        "name": "Ethical Issues in Applied Psychology ",
+        "name": "Ethical Issues in Applied Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -55,7 +55,7 @@
     },
     {
         "code": "APD1206H",
-        "name": "Mind, Brain, and Instruction ",
+        "name": "Mind, Brain, and Instruction",
         "prereq": "MEd students must have at least one of APD1233H or APD1249H , or permission of instructor.",
         "exclusion": "APD5012H",
         "corequisite": null,
@@ -64,7 +64,7 @@
     },
     {
         "code": "APD1207H",
-        "name": "Counselling Topics in Sexual Orientation and Gender Identity Diversity ",
+        "name": "Counselling Topics in Sexual Orientation and Gender Identity Diversity",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -73,7 +73,7 @@
     },
     {
         "code": "APD1208Y",
-        "name": "Cognitive and Personality Theory and Assessment ",
+        "name": "Cognitive and Personality Theory and Assessment",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -82,7 +82,7 @@
     },
     {
         "code": "APD1209H",
-        "name": "Research Methods and Thesis Preparation in Human Development and Applied Psychology ",
+        "name": "Research Methods and Thesis Preparation in Human Development and Applied Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -91,7 +91,7 @@
     },
     {
         "code": "APD1210H",
-        "name": "Research Practicum RM ",
+        "name": "Research Practicum RM",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -100,7 +100,7 @@
     },
     {
         "code": "APD1211H",
-        "name": "Psychological Foundations of Early Development and Education ",
+        "name": "Psychological Foundations of Early Development and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -109,7 +109,7 @@
     },
     {
         "code": "APD1212H",
-        "name": "Basics to Program Evaluation in Social Sciences ",
+        "name": "Basics to Program Evaluation in Social Sciences",
         "prereq": null,
         "exclusion": "APD5021H Special Topics in Applied Psychology and Human Development: Basics to Program Evaluation in Social Sciences",
         "corequisite": null,
@@ -118,7 +118,7 @@
     },
     {
         "code": "APD1213H",
-        "name": "Psychology and Education of Students with ADHD ",
+        "name": "Psychology and Education of Students with ADHD",
         "prereq": "DPE MEd students must have at least one of APD1281H / APD2280H or APD1297H or permission of instructor.",
         "exclusion": "APD5001H",
         "corequisite": null,
@@ -136,7 +136,7 @@
     },
     {
         "code": "APD1215H",
-        "name": "Psychological Assessment of School-Aged Children ",
+        "name": "Psychological Assessment of School-Aged Children",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -145,7 +145,7 @@
     },
     {
         "code": "APD1216H",
-        "name": "Psychoeducational Assessment ",
+        "name": "Psychoeducational Assessment",
         "prereq": "This course is limited to students in the School and Clinical Child Psychology program who have completed course APD1215H .",
         "exclusion": null,
         "corequisite": null,
@@ -154,7 +154,7 @@
     },
     {
         "code": "APD1217H",
-        "name": "Foundations of Proactive Behavioural and Cognitive-Behavioural Intervention in Children ",
+        "name": "Foundations of Proactive Behavioural and Cognitive-Behavioural Intervention in Children",
         "prereq": "DPE MEd students must have pre-requisite APD1281H or APD1297H or permission of instructor.",
         "exclusion": null,
         "corequisite": null,
@@ -163,7 +163,7 @@
     },
     {
         "code": "APD1218H",
-        "name": "Seminar and Practicum in School Based Assessment, Consultation and Intervention (Pass/Fail) ",
+        "name": "Seminar and Practicum in School Based Assessment, Consultation and Intervention (Pass/Fail)",
         "prereq": "APD1205H , APD1215H , APD1216H , or equivalent.",
         "exclusion": null,
         "corequisite": null,
@@ -172,7 +172,7 @@
     },
     {
         "code": "APD1219H",
-        "name": "Ethical Issues in Professional Practice in Psychology and Psychotherapy ",
+        "name": "Ethical Issues in Professional Practice in Psychology and Psychotherapy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -181,7 +181,7 @@
     },
     {
         "code": "APD1222H",
-        "name": "Approaches to Psychotherapy Across the Lifespan ",
+        "name": "Approaches to Psychotherapy Across the Lifespan",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -190,7 +190,7 @@
     },
     {
         "code": "APD1226H",
-        "name": "Foundations in Inquiry and Data-Based Decision Making ",
+        "name": "Foundations in Inquiry and Data-Based Decision Making",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -199,7 +199,7 @@
     },
     {
         "code": "APD1227Y",
-        "name": "Professional Practice Project ",
+        "name": "Professional Practice Project",
         "prereq": "APD1226H",
         "exclusion": null,
         "corequisite": null,
@@ -208,7 +208,7 @@
     },
     {
         "code": "APD1228H",
-        "name": "Couples Counselling ",
+        "name": "Couples Counselling",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -217,7 +217,7 @@
     },
     {
         "code": "APD1229H",
-        "name": "Fostering Black Mental Health from Childhood to Emerging Adulthood Through Anti-Racist Practices ",
+        "name": "Fostering Black Mental Health from Childhood to Emerging Adulthood Through Anti-Racist Practices",
         "prereq": null,
         "exclusion": "APD5040H",
         "corequisite": null,
@@ -226,7 +226,7 @@
     },
     {
         "code": "APD1230H",
-        "name": "Well-being & Education ",
+        "name": "Well-being & Education",
         "prereq": null,
         "exclusion": "APD5008H Special Topics in Applied Psychology and Human Development: Well-being & Internalizing Disorders",
         "corequisite": null,
@@ -235,7 +235,7 @@
     },
     {
         "code": "APD1231H",
-        "name": "Mindful Self-Compassion for Educators ",
+        "name": "Mindful Self-Compassion for Educators",
         "prereq": null,
         "exclusion": "APD5018H",
         "corequisite": null,
@@ -244,7 +244,7 @@
     },
     {
         "code": "APD1232H",
-        "name": "Mindfulness Interventions in Counselling and Psychotherapy ",
+        "name": "Mindfulness Interventions in Counselling and Psychotherapy",
         "prereq": null,
         "exclusion": "APD5005H Special Topics in Applied Psychology and Human Development: Master's Level: Mindfulness Interventions in Counselling and Education",
         "corequisite": null,
@@ -253,7 +253,7 @@
     },
     {
         "code": "APD1233H",
-        "name": "Cognitive Development and Applications ",
+        "name": "Cognitive Development and Applications",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -262,7 +262,7 @@
     },
     {
         "code": "APD1235H",
-        "name": "Technology, Play, and Social Media in Adolescence ",
+        "name": "Technology, Play, and Social Media in Adolescence",
         "prereq": "DPE MEd students must have at least one of APD1233H or APD1249H or APD1281H or permission of instructor.",
         "exclusion": "APD5017H Special Topics in Applied Psychology and Human Development: Master's Level: Technology, Play and Social Media in Adolescence",
         "corequisite": null,
@@ -271,7 +271,7 @@
     },
     {
         "code": "APD1236H",
-        "name": "Developmental Psychopathology ",
+        "name": "Developmental Psychopathology",
         "prereq": "DPE MEd students must have at least APD1233H or APD1249H or consult with instructor.",
         "exclusion": null,
         "corequisite": null,
@@ -289,7 +289,7 @@
     },
     {
         "code": "APD1245H",
-        "name": "Brief Strategies in Counselling and Psychotherapy ",
+        "name": "Brief Strategies in Counselling and Psychotherapy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -298,7 +298,7 @@
     },
     {
         "code": "APD1247H",
-        "name": "Practicum in Adult Counselling and Psychotherapy (Pass/Fail) ",
+        "name": "Practicum in Adult Counselling and Psychotherapy (Pass/Fail)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -307,7 +307,7 @@
     },
     {
         "code": "APD1249H",
-        "name": "Social-Emotional Development and Applications ",
+        "name": "Social-Emotional Development and Applications",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -316,7 +316,7 @@
     },
     {
         "code": "APD1250H",
-        "name": "Program Evaluation Practicum ",
+        "name": "Program Evaluation Practicum",
         "prereq": "APD1212H , APD2293H",
         "exclusion": null,
         "corequisite": null,
@@ -325,7 +325,7 @@
     },
     {
         "code": "APD1251H",
-        "name": "Reading in a Second Language ",
+        "name": "Reading in a Second Language",
         "prereq": "MEd and EdD students must have at least one of APD1233 or APD1249, or permission of instructor.",
         "exclusion": "JHC1251H",
         "corequisite": null,
@@ -343,7 +343,7 @@
     },
     {
         "code": "APD1254H",
-        "name": "Integrating Healing Traditions in Counselling and Psychotherapy ",
+        "name": "Integrating Healing Traditions in Counselling and Psychotherapy",
         "prereq": null,
         "exclusion": "APD5042H",
         "corequisite": null,
@@ -361,7 +361,7 @@
     },
     {
         "code": "APD1257H",
-        "name": "Child Development and Personal History ",
+        "name": "Child Development and Personal History",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -370,7 +370,7 @@
     },
     {
         "code": "APD1258H",
-        "name": "Spatial Thinking and STEAM Education ",
+        "name": "Spatial Thinking and STEAM Education",
         "prereq": null,
         "exclusion": "APD5035H Spatial Thinking and STEAM Education",
         "corequisite": null,
@@ -379,7 +379,7 @@
     },
     {
         "code": "APD1260H",
-        "name": "Family Therapy ",
+        "name": "Family Therapy",
         "prereq": null,
         "exclusion": "APD1261H Group Work in Counselling and Psychotherapy",
         "corequisite": null,
@@ -388,7 +388,7 @@
     },
     {
         "code": "APD1261H",
-        "name": "Group Work in Counselling and Psychotherapy ",
+        "name": "Group Work in Counselling and Psychotherapy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -397,7 +397,7 @@
     },
     {
         "code": "APD1262H",
-        "name": "Educational and Psychological Testing for Counselling ",
+        "name": "Educational and Psychological Testing for Counselling",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -406,7 +406,7 @@
     },
     {
         "code": "APD1263H",
-        "name": "Research Methods for Clinical and Counselling Psychology [RM] ",
+        "name": "Research Methods for Clinical and Counselling Psychology [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -415,7 +415,7 @@
     },
     {
         "code": "APD1264H",
-        "name": "Neuroscience of Reading and Reading Disorders ",
+        "name": "Neuroscience of Reading and Reading Disorders",
         "prereq": null,
         "exclusion": "APD5043H",
         "corequisite": null,
@@ -424,7 +424,7 @@
     },
     {
         "code": "APD1267H",
-        "name": "Emotion-focused Therapy ",
+        "name": "Emotion-focused Therapy",
         "prereq": null,
         "exclusion": "APD5004H",
         "corequisite": "APD1202Y",
@@ -442,7 +442,7 @@
     },
     {
         "code": "APD1270H",
-        "name": "Trauma Informed Interventions ",
+        "name": "Trauma Informed Interventions",
         "prereq": null,
         "exclusion": "APD5032 Trauma Informed Interventions",
         "corequisite": null,
@@ -460,7 +460,7 @@
     },
     {
         "code": "APD1272H",
-        "name": "Play and Education ",
+        "name": "Play and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -469,7 +469,7 @@
     },
     {
         "code": "APD1273H",
-        "name": "Psychology & Education of Children and Adolescents with Autism Spectrum Disorder ",
+        "name": "Psychology & Education of Children and Adolescents with Autism Spectrum Disorder",
         "prereq": "DPE MEd students must have prerequisite APD1281H , or APD1297H , or permission of instructor.",
         "exclusion": "APD5024H Special Topics in Applied Psychology and Human Development: Masters Level Psychology and Education of Children and Adolescents with Autism Spectrum Disorder",
         "corequisite": null,
@@ -487,7 +487,7 @@
     },
     {
         "code": "APD1275H",
-        "name": "Special Topics in Counselling Psychology ",
+        "name": "Special Topics in Counselling Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -505,7 +505,7 @@
     },
     {
         "code": "APD1278H",
-        "name": "Cognitive Therapy ",
+        "name": "Cognitive Therapy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -514,7 +514,7 @@
     },
     {
         "code": "APD1279H",
-        "name": "Preventative Interventions for Children at Risk ",
+        "name": "Preventative Interventions for Children at Risk",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -523,7 +523,7 @@
     },
     {
         "code": "APD1280H",
-        "name": "Symbolic Development and Learning ",
+        "name": "Symbolic Development and Learning",
         "prereq": "APD1233H , APD1249H",
         "exclusion": null,
         "corequisite": null,
@@ -532,7 +532,7 @@
     },
     {
         "code": "APD1281H",
-        "name": "Education Exceptionalities, Special Education, and Adaptive Instruction ",
+        "name": "Education Exceptionalities, Special Education, and Adaptive Instruction",
         "prereq": null,
         "exclusion": "APD2280H",
         "corequisite": null,
@@ -541,7 +541,7 @@
     },
     {
         "code": "APD1282H",
-        "name": "Introduction to Global Mental Health and Counselling Psychology ",
+        "name": "Introduction to Global Mental Health and Counselling Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -550,7 +550,7 @@
     },
     {
         "code": "APD1283H",
-        "name": "Peer and Video-Based Counselling with Practicum Field-Based Learning in Global Mental Health ",
+        "name": "Peer and Video-Based Counselling with Practicum Field-Based Learning in Global Mental Health",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -559,7 +559,7 @@
     },
     {
         "code": "APD1285H",
-        "name": "Psychology and Education of Children and Adolescents with Learning Disabilities ",
+        "name": "Psychology and Education of Children and Adolescents with Learning Disabilities",
         "prereq": "DPE MEd students must have pre-requisite APD1281H or permission of instructor.",
         "exclusion": null,
         "corequisite": null,
@@ -568,7 +568,7 @@
     },
     {
         "code": "APD1286H",
-        "name": "Foundations of Literacy Development for School Age Children ",
+        "name": "Foundations of Literacy Development for School Age Children",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -577,7 +577,7 @@
     },
     {
         "code": "APD1288H",
-        "name": "Intermediate Statistics and Research Design [RM] ",
+        "name": "Intermediate Statistics and Research Design [RM]",
         "prereq": "APD1287H or equivalent.",
         "exclusion": null,
         "corequisite": null,
@@ -586,7 +586,7 @@
     },
     {
         "code": "APD1289H",
-        "name": "Multivariative Analysis with Applications [RM] ",
+        "name": "Multivariative Analysis with Applications [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -595,7 +595,7 @@
     },
     {
         "code": "APD1290H",
-        "name": "Indigenous Studies in Mental Health & Disability Justice ",
+        "name": "Indigenous Studies in Mental Health & Disability Justice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -613,7 +613,7 @@
     },
     {
         "code": "APD1292H",
-        "name": "Instrument Design and Analysis [RM] ",
+        "name": "Instrument Design and Analysis [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -622,7 +622,7 @@
     },
     {
         "code": "APD1294H",
-        "name": "Technology, Psychology and Play ",
+        "name": "Technology, Psychology and Play",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -640,7 +640,7 @@
     },
     {
         "code": "APD1296H",
-        "name": "Assessing School-Aged Language Learners ",
+        "name": "Assessing School-Aged Language Learners",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -658,7 +658,7 @@
     },
     {
         "code": "APD1298H",
-        "name": "Imagination, Reasoning and Learning ",
+        "name": "Imagination, Reasoning and Learning",
         "prereq": "APD1233H , APD1249H",
         "exclusion": null,
         "corequisite": null,
@@ -667,7 +667,7 @@
     },
     {
         "code": "APD1299H",
-        "name": "Language Acquisition and Development in Early Childhood ",
+        "name": "Language Acquisition and Development in Early Childhood",
         "prereq": "APD1233H , APD1249H",
         "exclusion": null,
         "corequisite": null,
@@ -676,7 +676,7 @@
     },
     {
         "code": "APD1302H",
-        "name": "Theories and Techniques of Counselling and Psychotherapy – Part II ",
+        "name": "Theories and Techniques of Counselling and Psychotherapy – Part II",
         "prereq": "APD1202H Theories and Techniques of Counselling and Psychotherapy – Part I",
         "exclusion": "APD1202Y Theories and Techniques of Counselling and Psychotherapy (1.0 FCE)",
         "corequisite": null,
@@ -685,7 +685,7 @@
     },
     {
         "code": "APD1310H",
-        "name": "AI in Psychological and Educational Research and Practices ",
+        "name": "AI in Psychological and Educational Research and Practices",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -694,7 +694,7 @@
     },
     {
         "code": "APD1311H",
-        "name": "Exploring AI and its Implementation in Education ",
+        "name": "Exploring AI and its Implementation in Education",
         "prereq": null,
         "exclusion": "APD5046H",
         "corequisite": null,
@@ -703,7 +703,7 @@
     },
     {
         "code": "APD1902H",
-        "name": "Theories and Techniques of Counselling in a Global Context ",
+        "name": "Theories and Techniques of Counselling in a Global Context",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -712,7 +712,7 @@
     },
     {
         "code": "APD2001Y",
-        "name": "Major Research Paper ",
+        "name": "Major Research Paper",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -721,7 +721,7 @@
     },
     {
         "code": "APD2200Y",
-        "name": "Child Study and the Science of Learning ",
+        "name": "Child Study and the Science of Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -766,7 +766,7 @@
     },
     {
         "code": "APD2212H",
-        "name": "Mathematics Learning and Instruction ",
+        "name": "Mathematics Learning and Instruction",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -775,7 +775,7 @@
     },
     {
         "code": "APD2214H",
-        "name": "Arts Curriculum and Critical Pedagogies for Cross-Curricular Teaching ",
+        "name": "Arts Curriculum and Critical Pedagogies for Cross-Curricular Teaching",
         "prereq": "APD2210Y",
         "exclusion": null,
         "corequisite": null,
@@ -784,7 +784,7 @@
     },
     {
         "code": "APD2220Y",
-        "name": "Teaching Practicum ",
+        "name": "Teaching Practicum",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -793,7 +793,7 @@
     },
     {
         "code": "APD2221Y",
-        "name": "Teaching Internship ",
+        "name": "Teaching Internship",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -847,7 +847,7 @@
     },
     {
         "code": "APD2275H",
-        "name": "Technology for Adaptive Instruction and Special Education ",
+        "name": "Technology for Adaptive Instruction and Special Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -856,7 +856,7 @@
     },
     {
         "code": "APD2293H",
-        "name": "Interpretation of Educational Research (RM) ",
+        "name": "Interpretation of Educational Research (RM)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -865,7 +865,7 @@
     },
     {
         "code": "APD2296H",
-        "name": "Reading and Writing Difficulties ",
+        "name": "Reading and Writing Difficulties",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -874,7 +874,7 @@
     },
     {
         "code": "APD3115H",
-        "name": "Research Proseminar in Counselling & Psychotherapy ",
+        "name": "Research Proseminar in Counselling & Psychotherapy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -901,7 +901,7 @@
     },
     {
         "code": "APD3163H",
-        "name": "Advanced Multicultural Counselling and Psychotherapy ",
+        "name": "Advanced Multicultural Counselling and Psychotherapy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -910,7 +910,7 @@
     },
     {
         "code": "APD3178H",
-        "name": "Advanced Cognitive Behaviour Therapy ",
+        "name": "Advanced Cognitive Behaviour Therapy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -919,7 +919,7 @@
     },
     {
         "code": "APD3200H",
-        "name": "Research Proseminar on Human Development and Applied Psychology ",
+        "name": "Research Proseminar on Human Development and Applied Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -928,7 +928,7 @@
     },
     {
         "code": "APD3201H",
-        "name": "Qualitative Research Methods in Human Development and Applied Psychology [RM] ",
+        "name": "Qualitative Research Methods in Human Development and Applied Psychology [RM]",
         "prereq": "APD2293H for Developmental Psychology and Education Master's of Education students interested in enrolling in APD3201H",
         "exclusion": null,
         "corequisite": null,
@@ -937,7 +937,7 @@
     },
     {
         "code": "APD3202H",
-        "name": "A Foundation of Program Evaluation in Social Sciences [RM] ",
+        "name": "A Foundation of Program Evaluation in Social Sciences [RM]",
         "prereq": "Open to Doctoral students. Open to MEd students with JOI1287H or APD2293H or APD1212H .",
         "exclusion": null,
         "corequisite": null,
@@ -946,7 +946,7 @@
     },
     {
         "code": "APD3204H",
-        "name": "Contemporary History and Systems in Human Development and Applied Psychology ",
+        "name": "Contemporary History and Systems in Human Development and Applied Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -955,7 +955,7 @@
     },
     {
         "code": "APD3209H",
-        "name": "Applied Machine Learning (RM) ",
+        "name": "Applied Machine Learning (RM)",
         "prereq": "JOI1288H",
         "exclusion": "APD5044H",
         "corequisite": null,
@@ -964,7 +964,7 @@
     },
     {
         "code": "APD3210H",
-        "name": "Advanced Multivariate Statistical Modeling in Education and Psychology ",
+        "name": "Advanced Multivariate Statistical Modeling in Education and Psychology",
         "prereq": "JOI1288H or JOI3048H or equivalent",
         "exclusion": "APD6001H",
         "corequisite": null,
@@ -991,7 +991,7 @@
     },
     {
         "code": "APD3221H",
-        "name": "Cross-cultural Perspectives on Children's Problems ",
+        "name": "Cross-cultural Perspectives on Children's Problems",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1000,7 +1000,7 @@
     },
     {
         "code": "APD3222H",
-        "name": "Approaches to Psychotherapy with Children, Youth and Families ",
+        "name": "Approaches to Psychotherapy with Children, Youth and Families",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1009,7 +1009,7 @@
     },
     {
         "code": "APD3224H",
-        "name": "Advanced Proactive Behavioural and Cognitive-Behavioural Interventions ",
+        "name": "Advanced Proactive Behavioural and Cognitive-Behavioural Interventions",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1018,7 +1018,7 @@
     },
     {
         "code": "APD3225H",
-        "name": "Assessment and Diagnosis of Personality and Psychopathology ",
+        "name": "Assessment and Diagnosis of Personality and Psychopathology",
         "prereq": "APD3224H and APD3258H",
         "exclusion": null,
         "corequisite": null,
@@ -1027,7 +1027,7 @@
     },
     {
         "code": "APD3231H",
-        "name": "Psychodynamic Bases of Therapy ",
+        "name": "Psychodynamic Bases of Therapy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1045,7 +1045,7 @@
     },
     {
         "code": "APD3240H",
-        "name": "Advanced Social and Emotional Assessment Techniques ",
+        "name": "Advanced Social and Emotional Assessment Techniques",
         "prereq": "APD1216H or equivalent and APD1218H or equivalent and permission of the instructor.",
         "exclusion": null,
         "corequisite": null,
@@ -1054,7 +1054,7 @@
     },
     {
         "code": "APD3241H",
-        "name": "Seminar and Practicum in Clinical Assessment and Intervention (Pass/Fail) ",
+        "name": "Seminar and Practicum in Clinical Assessment and Intervention (Pass/Fail)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1063,7 +1063,7 @@
     },
     {
         "code": "APD3242Y",
-        "name": "Internship in School and Clinical Child Psychology (Pass/Fail) ",
+        "name": "Internship in School and Clinical Child Psychology (Pass/Fail)",
         "prereq": "APD3241H and permission of instructor.",
         "exclusion": null,
         "corequisite": null,
@@ -1072,7 +1072,7 @@
     },
     {
         "code": "APD3243H",
-        "name": "Additional PhD Practicum in Assessment & Intervention ",
+        "name": "Additional PhD Practicum in Assessment & Intervention",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1090,7 +1090,7 @@
     },
     {
         "code": "APD3260H",
-        "name": "Psychodiagnostic Systems ",
+        "name": "Psychodiagnostic Systems",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1108,7 +1108,7 @@
     },
     {
         "code": "APD3268Y",
-        "name": "Internship in Clinical and Counselling Psychology ",
+        "name": "Internship in Clinical and Counselling Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1117,7 +1117,7 @@
     },
     {
         "code": "APD3270H",
-        "name": "EdD Internship ",
+        "name": "EdD Internship",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1126,7 +1126,7 @@
     },
     {
         "code": "APD3271H",
-        "name": "Additional Doctoral Practicum ",
+        "name": "Additional Doctoral Practicum",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1135,7 +1135,7 @@
     },
     {
         "code": "APD3286H",
-        "name": "Developmental Neuropsychology ",
+        "name": "Developmental Neuropsychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1153,7 +1153,7 @@
     },
     {
         "code": "APD3302H",
-        "name": "Advanced Study of Critical Issues in Special Education, Mental Health, and Child Security ",
+        "name": "Advanced Study of Critical Issues in Special Education, Mental Health, and Child Security",
         "prereq": "APD3301H",
         "exclusion": null,
         "corequisite": null,
@@ -1171,7 +1171,7 @@
     },
     {
         "code": "APD3304H",
-        "name": "Research Proposal Development (RM) ",
+        "name": "Research Proposal Development (RM)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1180,7 +1180,7 @@
     },
     {
         "code": "APD3305H",
-        "name": "Systems and Organizational Change ",
+        "name": "Systems and Organizational Change",
         "prereq": null,
         "exclusion": "APD6006H",
         "corequisite": null,
@@ -1189,7 +1189,7 @@
     },
     {
         "code": "APD3401H",
-        "name": "Assessment with Culturally and Linguistically Diverse Children, Youth, and Families ",
+        "name": "Assessment with Culturally and Linguistically Diverse Children, Youth, and Families",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1198,7 +1198,7 @@
     },
     {
         "code": "APD3402H",
-        "name": "Intervention with Culturally and Linguistically Diverse Children, Youth, and Families ",
+        "name": "Intervention with Culturally and Linguistically Diverse Children, Youth, and Families",
         "prereq": "APD3401H Assessment with Culturally and Linguistically Diverse Children, Youth, and Families",
         "exclusion": null,
         "corequisite": null,
@@ -1207,7 +1207,7 @@
     },
     {
         "code": "APD3403H",
-        "name": "EdD Internship in School Psychology  ",
+        "name": "EdD Internship in School Psychology",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1225,7 +1225,7 @@
     },
     {
         "code": "APD5284Y",
-        "name": "Assessment and Intervention with Culturally and Linguistically Diverse Children, Youth and Families ",
+        "name": "Assessment and Intervention with Culturally and Linguistically Diverse Children, Youth and Families",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1243,7 +1243,7 @@
     },
     {
         "code": "CIE1001H",
-        "name": "Introduction to Comparative, International and Development Education ",
+        "name": "Introduction to Comparative, International and Development Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1252,7 +1252,7 @@
     },
     {
         "code": "CIE1002H",
-        "name": "Practicum for Comparative, International and Development Education ",
+        "name": "Practicum for Comparative, International and Development Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1261,7 +1261,7 @@
     },
     {
         "code": "CIE1006H",
-        "name": "Transnational Perspectives on Democracy, Human Rights and Democratic Education in an Era of Globalization ",
+        "name": "Transnational Perspectives on Democracy, Human Rights and Democratic Education in an Era of Globalization",
         "prereq": "One page rationale submitted by MA & PhD students to instructor, justifying the course relevance to them prior to being enrolled in course.",
         "exclusion": null,
         "corequisite": null,
@@ -1270,7 +1270,7 @@
     },
     {
         "code": "CIE6000H",
-        "name": "Special Topics in Comparative, International and Development Education ",
+        "name": "Special Topics in Comparative, International and Development Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1279,7 +1279,7 @@
     },
     {
         "code": "CRE1001H",
-        "name": "Éducation, francophonies et diversité ",
+        "name": "Éducation, francophonies et diversité",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1288,7 +1288,7 @@
     },
     {
         "code": "CTL1000H",
-        "name": "Foundations of Curriculum & Pedagogy / Fondements de l' étude des programmes scolaires ",
+        "name": "Foundations of Curriculum & Pedagogy / Fondements de l' étude des programmes scolaires",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1297,7 +1297,7 @@
     },
     {
         "code": "CTL1011H",
-        "name": "Anti-Oppression Education in School Settings / L’éducation pour l’anti-oppression en milieu scolaire ",
+        "name": "Anti-Oppression Education in School Settings / L’éducation pour l’anti-oppression en milieu scolaire",
         "prereq": null,
         "exclusion": "Students who have previously taken CTL7009H are prohibited from taking this course.",
         "corequisite": null,
@@ -1306,7 +1306,7 @@
     },
     {
         "code": "CTL1016H",
-        "name": "Cooperative Learning Research and Practice ",
+        "name": "Cooperative Learning Research and Practice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1315,7 +1315,7 @@
     },
     {
         "code": "CTL1018H",
-        "name": "Introduction to Qualitative Inquiry in Curriculum, Teaching and Learning [RM] ",
+        "name": "Introduction to Qualitative Inquiry in Curriculum, Teaching and Learning [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1324,7 +1324,7 @@
     },
     {
         "code": "CTL1024H",
-        "name": "Poststructuralism and Education ",
+        "name": "Poststructuralism and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1333,7 +1333,7 @@
     },
     {
         "code": "CTL1026H",
-        "name": "Improving Teaching ",
+        "name": "Improving Teaching",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1342,7 +1342,7 @@
     },
     {
         "code": "CTL1027H",
-        "name": "Facilitating Reflective Professional Development ",
+        "name": "Facilitating Reflective Professional Development",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1378,7 +1378,7 @@
     },
     {
         "code": "CTL1040H",
-        "name": "Fundamentals of Program Planning and Evaluation [RM] ",
+        "name": "Fundamentals of Program Planning and Evaluation [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1387,7 +1387,7 @@
     },
     {
         "code": "CTL1041H",
-        "name": "Research Methods in Education [RM] / Introduction à la recherche empirique en éducation ",
+        "name": "Research Methods in Education [RM] / Introduction à la recherche empirique en éducation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1396,7 +1396,7 @@
     },
     {
         "code": "CTL1042H",
-        "name": "Introduction to Community-Based Research Methods and Practice  ",
+        "name": "Introduction to Community-Based Research Methods and Practice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1405,7 +1405,7 @@
     },
     {
         "code": "CTL1045H",
-        "name": "Survey Research ",
+        "name": "Survey Research",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1414,7 +1414,7 @@
     },
     {
         "code": "CTL1046H",
-        "name": "Training Evaluation ",
+        "name": "Training Evaluation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1423,7 +1423,7 @@
     },
     {
         "code": "CTL1047H",
-        "name": "Course-Self-Assessment ",
+        "name": "Course-Self-Assessment",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1441,7 +1441,7 @@
     },
     {
         "code": "CTL1049H",
-        "name": "Critical Practitioner Research in Education ",
+        "name": "Critical Practitioner Research in Education",
         "prereq": "No prerequisite required. Introductory course on qualitative methodologies recommended.",
         "exclusion": null,
         "corequisite": null,
@@ -1459,7 +1459,7 @@
     },
     {
         "code": "CTL1060H",
-        "name": "Education and Social Development ",
+        "name": "Education and Social Development",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1468,7 +1468,7 @@
     },
     {
         "code": "CTL1062H",
-        "name": "Performed Ethnography and Research Informed Theatre [RM] ",
+        "name": "Performed Ethnography and Research Informed Theatre [RM]",
         "prereq": null,
         "exclusion": "CTL5010H Special Topics in Curriculum Studies and Teacher Development: Masters Level: Performed Ethnography and Research Informed Theatre [RM]",
         "corequisite": null,
@@ -1477,7 +1477,7 @@
     },
     {
         "code": "CTL1063H",
-        "name": "Pedagogies of Solidarity ",
+        "name": "Pedagogies of Solidarity",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1486,7 +1486,7 @@
     },
     {
         "code": "CTL1064H",
-        "name": "Applied Theatre and Performance in Sites of Learning ",
+        "name": "Applied Theatre and Performance in Sites of Learning",
         "prereq": null,
         "exclusion": "CTL1799H Applied Theatre and Performance in Sites of Learning",
         "corequisite": null,
@@ -1495,7 +1495,7 @@
     },
     {
         "code": "CTL1065H",
-        "name": "Gender, Sexuality and Schooling ",
+        "name": "Gender, Sexuality and Schooling",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1504,7 +1504,7 @@
     },
     {
         "code": "CTL1099H",
-        "name": "Critical Approaches to Arts-Based Research ",
+        "name": "Critical Approaches to Arts-Based Research",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1513,7 +1513,7 @@
     },
     {
         "code": "CTL1100H",
-        "name": "Arts in Urban Schools ",
+        "name": "Arts in Urban Schools",
         "prereq": null,
         "exclusion": "CTL5033H",
         "corequisite": null,
@@ -1522,7 +1522,7 @@
     },
     {
         "code": "CTL1104H",
-        "name": "Play, Drama, and Arts Education ",
+        "name": "Play, Drama, and Arts Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1531,7 +1531,7 @@
     },
     {
         "code": "CTL1105H",
-        "name": "Games and Learning ",
+        "name": "Games and Learning",
         "prereq": null,
         "exclusion": "CTL5046H",
         "corequisite": null,
@@ -1540,7 +1540,7 @@
     },
     {
         "code": "CTL1106H",
-        "name": "Spirituality in Education ",
+        "name": "Spirituality in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1549,7 +1549,7 @@
     },
     {
         "code": "CTL1110H",
-        "name": "The Holistic Curriculum ",
+        "name": "The Holistic Curriculum",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1576,7 +1576,7 @@
     },
     {
         "code": "CTL1121H",
-        "name": "Foundations of Wellness Through a Phenomenology of Practice ",
+        "name": "Foundations of Wellness Through a Phenomenology of Practice",
         "prereq": null,
         "exclusion": "CTL5045H",
         "corequisite": null,
@@ -1585,7 +1585,7 @@
     },
     {
         "code": "CTL1122H",
-        "name": "Exploring the Praxis of Environmental  & Sustainability Education ",
+        "name": "Exploring the Praxis of Environmental  & Sustainability Education",
         "prereq": null,
         "exclusion": "CTL5027H",
         "corequisite": null,
@@ -1594,7 +1594,7 @@
     },
     {
         "code": "CTL1123H",
-        "name": "Educational Research and Knowledge Production in Comparative, International and Development Contexts ",
+        "name": "Educational Research and Knowledge Production in Comparative, International and Development Contexts",
         "prereq": null,
         "exclusion": "CTL5041H",
         "corequisite": null,
@@ -1603,7 +1603,7 @@
     },
     {
         "code": "CTL1124H",
-        "name": "Life Writing Research (RM) ",
+        "name": "Life Writing Research (RM)",
         "prereq": null,
         "exclusion": "CTL5026H",
         "corequisite": null,
@@ -1621,7 +1621,7 @@
     },
     {
         "code": "CTL1206H",
-        "name": "Teaching and Learning Science ",
+        "name": "Teaching and Learning Science",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1639,7 +1639,7 @@
     },
     {
         "code": "CTL1209H",
-        "name": "Current Issues in Science and Technology Education ",
+        "name": "Current Issues in Science and Technology Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1657,7 +1657,7 @@
     },
     {
         "code": "CTL1214H",
-        "name": "Equity Issues in Science Education ",
+        "name": "Equity Issues in Science Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1675,7 +1675,7 @@
     },
     {
         "code": "CTL1217H",
-        "name": "Integrating Science, Mathematics and Technology Curricula ",
+        "name": "Integrating Science, Mathematics and Technology Curricula",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1684,7 +1684,7 @@
     },
     {
         "code": "CTL1218H",
-        "name": "Culture and Cognition in Mathematics, Science and Technology Education ",
+        "name": "Culture and Cognition in Mathematics, Science and Technology Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1693,7 +1693,7 @@
     },
     {
         "code": "CTL1219H",
-        "name": "Making Secondary Mathematics Meaningful ",
+        "name": "Making Secondary Mathematics Meaningful",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1711,7 +1711,7 @@
     },
     {
         "code": "CTL1222H",
-        "name": "Environmental Studies in Science, Mathematics and Technology Education ",
+        "name": "Environmental Studies in Science, Mathematics and Technology Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1720,7 +1720,7 @@
     },
     {
         "code": "CTL1223H",
-        "name": "Activist Science & Technology Education ",
+        "name": "Activist Science & Technology Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1729,7 +1729,7 @@
     },
     {
         "code": "CTL1224H",
-        "name": "Curriculum Issues in Science Education ",
+        "name": "Curriculum Issues in Science Education",
         "prereq": null,
         "exclusion": "CTL1799H Special Topics in Curriculum: Master's Level: Curriculum Issues in Science Education",
         "corequisite": null,
@@ -1747,7 +1747,7 @@
     },
     {
         "code": "CTL1226H",
-        "name": "AI Ethics in Education ",
+        "name": "AI Ethics in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1756,7 +1756,7 @@
     },
     {
         "code": "CTL1227H",
-        "name": "Global Contexts of STEM Education ",
+        "name": "Global Contexts of STEM Education",
         "prereq": null,
         "exclusion": "CTL5044H",
         "corequisite": null,
@@ -1765,7 +1765,7 @@
     },
     {
         "code": "CTL1304H",
-        "name": "Cultural Studies and Education / Études culturelles et éducation ",
+        "name": "Cultural Studies and Education / Études culturelles et éducation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1783,7 +1783,7 @@
     },
     {
         "code": "CTL1307H",
-        "name": "Identity Construction and Education of Minorities / Identité collective et éducation minoritaire de langue française ",
+        "name": "Identity Construction and Education of Minorities / Identité collective et éducation minoritaire de langue française",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1801,7 +1801,7 @@
     },
     {
         "code": "CTL1313H",
-        "name": "Gender Equity in the Classroom ",
+        "name": "Gender Equity in the Classroom",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1810,7 +1810,7 @@
     },
     {
         "code": "CTL1318H",
-        "name": "Teaching Conflict and Conflict Resolution ",
+        "name": "Teaching Conflict and Conflict Resolution",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1864,7 +1864,7 @@
     },
     {
         "code": "CTL1331H",
-        "name": "Land-Centred Approaches to Research and Community Engagement ",
+        "name": "Land-Centred Approaches to Research and Community Engagement",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1873,7 +1873,7 @@
     },
     {
         "code": "CTL1332H",
-        "name": "Introduction to Decolonization in Education ",
+        "name": "Introduction to Decolonization in Education",
         "prereq": null,
         "exclusion": "CTL5010H",
         "corequisite": null,
@@ -1882,7 +1882,7 @@
     },
     {
         "code": "CTL1333H",
-        "name": "Settler Colonialism & Pedagogies of Liberation ",
+        "name": "Settler Colonialism & Pedagogies of Liberation",
         "prereq": null,
         "exclusion": "CTL5042H",
         "corequisite": null,
@@ -1900,7 +1900,7 @@
     },
     {
         "code": "CTL1350H",
-        "name": "Exploring Children's and Youth's Digital Literacies in a Networked World ",
+        "name": "Exploring Children's and Youth's Digital Literacies in a Networked World",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1909,7 +1909,7 @@
     },
     {
         "code": "CTL1402H",
-        "name": "Adaptive Instruction in Inclusive Classrooms ",
+        "name": "Adaptive Instruction in Inclusive Classrooms",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -1927,7 +1927,7 @@
     },
     {
         "code": "CTL1407H",
-        "name": "Rural Education and Social Reform in Canadian History, 1860-1960 ",
+        "name": "Rural Education and Social Reform in Canadian History, 1860-1960",
         "prereq": null,
         "exclusion": "Students who have completed HSJ1404 are prohibited from taking this course.",
         "corequisite": null,
@@ -1936,7 +1936,7 @@
     },
     {
         "code": "CTL1424H",
-        "name": "Religion, Ideology, and Social Movement in the History of North American Education ",
+        "name": "Religion, Ideology, and Social Movement in the History of North American Education",
         "prereq": null,
         "exclusion": "Students who have previously taken HSJ1424H are prohibited from taking this course.",
         "corequisite": null,
@@ -1945,7 +1945,7 @@
     },
     {
         "code": "CTL1426H",
-        "name": "The History of Gender and Education in Canada ",
+        "name": "The History of Gender and Education in Canada",
         "prereq": null,
         "exclusion": "Students who previously took HSJ1426H are prohibited from taking this course.",
         "corequisite": null,
@@ -1953,8 +1953,8 @@
         "source_url": "https://oise.academic-guide.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " Canada and Beyond, 1800s",
-        "name": "1990s ",
+        "code": "CTL1427H",
+        "name": "History and Commemoration: Canada and Beyond, 1800s - 1990s",
         "prereq": null,
         "exclusion": "Students who previously took HSJ1427H are prohibited from taking this course.",
         "corequisite": null,
@@ -1963,7 +1963,7 @@
     },
     {
         "code": "CTL1428H",
-        "name": "Immigration and the Development of Canadian Education ",
+        "name": "Immigration and the Development of Canadian Education",
         "prereq": null,
         "exclusion": "Students who have previously taken HSJ1428 are prohibited from taking this course.",
         "corequisite": null,
@@ -1972,7 +1972,7 @@
     },
     {
         "code": "CTL1429H",
-        "name": "Ethnicity and the Development of Canadian Education ",
+        "name": "Ethnicity and the Development of Canadian Education",
         "prereq": null,
         "exclusion": "Students who have taken HSJ1429 are prohibited from taking this course.",
         "corequisite": null,
@@ -1981,7 +1981,7 @@
     },
     {
         "code": "CTL1430H",
-        "name": "Gendered Colonialisms, Imperialisms and Nationalisms in History ",
+        "name": "Gendered Colonialisms, Imperialisms and Nationalisms in History",
         "prereq": null,
         "exclusion": "Students who have previously taken HSJ1430H are prohibited from taking this course.",
         "corequisite": null,
@@ -1999,7 +1999,7 @@
     },
     {
         "code": "CTL1454H",
-        "name": "The Battle Over History Education in Canada ",
+        "name": "The Battle Over History Education in Canada",
         "prereq": null,
         "exclusion": "Students who have previously taken TPS1461H / HSJ1454H are prohibited from taking this course.",
         "corequisite": null,
@@ -2008,7 +2008,7 @@
     },
     {
         "code": "CTL1602H",
-        "name": "Introduction to Computers in Education ",
+        "name": "Introduction to Computers in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2017,7 +2017,7 @@
     },
     {
         "code": "CTL1603H",
-        "name": "Introduction to Knowledge Building ",
+        "name": "Introduction to Knowledge Building",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2026,7 +2026,7 @@
     },
     {
         "code": "CTL1606H",
-        "name": "Computers in the Curriculum ",
+        "name": "Computers in the Curriculum",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2044,7 +2044,7 @@
     },
     {
         "code": "CTL1609H",
-        "name": "Perspectives on the Development of Computer-Mediated Communication in Education ",
+        "name": "Perspectives on the Development of Computer-Mediated Communication in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2053,7 +2053,7 @@
     },
     {
         "code": "CTL1615H",
-        "name": "Introduction to AI in Education ",
+        "name": "Introduction to AI in Education",
         "prereq": null,
         "exclusion": "CTL5052H",
         "corequisite": null,
@@ -2071,7 +2071,7 @@
     },
     {
         "code": "CTL1617H",
-        "name": "Social Media & Education ",
+        "name": "Social Media & Education",
         "prereq": null,
         "exclusion": "CTL5015H",
         "corequisite": null,
@@ -2080,7 +2080,7 @@
     },
     {
         "code": "CTL1620H",
-        "name": "Foundations of Online Teaching and Learning ",
+        "name": "Foundations of Online Teaching and Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2089,7 +2089,7 @@
     },
     {
         "code": "CTL1621H",
-        "name": "Design and Development of Online Content, Media, and Artifacts ",
+        "name": "Design and Development of Online Content, Media, and Artifacts",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2098,7 +2098,7 @@
     },
     {
         "code": "CTL1622H",
-        "name": "Data Gathering and Assessment in Online Courses ",
+        "name": "Data Gathering and Assessment in Online Courses",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2107,7 +2107,7 @@
     },
     {
         "code": "CTL1623H",
-        "name": "Immersive Technology in Education ",
+        "name": "Immersive Technology in Education",
         "prereq": null,
         "exclusion": "CTL5047H",
         "corequisite": null,
@@ -2125,7 +2125,7 @@
     },
     {
         "code": "CTL1625H",
-        "name": "Digital Media and Practices for a Knowledge Society ",
+        "name": "Digital Media and Practices for a Knowledge Society",
         "prereq": null,
         "exclusion": "CTL5036H",
         "corequisite": null,
@@ -2134,7 +2134,7 @@
     },
     {
         "code": "CTL1626H",
-        "name": "Holistic Approaches to Information Technology ",
+        "name": "Holistic Approaches to Information Technology",
         "prereq": null,
         "exclusion": "CTL5011H",
         "corequisite": null,
@@ -2161,7 +2161,7 @@
     },
     {
         "code": "CTL1808H",
-        "name": "Curriculum Innovation in Teacher Education ",
+        "name": "Curriculum Innovation in Teacher Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2170,7 +2170,7 @@
     },
     {
         "code": "CTL1809H",
-        "name": "Narrative and Story in Research and Professional Practice [RM] ",
+        "name": "Narrative and Story in Research and Professional Practice [RM]",
         "prereq": "Permission of instructor",
         "exclusion": null,
         "corequisite": null,
@@ -2188,7 +2188,7 @@
     },
     {
         "code": "CTL1812H",
-        "name": "Professional Ethics of Teaching and Schooling ",
+        "name": "Professional Ethics of Teaching and Schooling",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2197,7 +2197,7 @@
     },
     {
         "code": "CTL1817H",
-        "name": "Current Issues in Teacher Education ",
+        "name": "Current Issues in Teacher Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2224,7 +2224,7 @@
     },
     {
         "code": "CTL1820H",
-        "name": "Creativity in the Classroom ",
+        "name": "Creativity in the Classroom",
         "prereq": null,
         "exclusion": "CTL5013H",
         "corequisite": null,
@@ -2242,7 +2242,7 @@
     },
     {
         "code": "CTL1825H",
-        "name": "The Teacher as a Contemplative Practitioner ",
+        "name": "The Teacher as a Contemplative Practitioner",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2251,7 +2251,7 @@
     },
     {
         "code": "CTL1841H",
-        "name": "Research Seminar in Science, Mathematics and Technology Education [RM] ",
+        "name": "Research Seminar in Science, Mathematics and Technology Education [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2260,7 +2260,7 @@
     },
     {
         "code": "CTL1844H",
-        "name": "Seminar in Evaluation Problems [RM] ",
+        "name": "Seminar in Evaluation Problems [RM]",
         "prereq": "CTL1843H (previously CTL2803H ) or equivalent.",
         "exclusion": "Students who have previously taken CTL2810 are prohibited from taking this course.",
         "corequisite": null,
@@ -2269,7 +2269,7 @@
     },
     {
         "code": "CTL1899H",
-        "name": "C&P Doctoral Proseminar in Curriculum & Pedagogy ",
+        "name": "C&P Doctoral Proseminar in Curriculum & Pedagogy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2296,7 +2296,7 @@
     },
     {
         "code": "CTL2000H",
-        "name": "Collaborative Reading and Research Seminar  ",
+        "name": "Collaborative Reading and Research Seminar",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2305,7 +2305,7 @@
     },
     {
         "code": "CTL2001H",
-        "name": "Studies in Professional Skills and Development in Education  ",
+        "name": "Studies in Professional Skills and Development in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2314,7 +2314,7 @@
     },
     {
         "code": "CTL3000H",
-        "name": "Foundations of Bilingual and Multicultural Education ",
+        "name": "Foundations of Bilingual and Multicultural Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2323,7 +2323,7 @@
     },
     {
         "code": "CTL3001H",
-        "name": "Research Colloquium in Language and Literacies Education ",
+        "name": "Research Colloquium in Language and Literacies Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2332,7 +2332,7 @@
     },
     {
         "code": "CTL3002H",
-        "name": "Second Language Teaching Methodologies ",
+        "name": "Second Language Teaching Methodologies",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2341,7 +2341,7 @@
     },
     {
         "code": "CTL3003H",
-        "name": "Planning and Organizing the Second Language Curriculum ",
+        "name": "Planning and Organizing the Second Language Curriculum",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2350,7 +2350,7 @@
     },
     {
         "code": "CTL3007H",
-        "name": "Discourse Analysis ",
+        "name": "Discourse Analysis",
         "prereq": null,
         "exclusion": "CTL3200H",
         "corequisite": null,
@@ -2359,7 +2359,7 @@
     },
     {
         "code": "CTL3008H",
-        "name": "Critical Pedagogy, Language and Cultural Diversity ",
+        "name": "Critical Pedagogy, Language and Cultural Diversity",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2368,7 +2368,7 @@
     },
     {
         "code": "CTL3010H",
-        "name": "Second Language Learning ",
+        "name": "Second Language Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2377,7 +2377,7 @@
     },
     {
         "code": "CTL3011H",
-        "name": "Cognitive Sociolinguistic and Sociopolitical Orientations in Bilingual Education Research ",
+        "name": "Cognitive Sociolinguistic and Sociopolitical Orientations in Bilingual Education Research",
         "prereq": null,
         "exclusion": "CTL3201H",
         "corequisite": null,
@@ -2386,7 +2386,7 @@
     },
     {
         "code": "CTL3013H",
-        "name": "Language Assessment / Évaluation de la compétence langagière ",
+        "name": "Language Assessment / Évaluation de la compétence langagière",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2395,7 +2395,7 @@
     },
     {
         "code": "CTL3015H",
-        "name": "Language and Literacies Education in Multilingual Contexts ",
+        "name": "Language and Literacies Education in Multilingual Contexts",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2404,7 +2404,7 @@
     },
     {
         "code": "CTL3018H",
-        "name": "Language Planning and Policy ",
+        "name": "Language Planning and Policy",
         "prereq": null,
         "exclusion": "CTL3202H",
         "corequisite": null,
@@ -2413,7 +2413,7 @@
     },
     {
         "code": "CTL3020H",
-        "name": "Writing in a Second Language ",
+        "name": "Writing in a Second Language",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2422,7 +2422,7 @@
     },
     {
         "code": "CTL3024H",
-        "name": "Language Teacher Education ",
+        "name": "Language Teacher Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2431,7 +2431,7 @@
     },
     {
         "code": "CTL3025H",
-        "name": "Educational Sociolinguistics ",
+        "name": "Educational Sociolinguistics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2440,7 +2440,7 @@
     },
     {
         "code": "CTL3026H",
-        "name": "Pragmatics in Language Education ",
+        "name": "Pragmatics in Language Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2449,7 +2449,7 @@
     },
     {
         "code": "CTL3028H",
-        "name": "Language Arts in Elementary Education ",
+        "name": "Language Arts in Elementary Education",
         "prereq": null,
         "exclusion": "Students who have previously taken CTL1003H are prohibited from taking this course",
         "corequisite": null,
@@ -2458,7 +2458,7 @@
     },
     {
         "code": "CTL3029H",
-        "name": "Children's Literature as a Foundation of Literate Behavior across the Curriculum ",
+        "name": "Children's Literature as a Foundation of Literate Behavior across the Curriculum",
         "prereq": null,
         "exclusion": "Students who have previously taken CTL1008H are prohibited from taking this course.",
         "corequisite": null,
@@ -2467,7 +2467,7 @@
     },
     {
         "code": "CTL3030H",
-        "name": "Theory and Practice in Elementary Literacy Instruction ",
+        "name": "Theory and Practice in Elementary Literacy Instruction",
         "prereq": null,
         "exclusion": "Students who have previously taken CTL1009H are prohibited from taking this course.",
         "corequisite": null,
@@ -2476,7 +2476,7 @@
     },
     {
         "code": "CTL3031H",
-        "name": "Children's Literature within a Multicultural Context ",
+        "name": "Children's Literature within a Multicultural Context",
         "prereq": null,
         "exclusion": "Students who have previously taken CTL1010H are prohibited from taking this course.",
         "corequisite": null,
@@ -2485,7 +2485,7 @@
     },
     {
         "code": "CTL3032H",
-        "name": "Teaching Writing in the Classroom ",
+        "name": "Teaching Writing in the Classroom",
         "prereq": null,
         "exclusion": "Students who have previously taken CTL1039H are prohibited from taking this course.",
         "corequisite": null,
@@ -2494,7 +2494,7 @@
     },
     {
         "code": "CTL3033H",
-        "name": "Literacy Research Methodologies ",
+        "name": "Literacy Research Methodologies",
         "prereq": "Permission of the instructor.",
         "exclusion": "Students who have previously taken CTL1805H are prohibited from taking this course.",
         "corequisite": null,
@@ -2512,7 +2512,7 @@
     },
     {
         "code": "CTL3035H",
-        "name": "Critical Literacy in Action ",
+        "name": "Critical Literacy in Action",
         "prereq": null,
         "exclusion": "CTL5010H : Special Topics in Curriculum Studies Teacher Development: Masters level: Critical Literacy in Action",
         "corequisite": null,
@@ -2530,7 +2530,7 @@
     },
     {
         "code": "CTL3037H",
-        "name": "Biography in Educational Contexts ",
+        "name": "Biography in Educational Contexts",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2539,7 +2539,7 @@
     },
     {
         "code": "CTL3038H",
-        "name": "Play, Language and Literacy in Primary Classrooms ",
+        "name": "Play, Language and Literacy in Primary Classrooms",
         "prereq": null,
         "exclusion": "CTL5302H",
         "corequisite": null,
@@ -2548,7 +2548,7 @@
     },
     {
         "code": "CTL3039H",
-        "name": "Academic English Research & Acquisition ",
+        "name": "Academic English Research & Acquisition",
         "prereq": null,
         "exclusion": "CTL5305H",
         "corequisite": null,
@@ -2557,7 +2557,7 @@
     },
     {
         "code": "CTL3040H",
-        "name": "The Education of Students of Refugee Background in Canada and Beyond ",
+        "name": "The Education of Students of Refugee Background in Canada and Beyond",
         "prereq": "none",
         "exclusion": "CTL5310H",
         "corequisite": "none",
@@ -2566,7 +2566,7 @@
     },
     {
         "code": "CTL3041H",
-        "name": "Theories in Vocabulary Teaching and Learning ",
+        "name": "Theories in Vocabulary Teaching and Learning",
         "prereq": "n/a",
         "exclusion": "CTL5314H",
         "corequisite": null,
@@ -2575,7 +2575,7 @@
     },
     {
         "code": "CTL3042H",
-        "name": "Complexity Theories and Language Education ",
+        "name": "Complexity Theories and Language Education",
         "prereq": null,
         "exclusion": "CTL5313H",
         "corequisite": null,
@@ -2584,7 +2584,7 @@
     },
     {
         "code": "CTL3043H",
-        "name": "Professional Practice in Language Teaching ",
+        "name": "Professional Practice in Language Teaching",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2593,7 +2593,7 @@
     },
     {
         "code": "CTL3044H",
-        "name": "Research Interviewing ",
+        "name": "Research Interviewing",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2602,7 +2602,7 @@
     },
     {
         "code": "CTL3100H",
-        "name": "Communication and Second Language Learning in the Workplace ",
+        "name": "Communication and Second Language Learning in the Workplace",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2611,7 +2611,7 @@
     },
     {
         "code": "CTL3101H",
-        "name": "Language Awareness for Language Educators ",
+        "name": "Language Awareness for Language Educators",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2620,7 +2620,7 @@
     },
     {
         "code": "CTL3200H",
-        "name": "Analyse du discours ",
+        "name": "Analyse du discours",
         "prereq": null,
         "exclusion": "CTL3007H",
         "corequisite": null,
@@ -2629,7 +2629,7 @@
     },
     {
         "code": "CTL3201H",
-        "name": "Bilinguisme et éducation ",
+        "name": "Bilinguisme et éducation",
         "prereq": null,
         "exclusion": "CTL3011H",
         "corequisite": null,
@@ -2638,7 +2638,7 @@
     },
     {
         "code": "CTL3202H",
-        "name": "Politique et aménagement linguistique ",
+        "name": "Politique et aménagement linguistique",
         "prereq": null,
         "exclusion": "CTL3018H",
         "corequisite": null,
@@ -2647,7 +2647,7 @@
     },
     {
         "code": "CTL3203H",
-        "name": "Les approches pédagogiques plurilingues et pluriculturelles en éducation / Les approches pédagogiques plurilingues et pluriculturelles en éducation ",
+        "name": "Les approches pédagogiques plurilingues et pluriculturelles en éducation / Les approches pédagogiques plurilingues et pluriculturelles en éducation",
         "prereq": null,
         "exclusion": "CTL5311H",
         "corequisite": null,
@@ -2665,7 +2665,7 @@
     },
     {
         "code": "CTL3411H",
-        "name": "Cinema and Historical Literacy ",
+        "name": "Cinema and Historical Literacy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2674,7 +2674,7 @@
     },
     {
         "code": "CTL3412H",
-        "name": "Shakespeare and Cultural Literacy ",
+        "name": "Shakespeare and Cultural Literacy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2683,7 +2683,7 @@
     },
     {
         "code": "CTL3413H",
-        "name": "Reading Cinema and Cultural Identity ",
+        "name": "Reading Cinema and Cultural Identity",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2692,7 +2692,7 @@
     },
     {
         "code": "CTL3414H",
-        "name": "Historical Literacy and Popular Literacy ",
+        "name": "Historical Literacy and Popular Literacy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2701,7 +2701,7 @@
     },
     {
         "code": "CTL3415H",
-        "name": "Educational Thought and Historical Literature ",
+        "name": "Educational Thought and Historical Literature",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2710,7 +2710,7 @@
     },
     {
         "code": "CTL3796H",
-        "name": "LLE Practicum for MEd Field in Language Teaching ",
+        "name": "LLE Practicum for MEd Field in Language Teaching",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2755,7 +2755,7 @@
     },
     {
         "code": "CTL3805H",
-        "name": "Multilingualism and Plurilingualism ",
+        "name": "Multilingualism and Plurilingualism",
         "prereq": null,
         "exclusion": "CTL3799H Multilingualism and plurilingualism",
         "corequisite": null,
@@ -2764,7 +2764,7 @@
     },
     {
         "code": "CTL3806H",
-        "name": "Sociocultural Theory and Second Language Learning ",
+        "name": "Sociocultural Theory and Second Language Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2773,7 +2773,7 @@
     },
     {
         "code": "CTL3807H",
-        "name": "Second Language Education Research Methods [RM] ",
+        "name": "Second Language Education Research Methods [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2782,7 +2782,7 @@
     },
     {
         "code": "CTL3808H",
-        "name": "The Role of Instruction in Second Language Learning ",
+        "name": "The Role of Instruction in Second Language Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2791,7 +2791,7 @@
     },
     {
         "code": "CTL3810H",
-        "name": "Second Language Classroom Research Methods [RM] ",
+        "name": "Second Language Classroom Research Methods [RM]",
         "prereq": null,
         "exclusion": "CTL3800H",
         "corequisite": null,
@@ -2800,7 +2800,7 @@
     },
     {
         "code": "CTL3811H",
-        "name": "Critical Perspectives on Language, Racism, and Settler-Colonialism ",
+        "name": "Critical Perspectives on Language, Racism, and Settler-Colonialism",
         "prereq": null,
         "exclusion": "CTL6301H",
         "corequisite": null,
@@ -2809,7 +2809,7 @@
     },
     {
         "code": "CTL3899H",
-        "name": "Proseminar in Language and Literacies Education ",
+        "name": "Proseminar in Language and Literacies Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2845,7 +2845,7 @@
     },
     {
         "code": "CTL5700H",
-        "name": "Special Topics in Teaching ",
+        "name": "Special Topics in Teaching",
         "prereq": "Enrolment limited to students in the Department of Curriculum, Teaching and Learning",
         "exclusion": null,
         "corequisite": null,
@@ -2872,7 +2872,7 @@
     },
     {
         "code": "CTL7000H",
-        "name": "Curriculum and Teaching in Literacy ",
+        "name": "Curriculum and Teaching in Literacy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2881,7 +2881,7 @@
     },
     {
         "code": "CTL7001H",
-        "name": "Ethics, Law, and the Teaching Profession ",
+        "name": "Ethics, Law, and the Teaching Profession",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2890,7 +2890,7 @@
     },
     {
         "code": "CTL7002H",
-        "name": "Curriculum and Teaching in Mathematics ",
+        "name": "Curriculum and Teaching in Mathematics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2899,7 +2899,7 @@
     },
     {
         "code": "CTL7004H",
-        "name": "Practice Teaching (Year 1) ",
+        "name": "Practice Teaching (Year 1)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2908,7 +2908,7 @@
     },
     {
         "code": "CTL7005H",
-        "name": "Practice Teaching (Year 2) ",
+        "name": "Practice Teaching (Year 2)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2917,7 +2917,7 @@
     },
     {
         "code": "CTL7006H",
-        "name": "Educational Research 1 ",
+        "name": "Educational Research 1",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2926,7 +2926,7 @@
     },
     {
         "code": "CTL7007H",
-        "name": "Assessment and Evaluation ",
+        "name": "Assessment and Evaluation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2935,7 +2935,7 @@
     },
     {
         "code": "CTL7008H",
-        "name": "Introduction to Special Education and Mental Health ",
+        "name": "Introduction to Special Education and Mental Health",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2944,7 +2944,7 @@
     },
     {
         "code": "CTL7009H",
-        "name": "Anti-Discriminatory Education ",
+        "name": "Anti-Discriminatory Education",
         "prereq": null,
         "exclusion": "Students who have completed this course are prohibited from taking CTL1011H .",
         "corequisite": null,
@@ -2953,7 +2953,7 @@
     },
     {
         "code": "CTL7010H",
-        "name": "Issues in Numeracy and Literacy ",
+        "name": "Issues in Numeracy and Literacy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2962,7 +2962,7 @@
     },
     {
         "code": "CTL7011H",
-        "name": "Child and Adolescent Development and Learning ",
+        "name": "Child and Adolescent Development and Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2971,7 +2971,7 @@
     },
     {
         "code": "CTL7012H",
-        "name": "Issues in Secondary Education ",
+        "name": "Issues in Secondary Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2980,7 +2980,7 @@
     },
     {
         "code": "CTL7013H",
-        "name": "Arts in Education ",
+        "name": "Arts in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2989,7 +2989,7 @@
     },
     {
         "code": "CTL7014H",
-        "name": "Fundamentals of Teaching and Learning ",
+        "name": "Fundamentals of Teaching and Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2998,7 +2998,7 @@
     },
     {
         "code": "CTL7015H",
-        "name": "Educational Research 2 ",
+        "name": "Educational Research 2",
         "prereq": "CTL7006H",
         "exclusion": null,
         "corequisite": null,
@@ -3016,7 +3016,7 @@
     },
     {
         "code": "CTL7017H",
-        "name": "Curriculum and Teaching in Music, Dance and Drama ",
+        "name": "Curriculum and Teaching in Music, Dance and Drama",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3025,7 +3025,7 @@
     },
     {
         "code": "CTL7018H",
-        "name": "Curriculum and Teaching in Science and Environmental Education ",
+        "name": "Curriculum and Teaching in Science and Environmental Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3034,7 +3034,7 @@
     },
     {
         "code": "CTL7019H",
-        "name": "Supporting English Language Learners ",
+        "name": "Supporting English Language Learners",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3043,7 +3043,7 @@
     },
     {
         "code": "CTL7020Y",
-        "name": "Curriculum and Teaching in English - Intermediate/Senior ",
+        "name": "Curriculum and Teaching in English - Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in English if selected as the first choice teaching subject, or three full-year university courses if selected as the second choice teaching subject.",
         "exclusion": null,
         "corequisite": null,
@@ -3052,7 +3052,7 @@
     },
     {
         "code": "CTL7021Y",
-        "name": "Curriculum and Teaching in History - Intermediate/Senior ",
+        "name": "Curriculum and Teaching in History - Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in History if selected as the first choice teaching subject, or three full-year university courses if selected as the second choice teaching subject. For further details about prerequisites in History, see Intermediate/Senior Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3061,7 +3061,7 @@
     },
     {
         "code": "CTL7022Y",
-        "name": "Curriculum and Teaching in Mathematics - Intermediate/Senior ",
+        "name": "Curriculum and Teaching in Mathematics - Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in Mathematics if selected as the first choice teaching subject, or three full-year university courses if selected as the second choice teaching subject. For further details about prerequisites in Mathematics, see Intermediate/Senior Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3069,8 +3069,8 @@
         "source_url": "https://oise.academic-guide.utoronto.ca/search-courses?page=11"
     },
     {
-        "code": " Biology",
-        "name": "Intermediate/Senior ",
+        "code": "CTL7023Y",
+        "name": "Curriculum and Teaching in Science: Biology - Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in Science, with a minimum of four full-year courses in Biology (regardless of whether it is the first or second choice teaching subject). For further details about prerequisites in Science-Biology, see Intermediate/Senior Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3078,8 +3078,8 @@
         "source_url": "https://oise.academic-guide.utoronto.ca/search-courses?page=11"
     },
     {
-        "code": " Chemistry",
-        "name": "Intermediate/Senior ",
+        "code": "CTL7024Y",
+        "name": "Curriculum and Teaching in Science: Chemistry - Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in Science, with a minimum of four full-year courses in Chemistry (regardless of whether it is the first of second choice teaching subject). For further details about prerequisites in Science-Chemistry, see Intermediate/Senior Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3087,8 +3087,8 @@
         "source_url": "https://oise.academic-guide.utoronto.ca/search-courses?page=11"
     },
     {
-        "code": " Physics",
-        "name": "Intermediate/Senior ",
+        "code": "CTL7025Y",
+        "name": "Curriculum and Teaching in Science: Physics - Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in Science, with a minimum of four full-year courses in Physics (regardless of whether it is the first or second choice teaching subject). For further details about prerequisites in Science-Physics, see Intermediate/Senior Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3105,8 +3105,8 @@
         "source_url": "https://oise.academic-guide.utoronto.ca/search-courses?page=11"
     },
     {
-        "code": " General",
-        "name": "Intermediate/Senior ",
+        "code": "CTL7027Y",
+        "name": "Curriculum and Teaching in Social Science: General - Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in any of Psychology, Sociology or Anthropology if selected as your first choice teaching subject, or three full-year university courses if selected as your second choice.",
         "exclusion": null,
         "corequisite": null,
@@ -3115,7 +3115,7 @@
     },
     {
         "code": "CTL7028Y",
-        "name": "Curriculum and Teaching in Geography - Intermediate/Senior ",
+        "name": "Curriculum and Teaching in Geography - Intermediate/Senior",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3123,8 +3123,8 @@
         "source_url": "https://oise.academic-guide.utoronto.ca/search-courses?page=11"
     },
     {
-        "code": " Instrumental",
-        "name": "Intermediate/Senior ",
+        "code": "CTL7029Y",
+        "name": "Curriculum and Teaching in Music: Instrumental - Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in Instrumental Music if selected as the first choice teaching subject, or three full-year university courses if selected as the second choice teaching subject. For further details about prerequisites in Instrumental Music, see Intermediate/Senior Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3142,7 +3142,7 @@
     },
     {
         "code": "CTL7031Y",
-        "name": "Curriculum and Teaching in Health and Physical Education ",
+        "name": "Curriculum and Teaching in Health and Physical Education",
         "prereq": "Students must have six full-year university courses in Health and Physical Education if selected as the first choice teaching subject, or three full-year university courses if selected as the second choice teaching subject.",
         "exclusion": null,
         "corequisite": null,
@@ -3151,7 +3151,7 @@
     },
     {
         "code": "CTL7032Y",
-        "name": "Curriculum and Teaching in Visual Arts - Intermediate/Secondary ",
+        "name": "Curriculum and Teaching in Visual Arts - Intermediate/Secondary",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3160,7 +3160,7 @@
     },
     {
         "code": "CTL7033Y",
-        "name": "Curriculum and Teaching in Dramatic Arts - Intermediate/Secondary ",
+        "name": "Curriculum and Teaching in Dramatic Arts - Intermediate/Secondary",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3169,7 +3169,7 @@
     },
     {
         "code": "CTL7034Y",
-        "name": "Curriculum and Teaching in French as a Second Language ",
+        "name": "Curriculum and Teaching in French as a Second Language",
         "prereq": "Students must have six full-year university courses in French AND demonstrated written and oral proficiency (regardless of whether it is the first or second choice teaching subject). For further details about prerequisites in French, see Intermediate/Senior Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3178,7 +3178,7 @@
     },
     {
         "code": "CTL7041Y",
-        "name": "Curriculum and Teaching of Religious Education in Catholic Schools – Intermediate/Senior ",
+        "name": "Curriculum and Teaching of Religious Education in Catholic Schools – Intermediate/Senior",
         "prereq": "Students must have six full-year university courses in Theology or Religious Studies if selected as the first-choice teaching subject, or three full-year university courses if selected as the second-choice teaching subject.",
         "exclusion": null,
         "corequisite": null,
@@ -3187,7 +3187,7 @@
     },
     {
         "code": "CTL7050H",
-        "name": "Curriculum and Teaching in English (First Language) - Junior/Intermediate ",
+        "name": "Curriculum and Teaching in English (First Language) - Junior/Intermediate",
         "prereq": "Students must have three full-year university courses in English.",
         "exclusion": null,
         "corequisite": null,
@@ -3196,7 +3196,7 @@
     },
     {
         "code": "CTL7051H",
-        "name": "Curriculum and Teaching in French (Second Language) - Junior/Intermediate ",
+        "name": "Curriculum and Teaching in French (Second Language) - Junior/Intermediate",
         "prereq": "Students must have five full-year university courses in French AND demonstrated written and oral proficiency. For further details about prerequisites in French, see Junior/Intermediate Teaching Subjects and Prerequisites.",
         "exclusion": null,
         "corequisite": null,
@@ -3205,7 +3205,7 @@
     },
     {
         "code": "CTL7052H",
-        "name": "Curriculum and Teaching in Junior/Intermediate Geography ",
+        "name": "Curriculum and Teaching in Junior/Intermediate Geography",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3214,7 +3214,7 @@
     },
     {
         "code": "CTL7053H",
-        "name": "Curriculum and Teaching in Health and Physical Education - Junior/Intermediate ",
+        "name": "Curriculum and Teaching in Health and Physical Education - Junior/Intermediate",
         "prereq": "Students must have three full-year university courses in Health and Physical Education.",
         "exclusion": null,
         "corequisite": null,
@@ -3223,7 +3223,7 @@
     },
     {
         "code": "CTL7054H",
-        "name": "Intermediate Teaching Subject - History ",
+        "name": "Intermediate Teaching Subject - History",
         "prereq": "Students must have three full-year university courses in History. For further details about prerequisites in History, see Junior/Intermediate Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3232,7 +3232,7 @@
     },
     {
         "code": "CTL7055H",
-        "name": "Intermediate Teaching Subjects - Mathematics ",
+        "name": "Intermediate Teaching Subjects - Mathematics",
         "prereq": "Students must have three full-year university courses in Mathematics. For further details about prerequisites in Mathematics, see Junior/Intermediate Teaching Subjects and Prerequisites.",
         "exclusion": null,
         "corequisite": null,
@@ -3241,7 +3241,7 @@
     },
     {
         "code": "CTL7056H",
-        "name": "Intermediate Teaching Subject – Music-Instrumental ",
+        "name": "Intermediate Teaching Subject – Music-Instrumental",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3249,8 +3249,8 @@
         "source_url": "https://oise.academic-guide.utoronto.ca/search-courses?page=12"
     },
     {
-        "code": " Vocal",
-        "name": "Junior/Intermediate ",
+        "code": "CTL7057H",
+        "name": "Curriculum and Teaching in Music: Vocal - Junior/Intermediate",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3258,8 +3258,8 @@
         "source_url": "https://oise.academic-guide.utoronto.ca/search-courses?page=12"
     },
     {
-        "code": " General",
-        "name": "Junior/Intermediate ",
+        "code": "CTL7058H",
+        "name": "Curriculum and Teaching in Science: General - Junior/Intermediate",
         "prereq": "Students must have three full-year university courses in Science. For further details about prerequisites in Science, see Junior/Intermediate Teaching Subjects and Prerequisites .",
         "exclusion": null,
         "corequisite": null,
@@ -3268,7 +3268,7 @@
     },
     {
         "code": "CTL7059H",
-        "name": "Curriculum and Teaching in Visual Arts -  Junior/Intermediate ",
+        "name": "Curriculum and Teaching in Visual Arts -  Junior/Intermediate",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3277,7 +3277,7 @@
     },
     {
         "code": "CTL7060H",
-        "name": "Intermediate Teaching Subject - Drama ",
+        "name": "Intermediate Teaching Subject - Drama",
         "prereq": "Students must have three full-year university courses in Drama and Theatre Studies.",
         "exclusion": null,
         "corequisite": null,
@@ -3295,7 +3295,7 @@
     },
     {
         "code": "CTL7071H",
-        "name": "Curriculum and Teaching in Visual Arts and Physical Education ",
+        "name": "Curriculum and Teaching in Visual Arts and Physical Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3304,7 +3304,7 @@
     },
     {
         "code": "CTL7072H",
-        "name": "Curriculum and Teaching in Social Studies and Indigenous Education ",
+        "name": "Curriculum and Teaching in Social Studies and Indigenous Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3322,7 +3322,7 @@
     },
     {
         "code": "CTL7074H",
-        "name": "Issues in Educational Law, Policy and Ethics ",
+        "name": "Issues in Educational Law, Policy and Ethics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3331,7 +3331,7 @@
     },
     {
         "code": "CTL7080H",
-        "name": "Practice Teaching Year 1 (Part 1) ",
+        "name": "Practice Teaching Year 1 (Part 1)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3340,7 +3340,7 @@
     },
     {
         "code": "CTL7081H",
-        "name": "Practice Teaching Year 1 (Part 2) ",
+        "name": "Practice Teaching Year 1 (Part 2)",
         "prereq": null,
         "exclusion": "CTL7004H",
         "corequisite": null,
@@ -3349,7 +3349,7 @@
     },
     {
         "code": "CTL7082H",
-        "name": "Practice Teaching Year 2 (Part 1) ",
+        "name": "Practice Teaching Year 2 (Part 1)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3358,7 +3358,7 @@
     },
     {
         "code": "CTL7083H",
-        "name": "Practice Teaching Year 2 (Part 2) ",
+        "name": "Practice Teaching Year 2 (Part 2)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3367,7 +3367,7 @@
     },
     {
         "code": "CTL7084H",
-        "name": "Issues in Numeracy ",
+        "name": "Issues in Numeracy",
         "prereq": "CTL7002H",
         "exclusion": "CTL7010H",
         "corequisite": null,
@@ -3376,7 +3376,7 @@
     },
     {
         "code": "CTL7085H",
-        "name": "Issues in Literacy ",
+        "name": "Issues in Literacy",
         "prereq": "CTL7000H",
         "exclusion": "CTL7010H",
         "corequisite": null,
@@ -3385,7 +3385,7 @@
     },
     {
         "code": "CTL7086H",
-        "name": "Curriculum and Teaching in Music and Dance ",
+        "name": "Curriculum and Teaching in Music and Dance",
         "prereq": null,
         "exclusion": "CTL7017H",
         "corequisite": null,
@@ -3394,7 +3394,7 @@
     },
     {
         "code": "CTL7087H",
-        "name": "Curriculum and Teaching in Drama and Dance ",
+        "name": "Curriculum and Teaching in Drama and Dance",
         "prereq": null,
         "exclusion": "CTL7017H",
         "corequisite": null,
@@ -3403,7 +3403,7 @@
     },
     {
         "code": "CTL7088H",
-        "name": "Curriculum and Teaching in Visual Arts ",
+        "name": "Curriculum and Teaching in Visual Arts",
         "prereq": null,
         "exclusion": "CTL7071H",
         "corequisite": null,
@@ -3412,7 +3412,7 @@
     },
     {
         "code": "CTL7089H",
-        "name": "Curriculum and Teaching in Physical Education ",
+        "name": "Curriculum and Teaching in Physical Education",
         "prereq": null,
         "exclusion": "CTL7071H",
         "corequisite": null,
@@ -3421,7 +3421,7 @@
     },
     {
         "code": "CTL7090Y",
-        "name": "Practice Teaching Year 2 ",
+        "name": "Practice Teaching Year 2",
         "prereq": "CTL7080H & CTL7081H",
         "exclusion": "CTL7005H , CTL7082H , CTL7083H",
         "corequisite": null,
@@ -3430,7 +3430,7 @@
     },
     {
         "code": "CTL7099Y",
-        "name": "Major Research Paper ",
+        "name": "Major Research Paper",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3439,7 +3439,7 @@
     },
     {
         "code": "CTL7100H",
-        "name": "Mathematics Concepts for Elementary Teacher Candidates ",
+        "name": "Mathematics Concepts for Elementary Teacher Candidates",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3448,7 +3448,7 @@
     },
     {
         "code": "CTL7200H",
-        "name": "Curriculum and Teaching in French as a Second Language – Primary/Junior ",
+        "name": "Curriculum and Teaching in French as a Second Language – Primary/Junior",
         "prereq": "Prerequisite: Successful completion of the OISE French Proficiency Test administered by OISE’s Continuing and Professional Learning Office – see https://cpl.oise.utoronto.ca/course/french-proficiency-test/",
         "exclusion": null,
         "corequisite": null,
@@ -3457,7 +3457,7 @@
     },
     {
         "code": "JOI1287H",
-        "name": "Introduction to Applied Statistics [RM] ",
+        "name": "Introduction to Applied Statistics [RM]",
         "prereq": null,
         "exclusion": "Students who have previously taken CTL2004H are prohibited from taking this course",
         "corequisite": null,
@@ -3466,7 +3466,7 @@
     },
     {
         "code": "JOI1288H",
-        "name": "Intermediate Statistics and Research Design [RM] ",
+        "name": "Intermediate Statistics and Research Design [RM]",
         "prereq": "JOI1287H or equivalent.",
         "exclusion": "This course is intended primarily for OISE students. Others must seek the permission of the instructor to register. Students who have previously taken CTL2808H are prohibited from taking this course.",
         "corequisite": null,
@@ -3475,7 +3475,7 @@
     },
     {
         "code": "JOI3043H",
-        "name": "Development and Use of Surveys in Education Research [RM] ",
+        "name": "Development and Use of Surveys in Education Research [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3493,7 +3493,7 @@
     },
     {
         "code": "JOI3049H",
-        "name": "Multilevel and Longitudinal Modelling in Educational Research (RM) ",
+        "name": "Multilevel and Longitudinal Modelling in Educational Research (RM)",
         "prereq": "An intermediate statistics course such as JOI3048H , JOI1288H , or equivalent",
         "exclusion": "LHA6005H",
         "corequisite": null,
@@ -3502,7 +3502,7 @@
     },
     {
         "code": "JOI3050H",
-        "name": "Quantitative Research Practicum [RM] ",
+        "name": "Quantitative Research Practicum [RM]",
         "prereq": "Introductory Statistics",
         "exclusion": "LHA6003H , JOI6003H",
         "corequisite": null,
@@ -3511,7 +3511,7 @@
     },
     {
         "code": "JOI3228H",
-        "name": "Mixed Methods Research Design in Social Sciences [RM] ",
+        "name": "Mixed Methods Research Design in Social Sciences [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3520,7 +3520,7 @@
     },
     {
         "code": "JOI3229H",
-        "name": "Meta-Analysis for Research in Psychology and Education (RM) ",
+        "name": "Meta-Analysis for Research in Psychology and Education (RM)",
         "prereq": "JOI1288H ( APD1288H ), APD3115H , JOI3048H or equivalent.",
         "exclusion": "JOI6002H Meta-Analysis",
         "corequisite": null,
@@ -3529,7 +3529,7 @@
     },
     {
         "code": "JOI6000H",
-        "name": "Special Topics in Advanced Quantitative Research Methods ",
+        "name": "Special Topics in Advanced Quantitative Research Methods",
         "prereq": "JOI1288H or JOI3048H or equivalent",
         "exclusion": null,
         "corequisite": null,
@@ -3538,7 +3538,7 @@
     },
     {
         "code": "JSA5147H",
-        "name": "Language, Nationalism, and Post-Nationalism ",
+        "name": "Language, Nationalism, and Post-Nationalism",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3547,7 +3547,7 @@
     },
     {
         "code": "JTE1952H",
-        "name": "Language, Culture, and Education / Langue, culture et éducation ",
+        "name": "Language, Culture, and Education / Langue, culture et éducation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3556,7 +3556,7 @@
     },
     {
         "code": "LHA1003H",
-        "name": "Designing Master's Research Proposals ",
+        "name": "Designing Master's Research Proposals",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3565,7 +3565,7 @@
     },
     {
         "code": "LHA1004H",
-        "name": "Research Literacy in Educational Leadership and Policy  ",
+        "name": "Research Literacy in Educational Leadership and Policy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3574,7 +3574,7 @@
     },
     {
         "code": "LHA1006H",
-        "name": "Introduction to Statistics for Educational Research [RM] ",
+        "name": "Introduction to Statistics for Educational Research [RM]",
         "prereq": null,
         "exclusion": "LHA5014H",
         "corequisite": null,
@@ -3583,7 +3583,7 @@
     },
     {
         "code": "LHA1012H",
-        "name": "Organizational Culture and Decision-Making ",
+        "name": "Organizational Culture and Decision-Making",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3592,7 +3592,7 @@
     },
     {
         "code": "LHA1013H",
-        "name": "Developing and Organizing People in Education ",
+        "name": "Developing and Organizing People in Education",
         "prereq": null,
         "exclusion": "LHA5007H",
         "corequisite": null,
@@ -3601,7 +3601,7 @@
     },
     {
         "code": "LHA1016H",
-        "name": "School Program Development and Implementation ",
+        "name": "School Program Development and Implementation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3610,7 +3610,7 @@
     },
     {
         "code": "LHA1018H",
-        "name": "Political Skill in the Education Arena ",
+        "name": "Political Skill in the Education Arena",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3619,7 +3619,7 @@
     },
     {
         "code": "LHA1019H",
-        "name": "Diversity and the Ethics of Educational Administration ",
+        "name": "Diversity and the Ethics of Educational Administration",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3628,7 +3628,7 @@
     },
     {
         "code": "LHA1020H",
-        "name": "Teachers and Educational Change ",
+        "name": "Teachers and Educational Change",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3637,7 +3637,7 @@
     },
     {
         "code": "LHA1030H",
-        "name": "The Legal Context of Education ",
+        "name": "The Legal Context of Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3646,7 +3646,7 @@
     },
     {
         "code": "LHA1031H",
-        "name": "Educational Policy Analysis ",
+        "name": "Educational Policy Analysis",
         "prereq": null,
         "exclusion": "Students who have previously completed EDP3045H , LHA3045H , or TPS3045H are prohibited from taking this course.",
         "corequisite": null,
@@ -3655,7 +3655,7 @@
     },
     {
         "code": "LHA1032H",
-        "name": "Economics of Education Policy ",
+        "name": "Economics of Education Policy",
         "prereq": null,
         "exclusion": "LHA5019H , LHA6007H",
         "corequisite": null,
@@ -3664,7 +3664,7 @@
     },
     {
         "code": "LHA1035H",
-        "name": "Sociology of Education ",
+        "name": "Sociology of Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3673,7 +3673,7 @@
     },
     {
         "code": "LHA1036H",
-        "name": "Enacting Policy in Schools ",
+        "name": "Enacting Policy in Schools",
         "prereq": null,
         "exclusion": "LHA5015H",
         "corequisite": null,
@@ -3682,7 +3682,7 @@
     },
     {
         "code": "LHA1037H",
-        "name": "Critical Approaches to Education Technology ",
+        "name": "Critical Approaches to Education Technology",
         "prereq": null,
         "exclusion": "LHA5017H",
         "corequisite": null,
@@ -3700,7 +3700,7 @@
     },
     {
         "code": "LHA1041H",
-        "name": "Social and Policy Contexts of Schooling  ",
+        "name": "Social and Policy Contexts of Schooling",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3709,7 +3709,7 @@
     },
     {
         "code": "LHA1042H",
-        "name": "School Leadership in Diverse Contexts ",
+        "name": "School Leadership in Diverse Contexts",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3718,7 +3718,7 @@
     },
     {
         "code": "LHA1043H",
-        "name": "Decolonizing and Antiracist Approaches to Educational Leadership  ",
+        "name": "Decolonizing and Antiracist Approaches to Educational Leadership",
         "prereq": null,
         "exclusion": "LHA5009H",
         "corequisite": null,
@@ -3727,7 +3727,7 @@
     },
     {
         "code": "LHA1047H",
-        "name": "Managing Educational Change in Practice ",
+        "name": "Managing Educational Change in Practice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3736,7 +3736,7 @@
     },
     {
         "code": "LHA1048H",
-        "name": "Educational Leadership and School Improvement ",
+        "name": "Educational Leadership and School Improvement",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3745,7 +3745,7 @@
     },
     {
         "code": "LHA1050H",
-        "name": "Themes and Issues in Change, Leadership, Policy, and Social Diversity ",
+        "name": "Themes and Issues in Change, Leadership, Policy, and Social Diversity",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3763,7 +3763,7 @@
     },
     {
         "code": "LHA1060H",
-        "name": "School Leadership Seminar 1 ",
+        "name": "School Leadership Seminar 1",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3772,7 +3772,7 @@
     },
     {
         "code": "LHA1061H",
-        "name": "School Leadership Seminar 2 ",
+        "name": "School Leadership Seminar 2",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3781,7 +3781,7 @@
     },
     {
         "code": "LHA1065H",
-        "name": "Global Educational Equity and Quantitative Policy Research ",
+        "name": "Global Educational Equity and Quantitative Policy Research",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3790,7 +3790,7 @@
     },
     {
         "code": "LHA1066H",
-        "name": "Comparative and International Perspectives on Gender and Education Policy and Practice ",
+        "name": "Comparative and International Perspectives on Gender and Education Policy and Practice",
         "prereq": null,
         "exclusion": "CIE6000H and CIE6001H",
         "corequisite": null,
@@ -3799,7 +3799,7 @@
     },
     {
         "code": "LHA1067H",
-        "name": "Comparative Politics of Education Policy ",
+        "name": "Comparative Politics of Education Policy",
         "prereq": "None",
         "exclusion": "LHA5006H",
         "corequisite": "None",
@@ -3808,7 +3808,7 @@
     },
     {
         "code": "LHA1070H",
-        "name": "Internship in Educational Leadership and Policy  ",
+        "name": "Internship in Educational Leadership and Policy",
         "prereq": "None",
         "exclusion": "None",
         "corequisite": "None",
@@ -3817,7 +3817,7 @@
     },
     {
         "code": "LHA1100H",
-        "name": "Introduction to Adult Education ",
+        "name": "Introduction to Adult Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3826,7 +3826,7 @@
     },
     {
         "code": "LHA1101H",
-        "name": "Program Planning in Adult Education ",
+        "name": "Program Planning in Adult Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3835,7 +3835,7 @@
     },
     {
         "code": "LHA1102H",
-        "name": "Introduction to Community Development ",
+        "name": "Introduction to Community Development",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3844,7 +3844,7 @@
     },
     {
         "code": "LHA1103H",
-        "name": "Introduction to Research Methods in Adult Education [RM] ",
+        "name": "Introduction to Research Methods in Adult Education [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3853,7 +3853,7 @@
     },
     {
         "code": "LHA1105H",
-        "name": "Introduction to Qualitative Research (Part I) [RM] ",
+        "name": "Introduction to Qualitative Research (Part I) [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3862,7 +3862,7 @@
     },
     {
         "code": "LHA1106H",
-        "name": "Introduction to Qualitative Research (Part II) [RM] ",
+        "name": "Introduction to Qualitative Research (Part II) [RM]",
         "prereq": "LHA1105H",
         "exclusion": null,
         "corequisite": null,
@@ -3880,7 +3880,7 @@
     },
     {
         "code": "LHA1108H",
-        "name": "Adult Learning ",
+        "name": "Adult Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3889,7 +3889,7 @@
     },
     {
         "code": "LHA1109H",
-        "name": "Challenging Systems of Power and Oppression through Creative Approaches ",
+        "name": "Challenging Systems of Power and Oppression through Creative Approaches",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3898,7 +3898,7 @@
     },
     {
         "code": "LHA1110H",
-        "name": "Approaches to Teaching Adults ",
+        "name": "Approaches to Teaching Adults",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3907,7 +3907,7 @@
     },
     {
         "code": "LHA1111H",
-        "name": "Working with Survivors of Trauma ",
+        "name": "Working with Survivors of Trauma",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3925,7 +3925,7 @@
     },
     {
         "code": "LHA1113H",
-        "name": "Gender and Race at Work ",
+        "name": "Gender and Race at Work",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3934,7 +3934,7 @@
     },
     {
         "code": "LHA1114H",
-        "name": "Commons, Community and Social Justice ",
+        "name": "Commons, Community and Social Justice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3943,7 +3943,7 @@
     },
     {
         "code": "LHA1115H",
-        "name": "Learning for the Global Economy ",
+        "name": "Learning for the Global Economy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3952,7 +3952,7 @@
     },
     {
         "code": "LHA1119H",
-        "name": "Creating a Learning Organization ",
+        "name": "Creating a Learning Organization",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3961,7 +3961,7 @@
     },
     {
         "code": "LHA1120H",
-        "name": "Professions, Learning, and Work ",
+        "name": "Professions, Learning, and Work",
         "prereq": null,
         "exclusion": "LHA5105H",
         "corequisite": null,
@@ -3970,7 +3970,7 @@
     },
     {
         "code": "LHA1122H",
-        "name": "Practicum in Adult Education and Community Development (Pass/Fail) ",
+        "name": "Practicum in Adult Education and Community Development (Pass/Fail)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -3988,7 +3988,7 @@
     },
     {
         "code": "LHA1143H",
-        "name": "Feminist Perspectives on Society and Education ",
+        "name": "Feminist Perspectives on Society and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4015,7 +4015,7 @@
     },
     {
         "code": "LHA1146H",
-        "name": "Women, War, and Learning ",
+        "name": "Women, War, and Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4024,7 +4024,7 @@
     },
     {
         "code": "LHA1147H",
-        "name": "Migration, Resettlement, and Learning  ",
+        "name": "Migration, Resettlement, and Learning",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4033,7 +4033,7 @@
     },
     {
         "code": "LHA1148H",
-        "name": "An Introduction to Workplace, Organizational and Economic Democracy ",
+        "name": "An Introduction to Workplace, Organizational and Economic Democracy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4051,7 +4051,7 @@
     },
     {
         "code": "LHA1150H",
-        "name": "Critical Perspectives on Organizational Change ",
+        "name": "Critical Perspectives on Organizational Change",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4069,7 +4069,7 @@
     },
     {
         "code": "LHA1160H",
-        "name": "Introduction to Transformative Learning Studies ",
+        "name": "Introduction to Transformative Learning Studies",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4078,7 +4078,7 @@
     },
     {
         "code": "LHA1171H",
-        "name": "Foundations of Indigenous Education in Canada ",
+        "name": "Foundations of Indigenous Education in Canada",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4096,7 +4096,7 @@
     },
     {
         "code": "LHA1181H",
-        "name": "Embodied Learning and Alternative Approaches to Community Wellness ",
+        "name": "Embodied Learning and Alternative Approaches to Community Wellness",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4114,7 +4114,7 @@
     },
     {
         "code": "LHA1183H",
-        "name": "Master's Research Seminar ",
+        "name": "Master's Research Seminar",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4141,7 +4141,7 @@
     },
     {
         "code": "LHA1186H",
-        "name": "Organizational Change in the Nonprofit and Public Sectors ",
+        "name": "Organizational Change in the Nonprofit and Public Sectors",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4150,7 +4150,7 @@
     },
     {
         "code": "LHA1190H",
-        "name": "Community Healing and Peacebuilding ",
+        "name": "Community Healing and Peacebuilding",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4159,7 +4159,7 @@
     },
     {
         "code": "LHA1193H",
-        "name": "Adult Education for Sustainability ",
+        "name": "Adult Education for Sustainability",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4168,7 +4168,7 @@
     },
     {
         "code": "LHA1194H",
-        "name": "Cyberliteracy and Adult Education  ",
+        "name": "Cyberliteracy and Adult Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4195,7 +4195,7 @@
     },
     {
         "code": "LHA1197H",
-        "name": "The Pedagogy of Food ",
+        "name": "The Pedagogy of Food",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4204,7 +4204,7 @@
     },
     {
         "code": "LHA1803H",
-        "name": "Recurring Issues in Postsecondary Education ",
+        "name": "Recurring Issues in Postsecondary Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4213,7 +4213,7 @@
     },
     {
         "code": "LHA1805H",
-        "name": "The College Sector ",
+        "name": "The College Sector",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4222,7 +4222,7 @@
     },
     {
         "code": "LHA1806H",
-        "name": "Systems of Higher Education ",
+        "name": "Systems of Higher Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4231,7 +4231,7 @@
     },
     {
         "code": "LHA1809H",
-        "name": "Administration of Colleges and Universities ",
+        "name": "Administration of Colleges and Universities",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4240,7 +4240,7 @@
     },
     {
         "code": "LHA1811H",
-        "name": "Organizational Change in Higher Education ",
+        "name": "Organizational Change in Higher Education",
         "prereq": null,
         "exclusion": "LHA5810H",
         "corequisite": null,
@@ -4249,7 +4249,7 @@
     },
     {
         "code": "LHA1812H",
-        "name": "Education and the Professions ",
+        "name": "Education and the Professions",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4258,7 +4258,7 @@
     },
     {
         "code": "LHA1814H",
-        "name": "Lifelong Learning and Professional and Vocational Education ",
+        "name": "Lifelong Learning and Professional and Vocational Education",
         "prereq": null,
         "exclusion": "LHA5807H",
         "corequisite": null,
@@ -4267,7 +4267,7 @@
     },
     {
         "code": "LHA1815H",
-        "name": "Economics and Finance of Higher Education ",
+        "name": "Economics and Finance of Higher Education",
         "prereq": null,
         "exclusion": "LHA2006H",
         "corequisite": null,
@@ -4276,7 +4276,7 @@
     },
     {
         "code": "LHA1816H",
-        "name": "Sociology of Higher Education ",
+        "name": "Sociology of Higher Education",
         "prereq": null,
         "exclusion": "LHA5807H – Special Topics code, previously used for this course",
         "corequisite": null,
@@ -4285,7 +4285,7 @@
     },
     {
         "code": "LHA1818H",
-        "name": "Politics of Higher Education ",
+        "name": "Politics of Higher Education",
         "prereq": null,
         "exclusion": "LHA5806H",
         "corequisite": null,
@@ -4294,7 +4294,7 @@
     },
     {
         "code": "LHA1819H",
-        "name": "Governance in Higher Education ",
+        "name": "Governance in Higher Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4312,7 +4312,7 @@
     },
     {
         "code": "LHA1822H",
-        "name": "Teaching and Learning in Higher Education ",
+        "name": "Teaching and Learning in Higher Education",
         "prereq": null,
         "exclusion": "LHA5809H",
         "corequisite": null,
@@ -4321,7 +4321,7 @@
     },
     {
         "code": "LHA1823H",
-        "name": "Scholarship of Teaching and Learning ",
+        "name": "Scholarship of Teaching and Learning",
         "prereq": null,
         "exclusion": "LHA5814H",
         "corequisite": null,
@@ -4330,7 +4330,7 @@
     },
     {
         "code": "LHA1825H",
-        "name": "Comparative Education Theory and Methodology [RM] ",
+        "name": "Comparative Education Theory and Methodology [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4339,7 +4339,7 @@
     },
     {
         "code": "LHA1826H",
-        "name": "Comparative Higher Education ",
+        "name": "Comparative Higher Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4348,7 +4348,7 @@
     },
     {
         "code": "LHA1828H",
-        "name": "Evaluation in Higher Education [RM] ",
+        "name": "Evaluation in Higher Education [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4357,7 +4357,7 @@
     },
     {
         "code": "LHA1834H",
-        "name": "Qualitative Research in Higher Education [RM] ",
+        "name": "Qualitative Research in Higher Education [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4366,7 +4366,7 @@
     },
     {
         "code": "LHA1835H",
-        "name": "Logics and Strategies of Case Study Research (RM) ",
+        "name": "Logics and Strategies of Case Study Research (RM)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4375,7 +4375,7 @@
     },
     {
         "code": "LHA1836H",
-        "name": "Critical Analysis of Research in Higher Education [RM] ",
+        "name": "Critical Analysis of Research in Higher Education [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4384,7 +4384,7 @@
     },
     {
         "code": "LHA1843H",
-        "name": "Higher Education and the Law ",
+        "name": "Higher Education and the Law",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4393,7 +4393,7 @@
     },
     {
         "code": "LHA1844H",
-        "name": "The Student Experience in Postsecondary Education ",
+        "name": "The Student Experience in Postsecondary Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4402,7 +4402,7 @@
     },
     {
         "code": "LHA1845H",
-        "name": "Indigenous Students in Higher Education ",
+        "name": "Indigenous Students in Higher Education",
         "prereq": null,
         "exclusion": "LHA5804H",
         "corequisite": null,
@@ -4411,7 +4411,7 @@
     },
     {
         "code": "LHA1846H",
-        "name": "Internationalization of Higher Education in a Comparative Perspective ",
+        "name": "Internationalization of Higher Education in a Comparative Perspective",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4420,7 +4420,7 @@
     },
     {
         "code": "LHA1847H",
-        "name": "Diversity in Higher Education Administration and Leadership ",
+        "name": "Diversity in Higher Education Administration and Leadership",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4429,7 +4429,7 @@
     },
     {
         "code": "LHA1848H",
-        "name": "Innovative Curricula in Higher Education and Professional Programs ",
+        "name": "Innovative Curricula in Higher Education and Professional Programs",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4447,7 +4447,7 @@
     },
     {
         "code": "LHA1853H",
-        "name": "Introduction to Student Services ",
+        "name": "Introduction to Student Services",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4456,7 +4456,7 @@
     },
     {
         "code": "LHA1854H",
-        "name": "Student Development Theory ",
+        "name": "Student Development Theory",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4465,7 +4465,7 @@
     },
     {
         "code": "LHA1856H",
-        "name": "Advanced Student Development Theories in Higher Education ",
+        "name": "Advanced Student Development Theories in Higher Education",
         "prereq": "LHA1854H",
         "exclusion": null,
         "corequisite": null,
@@ -4474,7 +4474,7 @@
     },
     {
         "code": "LHA1858H",
-        "name": "Internship in Student Services 1 ",
+        "name": "Internship in Student Services 1",
         "prereq": "LHA1854H",
         "exclusion": "LHA5812H",
         "corequisite": null,
@@ -4483,7 +4483,7 @@
     },
     {
         "code": "LHA1859H",
-        "name": "Internship in Student Services 2 ",
+        "name": "Internship in Student Services 2",
         "prereq": "LHA1858H",
         "exclusion": "LHA5813H",
         "corequisite": null,
@@ -4492,7 +4492,7 @@
     },
     {
         "code": "LHA1860H",
-        "name": "Higher Education Administration and Leadership Capstone ",
+        "name": "Higher Education Administration and Leadership Capstone",
         "prereq": null,
         "exclusion": "LHA5805H",
         "corequisite": null,
@@ -4501,7 +4501,7 @@
     },
     {
         "code": "LHA3003H",
-        "name": "Designing Research Proposals in Educational Leadership and Policy ",
+        "name": "Designing Research Proposals in Educational Leadership and Policy",
         "prereq": null,
         "exclusion": "The course is open to advanced doctoral students in ELP (all others with permission of instructor). Students who have previously taken the special topics version of this course are prohibited from taking LHA3003H .",
         "corequisite": null,
@@ -4510,7 +4510,7 @@
     },
     {
         "code": "LHA3004H",
-        "name": "Research Literacy for the EdD Program ",
+        "name": "Research Literacy for the EdD Program",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4519,7 +4519,7 @@
     },
     {
         "code": "LHA3005H",
-        "name": "Introduction to Research Methods for the EdD [RM] ",
+        "name": "Introduction to Research Methods for the EdD [RM]",
         "prereq": "LHA3004H Research Literacy for the EdD Program (applies to Regular ELP EdD Students only)",
         "exclusion": null,
         "corequisite": null,
@@ -4528,7 +4528,7 @@
     },
     {
         "code": "LHA3006H",
-        "name": "Data Analysis for the Education Doctorate [RM] ",
+        "name": "Data Analysis for the Education Doctorate [RM]",
         "prereq": "LHA3005H Introduction to Research Methods for the EdD",
         "exclusion": null,
         "corequisite": null,
@@ -4537,7 +4537,7 @@
     },
     {
         "code": "LHA3007H",
-        "name": "Reviewing the Literature ",
+        "name": "Reviewing the Literature",
         "prereq": "LHA3004H Research Literacy for the EdD Program",
         "exclusion": null,
         "corequisite": null,
@@ -4546,7 +4546,7 @@
     },
     {
         "code": "LHA3008H",
-        "name": "Professional Seminar and Dissertation Workshop in International Educational Leadership and Policy ",
+        "name": "Professional Seminar and Dissertation Workshop in International Educational Leadership and Policy",
         "prereq": null,
         "exclusion": "LHA6011H",
         "corequisite": null,
@@ -4555,7 +4555,7 @@
     },
     {
         "code": "LHA3009H",
-        "name": "Professional Development Seminar for the EdD ",
+        "name": "Professional Development Seminar for the EdD",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4564,7 +4564,7 @@
     },
     {
         "code": "LHA3015H",
-        "name": "School Leadership in Post Colonial Contexts ",
+        "name": "School Leadership in Post Colonial Contexts",
         "prereq": null,
         "exclusion": "LHA6014H",
         "corequisite": null,
@@ -4573,7 +4573,7 @@
     },
     {
         "code": "LHA3021H",
-        "name": "Organizational Studies in Education ",
+        "name": "Organizational Studies in Education",
         "prereq": null,
         "exclusion": "LHA6012H",
         "corequisite": null,
@@ -4582,7 +4582,7 @@
     },
     {
         "code": "LHA3030H",
-        "name": "Advanced Legal Issues in Education ",
+        "name": "Advanced Legal Issues in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4591,7 +4591,7 @@
     },
     {
         "code": "LHA3031H",
-        "name": "Methodological Approaches for Researching Education Policy [RM] ",
+        "name": "Methodological Approaches for Researching Education Policy [RM]",
         "prereq": null,
         "exclusion": "Students who have previously completed EDP3145H , LHA3145H , or TPS3145H are prohibited from taking this course.",
         "corequisite": null,
@@ -4600,7 +4600,7 @@
     },
     {
         "code": "LHA3040H",
-        "name": "People and Power in Organizations ",
+        "name": "People and Power in Organizations",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4609,7 +4609,7 @@
     },
     {
         "code": "LHA3041H",
-        "name": "Doctoral Seminar on Policy Issues in Education ",
+        "name": "Doctoral Seminar on Policy Issues in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4618,7 +4618,7 @@
     },
     {
         "code": "LHA3042H",
-        "name": "Introduction to Qualitative Methods in Educational Research [RM]  ",
+        "name": "Introduction to Qualitative Methods in Educational Research [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4627,7 +4627,7 @@
     },
     {
         "code": "LHA3044H",
-        "name": "Internship/Practicum  in Educational Leadership and Policy ",
+        "name": "Internship/Practicum  in Educational Leadership and Policy",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4636,7 +4636,7 @@
     },
     {
         "code": "LHA3046H",
-        "name": "Qualitative Methods for Community-Based Research (RM) ",
+        "name": "Qualitative Methods for Community-Based Research (RM)",
         "prereq": null,
         "exclusion": "LHA6013H",
         "corequisite": null,
@@ -4663,7 +4663,7 @@
     },
     {
         "code": "LHA3102H",
-        "name": "Doctoral Thesis Seminar (Pass/Fail) ",
+        "name": "Doctoral Thesis Seminar (Pass/Fail)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4672,7 +4672,7 @@
     },
     {
         "code": "LHA3104H",
-        "name": "Adult Education, Marxism and Feminism ",
+        "name": "Adult Education, Marxism and Feminism",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4690,7 +4690,7 @@
     },
     {
         "code": "LHA3183H",
-        "name": "Introduction to Institutional Ethnography [RM] ",
+        "name": "Introduction to Institutional Ethnography [RM]",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4699,7 +4699,7 @@
     },
     {
         "code": "LHA3184H",
-        "name": "Indigenous Research Methodologies ",
+        "name": "Indigenous Research Methodologies",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4717,7 +4717,7 @@
     },
     {
         "code": "LHA3804H",
-        "name": "Doctoral Research Seminar in Higher Education ",
+        "name": "Doctoral Research Seminar in Higher Education",
         "prereq": "LHA3803H",
         "exclusion": null,
         "corequisite": null,
@@ -4726,7 +4726,7 @@
     },
     {
         "code": "LHA3810H",
-        "name": "International Academic Relations ",
+        "name": "International Academic Relations",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4807,7 +4807,7 @@
     },
     {
         "code": "SJE1418H",
-        "name": "Sociologie de l’enfance, éducation et inégalités entre élèves / Sociologie de l’enfance, éducation et inégalités entre élèves ",
+        "name": "Sociologie de l’enfance, éducation et inégalités entre élèves / Sociologie de l’enfance, éducation et inégalités entre élèves",
         "prereq": null,
         "exclusion": "SJE5026H",
         "corequisite": null,
@@ -4816,7 +4816,7 @@
     },
     {
         "code": "SJE1440H",
-        "name": "An Introduction to Philosophy of Education ",
+        "name": "An Introduction to Philosophy of Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4825,7 +4825,7 @@
     },
     {
         "code": "SJE1465H",
-        "name": "Special Topics in Philosophy of Education ",
+        "name": "Special Topics in Philosophy of Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4834,7 +4834,7 @@
     },
     {
         "code": "SJE1900H",
-        "name": "Introduction to Sociology in Education / Introduction à la sociologie de l'éducation ",
+        "name": "Introduction to Sociology in Education / Introduction à la sociologie de l'éducation",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4843,7 +4843,7 @@
     },
     {
         "code": "SJE1903H",
-        "name": "Major Concepts and Issues in Education ",
+        "name": "Major Concepts and Issues in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4852,7 +4852,7 @@
     },
     {
         "code": "SJE1905H",
-        "name": "Qualitative Research Methods for Social Justice ",
+        "name": "Qualitative Research Methods for Social Justice",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4861,7 +4861,7 @@
     },
     {
         "code": "SJE1909H",
-        "name": "Environmental Sustainability and Social Justice 1 ",
+        "name": "Environmental Sustainability and Social Justice 1",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4879,7 +4879,7 @@
     },
     {
         "code": "SJE1919H",
-        "name": "Advanced Topics in Environmental Justice Education ",
+        "name": "Advanced Topics in Environmental Justice Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4888,7 +4888,7 @@
     },
     {
         "code": "SJE1921Y",
-        "name": "The Principles of Anti-Racism Education ",
+        "name": "The Principles of Anti-Racism Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4897,7 +4897,7 @@
     },
     {
         "code": "SJE1922H",
-        "name": "Sociology of Race and Ethnicity ",
+        "name": "Sociology of Race and Ethnicity",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4915,7 +4915,7 @@
     },
     {
         "code": "SJE1924H",
-        "name": "Modernization, Development, and Education in African Contexts ",
+        "name": "Modernization, Development, and Education in African Contexts",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4942,7 +4942,7 @@
     },
     {
         "code": "SJE1927H",
-        "name": "Migration and Globalization ",
+        "name": "Migration and Globalization",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4951,7 +4951,7 @@
     },
     {
         "code": "SJE1929H",
-        "name": "Theorizing Asian Canada ",
+        "name": "Theorizing Asian Canada",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4960,7 +4960,7 @@
     },
     {
         "code": "SJE1930H",
-        "name": "Race, Indigeneity, and the Colonial Politics of Recognition ",
+        "name": "Race, Indigeneity, and the Colonial Politics of Recognition",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4969,7 +4969,7 @@
     },
     {
         "code": "SJE1931H",
-        "name": "Centering Indigenous-Settler Solidarity in Theory and Research ",
+        "name": "Centering Indigenous-Settler Solidarity in Theory and Research",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -4978,7 +4978,7 @@
     },
     {
         "code": "SJE1932H",
-        "name": "Decolonization, Settler Colonialism, and Antiblackness ",
+        "name": "Decolonization, Settler Colonialism, and Antiblackness",
         "prereq": null,
         "exclusion": "SJE5024H",
         "corequisite": null,
@@ -4987,7 +4987,7 @@
     },
     {
         "code": "SJE1933H",
-        "name": "Participatory Action Research and Community Based Research ",
+        "name": "Participatory Action Research and Community Based Research",
         "prereq": null,
         "exclusion": "SJE5011H",
         "corequisite": null,
@@ -4996,7 +4996,7 @@
     },
     {
         "code": "SJE1951H",
-        "name": "The School and the Community / L'école, la participation parentale et la communauté ",
+        "name": "The School and the Community / L'école, la participation parentale et la communauté",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5005,7 +5005,7 @@
     },
     {
         "code": "SJE1954H",
-        "name": "Marginality and the Politics of Resistance ",
+        "name": "Marginality and the Politics of Resistance",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5023,7 +5023,7 @@
     },
     {
         "code": "SJE1958H",
-        "name": "The Cultural Production of the Self as a Problem in Education ",
+        "name": "The Cultural Production of the Self as a Problem in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5032,7 +5032,7 @@
     },
     {
         "code": "SJE1959H",
-        "name": "Theoretical Frameworks in Culture, Communications and Education ",
+        "name": "Theoretical Frameworks in Culture, Communications and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5041,7 +5041,7 @@
     },
     {
         "code": "SJE1961H",
-        "name": "Spirituality and Schooling ",
+        "name": "Spirituality and Schooling",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5050,7 +5050,7 @@
     },
     {
         "code": "SJE1970H",
-        "name": "Applied Ethics in Higher Education ",
+        "name": "Applied Ethics in Higher Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5059,7 +5059,7 @@
     },
     {
         "code": "SJE1971H",
-        "name": "Identity and Education ",
+        "name": "Identity and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5068,7 +5068,7 @@
     },
     {
         "code": "SJE1972H",
-        "name": "Contemporary Ethical Issues in Schooling and Education ",
+        "name": "Contemporary Ethical Issues in Schooling and Education",
         "prereq": null,
         "exclusion": "SJE1471H (Critical Issues in Education: Philosophical Perspectives)",
         "corequisite": null,
@@ -5077,7 +5077,7 @@
     },
     {
         "code": "SJE1973H",
-        "name": "Liberalism and its Critics ",
+        "name": "Liberalism and its Critics",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5086,7 +5086,7 @@
     },
     {
         "code": "SJE1974H",
-        "name": "Truth Commissions Reconciliation and Indian Residential Schools ",
+        "name": "Truth Commissions Reconciliation and Indian Residential Schools",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5095,7 +5095,7 @@
     },
     {
         "code": "SJE1975H",
-        "name": "Indigenous Settler Relations Issues for Teachers ",
+        "name": "Indigenous Settler Relations Issues for Teachers",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5104,7 +5104,7 @@
     },
     {
         "code": "SJE1976H",
-        "name": "Critical Media Literacy Education ",
+        "name": "Critical Media Literacy Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5122,7 +5122,7 @@
     },
     {
         "code": "SJE1978H",
-        "name": "Sexual, Racial and Gender-based Violence Prevention in Higher Education ",
+        "name": "Sexual, Racial and Gender-based Violence Prevention in Higher Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5131,7 +5131,7 @@
     },
     {
         "code": "SJE1979H",
-        "name": "Race, Gender and Empire in Socialist States  ",
+        "name": "Race, Gender and Empire in Socialist States",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5149,7 +5149,7 @@
     },
     {
         "code": "SJE1989H",
-        "name": "Black Feminist Thought ",
+        "name": "Black Feminist Thought",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5158,7 +5158,7 @@
     },
     {
         "code": "SJE1990H",
-        "name": "Disability Studies and the Culture of Vision ",
+        "name": "Disability Studies and the Culture of Vision",
         "prereq": null,
         "exclusion": "SJE5059H",
         "corequisite": null,
@@ -5167,7 +5167,7 @@
     },
     {
         "code": "SJE1991H",
-        "name": "Interdisciplinary Approaches of Edward Said ",
+        "name": "Interdisciplinary Approaches of Edward Said",
         "prereq": null,
         "exclusion": "SJE6016H",
         "corequisite": null,
@@ -5176,7 +5176,7 @@
     },
     {
         "code": "SJE2030H",
-        "name": "Disability Studies and the Human Imaginary  ",
+        "name": "Disability Studies and the Human Imaginary",
         "prereq": null,
         "exclusion": "SJE5004H",
         "corequisite": null,
@@ -5185,7 +5185,7 @@
     },
     {
         "code": "SJE2040H",
-        "name": "Encounters in Disability Studies ",
+        "name": "Encounters in Disability Studies",
         "prereq": null,
         "exclusion": "SJE5048H F",
         "corequisite": null,
@@ -5194,7 +5194,7 @@
     },
     {
         "code": "SJE2050H",
-        "name": "Disability Studies Through Narrative Inquiry ",
+        "name": "Disability Studies Through Narrative Inquiry",
         "prereq": null,
         "exclusion": "SJE5041H",
         "corequisite": null,
@@ -5203,7 +5203,7 @@
     },
     {
         "code": "SJE2929H",
-        "name": "Disability Studies – Interpretive Methods  [RM] ",
+        "name": "Disability Studies – Interpretive Methods  [RM]",
         "prereq": "Prior disability studies course recommended",
         "exclusion": null,
         "corequisite": null,
@@ -5230,7 +5230,7 @@
     },
     {
         "code": "SJE2999H",
-        "name": "Special Topics in Sociological Research in Education ",
+        "name": "Special Topics in Sociological Research in Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5239,7 +5239,7 @@
     },
     {
         "code": "SJE3417H",
-        "name": "Critical, Feminist and Radical Pedagogies ",
+        "name": "Critical, Feminist and Radical Pedagogies",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5248,7 +5248,7 @@
     },
     {
         "code": "SJE3903H",
-        "name": "Doctoral Orientation Seminar (Non-Credit) ",
+        "name": "Doctoral Orientation Seminar (Non-Credit)",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5266,7 +5266,7 @@
     },
     {
         "code": "SJE3911H",
-        "name": "Cultural Knowledges, Representation and Colonial Education ",
+        "name": "Cultural Knowledges, Representation and Colonial Education",
         "prereq": "Masters students need approval of instructor",
         "exclusion": null,
         "corequisite": null,
@@ -5275,7 +5275,7 @@
     },
     {
         "code": "SJE3914H",
-        "name": "Anti-Colonial Thought and Pedagogical Challenges ",
+        "name": "Anti-Colonial Thought and Pedagogical Challenges",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5284,7 +5284,7 @@
     },
     {
         "code": "SJE3915H",
-        "name": "Franz Fanon and Education ",
+        "name": "Franz Fanon and Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5302,7 +5302,7 @@
     },
     {
         "code": "SJE3917H",
-        "name": "Indigenous Land Education and Black Geographies ",
+        "name": "Indigenous Land Education and Black Geographies",
         "prereq": "Any prior Indigenous and/or Black Studies course(s)",
         "exclusion": "SJE5007H (Special Topics)",
         "corequisite": null,
@@ -5320,7 +5320,7 @@
     },
     {
         "code": "SJE3934H",
-        "name": "Advanced Indigenous Feminist Research ",
+        "name": "Advanced Indigenous Feminist Research",
         "prereq": "Prior coursework in Indigenous studies, women and gender studies",
         "exclusion": "SJE6000H",
         "corequisite": null,
@@ -5338,7 +5338,7 @@
     },
     {
         "code": "SJE3997H",
-        "name": "Practicum in Social Justice Education ",
+        "name": "Practicum in Social Justice Education",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5374,7 +5374,7 @@
     },
     {
         "code": "WPL1131H",
-        "name": "Introduction to Workplace Learning and Social Change ",
+        "name": "Introduction to Workplace Learning and Social Change",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5383,7 +5383,7 @@
     },
     {
         "code": "WPL2944H",
-        "name": "Sociology of Learning and Social Movements ",
+        "name": "Sociology of Learning and Social Movements",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -5392,7 +5392,7 @@
     },
     {
         "code": "WPL3930H",
-        "name": "Practitioner Communities in Workplace Learning  ",
+        "name": "Practitioner Communities in Workplace Learning",
         "prereq": "WPL1131H or permission of the instructor",
         "exclusion": null,
         "corequisite": null,
@@ -5401,7 +5401,7 @@
     },
     {
         "code": "WPL3931H",
-        "name": "Advanced Studies in Workplace Learning and Social Change ",
+        "name": "Advanced Studies in Workplace Learning and Social Change",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,

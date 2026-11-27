@@ -32,9 +32,17 @@ For instance, take our notorious pure math course, `MAT158H1`. The corresponding
 
 - [UofT Academic Calendars](https://calendar.utoronto.ca/)
 - [Faculty of Arts & Science](https://artsci.calendar.utoronto.ca/search-courses)
-- [University of Toronto Mississauga](https://utm.calendar.utoronto.ca/course-search)
-- [University of Toronto Scarborough](https://utsc.calendar.utoronto.ca/search-courses)
-- [Timetable Builder](https://ttb.utoronto.ca/)
+- [University of Toronto Mississauga (UTM)](https://utm.calendar.utoronto.ca/course-search)
+- [University of Toronto Scarborough (UTSC)](https://utsc.calendar.utoronto.ca/search-courses)
+- [Faculty of Applied Science & Engineering](https://engineering.calendar.utoronto.ca/search-courses)
+- [John H. Daniels Faculty of Architecture, Landscape, and Design](https://daniels.calendar.utoronto.ca/search-courses)
+- [Faculty of Kinesiology & Physical Education](https://kpe.calendar.utoronto.ca/search-courses)
+- [Faculty of Information (iSchool)](https://ischool.calendar.utoronto.ca/search-courses)
+- [Faculty of Music](https://music.calendar.utoronto.ca/search-courses)
+- [Lawrence Bloomberg Faculty of Nursing](https://nursing.calendar.utoronto.ca/search-courses)
+- [Leslie Dan Faculty of Pharmacy](https://pharmacy.calendar.utoronto.ca/search-courses)
+- [School of Graduate Studies (SGS)](https://sgs.calendar.utoronto.ca/search-courses)
+- [Ontario Institute for Studies in Education (OISE)](https://oise.academic-guide.utoronto.ca/search-courses)
 
 
 ### Finding

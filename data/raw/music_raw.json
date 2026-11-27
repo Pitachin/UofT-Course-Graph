@@ -1,6 +1,6 @@
 [
     {
-        "code": " CMU110H1",
+        "code": "CMU110H1",
         "name": "Composition",
         "prereq": null,
         "exclusion": null,
@@ -9,7 +9,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU112H1",
+        "code": "CMU112H1",
         "name": "Introduction to Composition I",
         "prereq": null,
         "exclusion": "TMU112H1",
@@ -18,7 +18,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU113H1",
+        "code": "CMU113H1",
         "name": "Introduction to Composition II",
         "prereq": "CMU112H1",
         "exclusion": "TMU113H1",
@@ -27,7 +27,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU210Y1",
+        "code": "CMU210Y1",
         "name": "Composition",
         "prereq": "TMU130H1 , TMU131H1 , TMU132H1 , TMU133H1 , TMU105Y1 / TMU107Y1 , CMU112H1 and CMU113H1 . Admission by Interview.",
         "exclusion": "TMU210Y1",
@@ -36,7 +36,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU211Y1",
+        "code": "CMU211Y1",
         "name": "Composition",
         "prereq": "TMU130H1 , TMU131H1 , TMU132H1 , TMU133H1 , TMU105Y1 / TMU107Y1 , TMU112H1 and TMU113H1 . Admission by interview.",
         "exclusion": "TMU211Y1",
@@ -45,7 +45,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU310Y1",
+        "code": "CMU310Y1",
         "name": "Composition",
         "prereq": "TMU230H1 , TMU231H1 , TMU232H1 , TMU105Y1 / TMU107Y1 , CMU210Y1 . For Composition majors only. Part of the course requirement is to have at least one piece performed publicly at the Faculty of Music.",
         "exclusion": "TMU310Y1",
@@ -54,7 +54,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU311Y1",
+        "code": "CMU311Y1",
         "name": "Composition",
         "prereq": "TMU230H1 , TMU231H1 , TMU232H1 , TMU105Y1 / TMU107Y1 , CMU211Y1 . For Composition minors only. Part of the course requirement is to have at least one piece performed publicly at the Faculty of Music.",
         "exclusion": "TMU311Y1",
@@ -63,7 +63,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU314Y1",
+        "code": "CMU314Y1",
         "name": "Orchestration",
         "prereq": "TMU230H1 , TMU231H1 , TMU232H1 , Composition majors or minors, or P.I.",
         "exclusion": "TMU314Y1",
@@ -72,7 +72,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU401H1",
+        "code": "CMU401H1",
         "name": "Advanced Orchestration",
         "prereq": "TMU230H1 , TMU231H1 , TMU232H1 , Composition majors or minors, or P.I.",
         "exclusion": null,
@@ -81,7 +81,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU410Y1",
+        "code": "CMU410Y1",
         "name": "Composition",
         "prereq": "CMU310Y1 . For Composition majors.",
         "exclusion": "TMU410Y1",
@@ -90,7 +90,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " CMU420H1",
+        "code": "CMU420H1",
         "name": "Composing for Percussion",
         "prereq": "TMU231H1 , Percussion and/or Composition majors or minors, P.I.",
         "exclusion": "TMU420H1",
@@ -99,7 +99,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " DMU111H1",
+        "code": "DMU111H1",
         "name": "Introduction to Computer Applications in Music",
         "prereq": null,
         "exclusion": "TMU111H1",
@@ -108,7 +108,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " DMU313H1",
+        "code": "DMU313H1",
         "name": "Introduction to Music Recording",
         "prereq": "Year 3",
         "exclusion": "TMU313H1",
@@ -117,7 +117,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " DMU406H1",
+        "code": "DMU406H1",
         "name": "MAX/MSP",
         "prereq": "TMU231H1 or JMU200Y1 (Faculty of Music); DMU111H1 , TMU131H1 (Faculty of Arts & Science)",
         "exclusion": "TMU406H1",
@@ -126,7 +126,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " DMU409H1",
+        "code": "DMU409H1",
         "name": "Songwriting",
         "prereq": "TMU231H1 or JMU200Y1 (Faculty of Music); DMU111H1 , TMU131H1 (Faculty of Arts & Science)",
         "exclusion": "TMU409H1",
@@ -135,7 +135,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " DMU411H1",
+        "code": "DMU411H1",
         "name": "Interactive Music & Sound for Video Games I",
         "prereq": "TMU231H1 or JMU200Y1 (Faculty of Music); DMU111H1 , TMU131H1 (Faculty of Arts & Science)",
         "exclusion": "TMU411H1",
@@ -144,7 +144,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " DMU412H1",
+        "code": "DMU412H1",
         "name": "Interactive Music and Sound for Video Games II",
         "prereq": "DMU411H1 or P.I.",
         "exclusion": null,
@@ -153,7 +153,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " DMU430H1",
+        "code": "DMU430H1",
         "name": "Composing For Film",
         "prereq": "TMU231H1 or JMU200Y1 (Faculty of Music); DMU111H1 , TMU131H1 (Faculty of Arts & Science).",
         "exclusion": "TMU430H1",
@@ -162,7 +162,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " EMU130H1",
+        "code": "EMU130H1",
         "name": "Introduction to Music Education",
         "prereq": null,
         "exclusion": "EMU130Y1",
@@ -171,7 +171,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " EMU135H1",
+        "code": "EMU135H1",
         "name": "Introduction to Community Music Engagement",
         "prereq": null,
         "exclusion": null,
@@ -216,7 +216,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " EMU207Y1",
+        "code": "EMU207Y1",
         "name": "Piano Skills for Professional Musicians/Teachers",
         "prereq": null,
         "exclusion": null,
@@ -225,7 +225,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " EMU230H1",
+        "code": "EMU230H1",
         "name": "Voice Education",
         "prereq": "In Year 2.",
         "exclusion": "EMU231Y1 ; Not open to Voice majors",
@@ -234,7 +234,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " EMU231H1",
+        "code": "EMU231H1",
         "name": "Voice Pedagogy for Young Choirs",
         "prereq": "In Year 2.",
         "exclusion": null,
@@ -243,7 +243,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " EMU240H1",
+        "code": "EMU240H1",
         "name": "Theoretical Inquiry in Music Education",
         "prereq": "In Year 2.",
         "exclusion": "EMU275Y1",
@@ -252,7 +252,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=0"
     },
     {
-        "code": " EMU245H1",
+        "code": "EMU245H1",
         "name": "Psychological Foundations of Music Education",
         "prereq": "In Year 2.",
         "exclusion": "EMU275Y1",
@@ -324,7 +324,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU330Y1",
+        "code": "EMU330Y1",
         "name": "Choral Music Education",
         "prereq": "Year 3.",
         "exclusion": "EMU330H1 and/or EMU331H1",
@@ -333,7 +333,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU355Y1",
+        "code": "EMU355Y1",
         "name": "Accompanying",
         "prereq": "TMU105Y1 / TMU107Y1 , in Year 2, RCM Grade 9 level Piano or equivalent/P.I.",
         "exclusion": null,
@@ -351,7 +351,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU360H1",
+        "code": "EMU360H1",
         "name": "Jazz Improvisation for Music Education",
         "prereq": "TMU230H1 , TMU231H1 , TMU232H1",
         "exclusion": "Not open to Jazz majors.",
@@ -360,7 +360,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU370H1",
+        "code": "EMU370H1",
         "name": "Principles & Practice of Music Education for Children",
         "prereq": "Year 3.",
         "exclusion": "EMU370Y1",
@@ -369,7 +369,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU371H1",
+        "code": "EMU371H1",
         "name": "Multimodal Approaches to Music Teaching and Learning",
         "prereq": "Year 3.",
         "exclusion": null,
@@ -387,7 +387,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU401H1",
+        "code": "EMU401H1",
         "name": "Calls to Action through Music Education",
         "prereq": "EMU240H1 , EMU245H1",
         "exclusion": null,
@@ -396,7 +396,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU410H1",
+        "code": "EMU410H1",
         "name": "Practitioner Research in Music Education",
         "prereq": "Year 3",
         "exclusion": null,
@@ -405,7 +405,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU430H1",
+        "code": "EMU430H1",
         "name": "Choral Literature & Conducting I",
         "prereq": "EMU330Y1 or P.I.",
         "exclusion": "EMU430Y1",
@@ -414,7 +414,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU431H1",
+        "code": "EMU431H1",
         "name": "Choral Literature & Conducting II",
         "prereq": "EMU430H1",
         "exclusion": "EMU430Y1",
@@ -423,7 +423,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU435H1",
+        "code": "EMU435H1",
         "name": "Internship in Music Education",
         "prereq": "EMU240H1 , EMU245H1 , one of EMU356Y1 / EMU330Y1 / EMU370Y1 / EMU361Y1",
         "exclusion": null,
@@ -441,7 +441,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU461H1",
+        "code": "EMU461H1",
         "name": "Cultural Perspectives in Music Teaching and Learning",
         "prereq": "Year 4.",
         "exclusion": null,
@@ -450,7 +450,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU485H1",
+        "code": "EMU485H1",
         "name": "Advanced Topics in Music and Childhood",
         "prereq": "EMU370H1 or P.I.",
         "exclusion": null,
@@ -459,7 +459,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " EMU499H1",
+        "code": "EMU499H1",
         "name": "Independent Study",
         "prereq": "In Year 4. Permission of the Division Required.",
         "exclusion": null,
@@ -468,7 +468,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " HMU111H1",
+        "code": "HMU111H1",
         "name": "Introduction to Music and Society",
         "prereq": null,
         "exclusion": "Does not count as an HMU elective.",
@@ -477,7 +477,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " HMU125H1",
+        "code": "HMU125H1",
         "name": "Survey of Western Music History I",
         "prereq": "HMU111H1",
         "exclusion": "HMU126H1 , HMU225H1",
@@ -486,7 +486,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " HMU126H1",
+        "code": "HMU126H1",
         "name": "Historical Survey II",
         "prereq": null,
         "exclusion": "HMU226H1 . Does not count as an HMU elective.",
@@ -495,7 +495,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " HMU225H1",
+        "code": "HMU225H1",
         "name": "Historical Survey I",
         "prereq": "In Year 2.",
         "exclusion": "Does not count as an HMU elective.",
@@ -504,7 +504,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " HMU319H1",
+        "code": "HMU319H1",
         "name": "Music, Gender and Sexuality",
         "prereq": "HMU111H1 , HMU126H1 , HMU225H1 / JMU210H1",
         "exclusion": null,
@@ -522,7 +522,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " HMU340H1",
+        "code": "HMU340H1",
         "name": "Music in North America",
         "prereq": "HMU111H1 , HMU126H1 , HMU225H1 / JMU210H1",
         "exclusion": null,
@@ -531,7 +531,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " HMU345H1",
+        "code": "HMU345H1",
         "name": "Global Popular Musics",
         "prereq": "HMU111H1 , HMU126H1 , HMU225H1 / JMU210H1",
         "exclusion": "HMU245H1",
@@ -540,7 +540,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=1"
     },
     {
-        "code": " HMU385H1",
+        "code": "HMU385H1",
         "name": "Introduction to Sound Studies",
         "prereq": "HMU111H1 , HMU126H1 , and HMU225H1 / JMU210H1",
         "exclusion": null,
@@ -549,7 +549,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " HMU386H1",
+        "code": "HMU386H1",
         "name": "Social Lives of Musical Instruments",
         "prereq": "HMU111H1 , HMU126H1 , HMU225H1 / JMU210H1",
         "exclusion": null,
@@ -567,7 +567,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " HMU430H1",
+        "code": "HMU430H1",
         "name": "Topics in Music Before 1900",
         "prereq": "Completion of 4-course History and Culture requirement.",
         "exclusion": null,
@@ -576,7 +576,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " HMU432H1",
+        "code": "HMU432H1",
         "name": "Topics in Music Since 1900",
         "prereq": "Completion of 4-course History and Culture requirement.",
         "exclusion": null,
@@ -603,7 +603,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " HMU499H1",
+        "code": "HMU499H1",
         "name": "Independent Study",
         "prereq": "In Year 4. Permission of the Division.",
         "exclusion": null,
@@ -612,7 +612,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU100Y1",
+        "code": "JMU100Y1",
         "name": "Jazz & Traditional Materials",
         "prereq": null,
         "exclusion": null,
@@ -621,7 +621,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU101Y1",
+        "code": "JMU101Y1",
         "name": "Jazz & Traditional Ear Training",
         "prereq": null,
         "exclusion": null,
@@ -630,7 +630,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU104Y1",
+        "code": "JMU104Y1",
         "name": "Jazz Keyboard Skills",
         "prereq": "Required of all Jazz students except keyboard players.",
         "exclusion": null,
@@ -639,8 +639,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU167Y1",
-        "name": " University of Toronto Faculty of Music Gospel Choir",
+        "code": "JMU167Y1",
+        "name": "University of Toronto Faculty of Music Gospel Choir",
         "prereq": "Year 1.",
         "exclusion": null,
         "corequisite": null,
@@ -648,7 +648,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU184Y1",
+        "code": "JMU184Y1",
         "name": "Jazz Applied Music",
         "prereq": "In Year 1. For students in the Bachelor of Music program.",
         "exclusion": null,
@@ -657,7 +657,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU185Y1",
+        "code": "JMU185Y1",
         "name": "Jazz Applied Music",
         "prereq": "In Year 1. For students in the Bachelor of Music in Performance program.",
         "exclusion": null,
@@ -666,7 +666,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU189Y1",
+        "code": "JMU189Y1",
         "name": "Jazz Orchestra",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -675,7 +675,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU190Y1",
+        "code": "JMU190Y1",
         "name": "Hybrid Ensemble",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -684,7 +684,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU191Y1",
+        "code": "JMU191Y1",
         "name": "Jazz Improvisation",
         "prereq": "Jazz Performance majors or P.I.",
         "exclusion": null,
@@ -693,7 +693,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU192Y1",
+        "code": "JMU192Y1",
         "name": "Small Jazz Ensemble",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -702,7 +702,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU193Y1",
+        "code": "JMU193Y1",
         "name": "Vocal Jazz Ensemble",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -711,7 +711,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU200Y1",
+        "code": "JMU200Y1",
         "name": "Jazz & Traditional Materials",
         "prereq": "JMU100Y1",
         "exclusion": null,
@@ -720,7 +720,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU201Y1",
+        "code": "JMU201Y1",
         "name": "Jazz & Traditional Ear Training",
         "prereq": "JMU101Y1",
         "exclusion": null,
@@ -729,7 +729,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU210H1",
+        "code": "JMU210H1",
         "name": "Jazz History I",
         "prereq": "HMU111H1 , HMU126H1",
         "exclusion": "HMU133H1 ; HMU351H1",
@@ -738,7 +738,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU215H1",
+        "code": "JMU215H1",
         "name": "Jazz History II",
         "prereq": "JMU210H1",
         "exclusion": null,
@@ -747,8 +747,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU267Y1",
-        "name": " University of Toronto Faculty of Music Gospel Choir",
+        "code": "JMU267Y1",
+        "name": "University of Toronto Faculty of Music Gospel Choir",
         "prereq": "Year 2.",
         "exclusion": "PMU267Y1",
         "corequisite": null,
@@ -756,7 +756,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU284Y1",
+        "code": "JMU284Y1",
         "name": "Jazz Applied Music",
         "prereq": "In Year 2. For students in the Bachelor of Music program.",
         "exclusion": null,
@@ -765,7 +765,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU285Y1",
+        "code": "JMU285Y1",
         "name": "Jazz Applied Music",
         "prereq": "In Year 2. For students in the Bachelor of Music in Performance program.",
         "exclusion": null,
@@ -774,7 +774,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU289Y1",
+        "code": "JMU289Y1",
         "name": "Jazz Orchestra",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -783,7 +783,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU290Y1",
+        "code": "JMU290Y1",
         "name": "Hybrid Ensemble",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -792,7 +792,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU291Y1",
+        "code": "JMU291Y1",
         "name": "Jazz Improvisation",
         "prereq": "JMU191Y1",
         "exclusion": null,
@@ -801,7 +801,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU292Y1",
+        "code": "JMU292Y1",
         "name": "Small Jazz Ensemble",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -810,7 +810,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=2"
     },
     {
-        "code": " JMU293Y1",
+        "code": "JMU293Y1",
         "name": "Vocal Jazz Ensemble",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -819,7 +819,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU302H1",
+        "code": "JMU302H1",
         "name": "Advanced Ear Training & Harmony",
         "prereq": "JMU201Y1",
         "exclusion": "JMU301Y1",
@@ -828,7 +828,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU303H1",
+        "code": "JMU303H1",
         "name": "Rhythm for Improvisers",
         "prereq": "JMU201Y1",
         "exclusion": "JMU301Y1",
@@ -837,7 +837,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU305H1",
+        "code": "JMU305H1",
         "name": "Introduction to Jazz Theory",
         "prereq": "TMU231H1 , TMU232H1",
         "exclusion": null,
@@ -846,7 +846,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU317Y1",
+        "code": "JMU317Y1",
         "name": "Jazz Arranging",
         "prereq": "JMU200Y1",
         "exclusion": null,
@@ -855,8 +855,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU367Y1",
-        "name": " University of Toronto Faculty of Music Gospel Choir",
+        "code": "JMU367Y1",
+        "name": "University of Toronto Faculty of Music Gospel Choir",
         "prereq": "Year 3.",
         "exclusion": "PMU367Y1",
         "corequisite": null,
@@ -864,7 +864,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU384Y1",
+        "code": "JMU384Y1",
         "name": "Jazz Applied Music",
         "prereq": "In Year 3. For students in the Bachelor of Music program.",
         "exclusion": null,
@@ -873,7 +873,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU385Y1",
+        "code": "JMU385Y1",
         "name": "Jazz Applied Music & Recital",
         "prereq": "In Year 3. For students in the Bachelor of Music in Performance program.",
         "exclusion": null,
@@ -882,7 +882,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU389Y1",
+        "code": "JMU389Y1",
         "name": "Jazz Orchestra",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -891,7 +891,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU390Y1",
+        "code": "JMU390Y1",
         "name": "Hybrid Ensemble",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -900,7 +900,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU391Y1",
+        "code": "JMU391Y1",
         "name": "Jazz Improvisation",
         "prereq": "JMU291Y1",
         "exclusion": null,
@@ -909,7 +909,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU392Y1",
+        "code": "JMU392Y1",
         "name": "Small Jazz Ensemble",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -918,7 +918,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU393Y1",
+        "code": "JMU393Y1",
         "name": "Vocal Jazz Ensemble",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -927,7 +927,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU410Y1",
+        "code": "JMU410Y1",
         "name": "Jazz Composition",
         "prereq": "Year 3.",
         "exclusion": null,
@@ -936,7 +936,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU420H1",
+        "code": "JMU420H1",
         "name": "Advanced Jazz Arranging & Orchestration I",
         "prereq": "JMU317Y1",
         "exclusion": null,
@@ -945,8 +945,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU467Y1",
-        "name": " University of Toronto Faculty of Music Gospel Choir",
+        "code": "JMU467Y1",
+        "name": "University of Toronto Faculty of Music Gospel Choir",
         "prereq": "Year 4.",
         "exclusion": "PMU467Y1 .",
         "corequisite": null,
@@ -954,7 +954,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU484Y1",
+        "code": "JMU484Y1",
         "name": "Jazz Applied Music",
         "prereq": "In Year 4. For students in the Bachelor of Music program.",
         "exclusion": null,
@@ -963,7 +963,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU485Y1",
+        "code": "JMU485Y1",
         "name": "Jazz Applied Music & Recital",
         "prereq": "In Year 4. For students in the Bachelor of Music in Performance program.",
         "exclusion": null,
@@ -972,7 +972,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU489Y1",
+        "code": "JMU489Y1",
         "name": "Jazz Orchestra",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -981,7 +981,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU490Y1",
+        "code": "JMU490Y1",
         "name": "Hybrid Ensemble",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -990,7 +990,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU491Y1",
+        "code": "JMU491Y1",
         "name": "Jazz Improvisation",
         "prereq": "JMU291Y1",
         "exclusion": null,
@@ -999,7 +999,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU492Y1",
+        "code": "JMU492Y1",
         "name": "Small Jazz Ensemble",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -1008,7 +1008,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU493Y1",
+        "code": "JMU493Y1",
         "name": "Vocal Jazz Ensemble",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -1017,7 +1017,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " JMU499H1",
+        "code": "JMU499H1",
         "name": "Independent Study",
         "prereq": "In Year 4. Permission of Division.",
         "exclusion": null,
@@ -1026,7 +1026,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " MMU100H1",
+        "code": "MMU100H1",
         "name": "Lives in Music",
         "prereq": null,
         "exclusion": null,
@@ -1035,7 +1035,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " MMU130H1",
+        "code": "MMU130H1",
         "name": "Building the Creative Path",
         "prereq": null,
         "exclusion": null,
@@ -1044,7 +1044,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " MMU200H1",
+        "code": "MMU200H1",
         "name": "Creative Identities in Music I",
         "prereq": "Year 2.",
         "exclusion": null,
@@ -1053,7 +1053,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " MMU201H1",
+        "code": "MMU201H1",
         "name": "Creative Identities in Music II",
         "prereq": "MMU200H1",
         "exclusion": null,
@@ -1062,7 +1062,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " MMU300H1",
+        "code": "MMU300H1",
         "name": "Fundamentals of Music Finance",
         "prereq": "Year 3.",
         "exclusion": null,
@@ -1071,7 +1071,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " MMU400H1",
+        "code": "MMU400H1",
         "name": "Starting a Music Enterprise",
         "prereq": "Year 3.",
         "exclusion": null,
@@ -1080,7 +1080,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=3"
     },
     {
-        "code": " MMU499H1",
+        "code": "MMU499H1",
         "name": "Independent Study – Interdisciplinary",
         "prereq": "Year 4.",
         "exclusion": null,
@@ -1089,7 +1089,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU501Y1",
+        "code": "OMU501Y1",
         "name": "Operatic Staging",
         "prereq": null,
         "exclusion": null,
@@ -1098,7 +1098,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU502Y1",
+        "code": "OMU502Y1",
         "name": "Musical Coaching",
         "prereq": null,
         "exclusion": null,
@@ -1107,7 +1107,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU503Y1",
+        "code": "OMU503Y1",
         "name": "Voice",
         "prereq": null,
         "exclusion": null,
@@ -1116,7 +1116,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU504Y1",
+        "code": "OMU504Y1",
         "name": "Acting",
         "prereq": null,
         "exclusion": null,
@@ -1125,7 +1125,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU505H1",
+        "code": "OMU505H1",
         "name": "French Diction",
         "prereq": null,
         "exclusion": null,
@@ -1134,7 +1134,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU506Y1",
+        "code": "OMU506Y1",
         "name": "Dance",
         "prereq": null,
         "exclusion": null,
@@ -1143,7 +1143,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU508H1",
+        "code": "OMU508H1",
         "name": "Italian Diction",
         "prereq": null,
         "exclusion": null,
@@ -1152,7 +1152,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU509H1",
+        "code": "OMU509H1",
         "name": "Make-up",
         "prereq": null,
         "exclusion": null,
@@ -1161,7 +1161,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU510H1",
+        "code": "OMU510H1",
         "name": "German Diction",
         "prereq": null,
         "exclusion": null,
@@ -1170,7 +1170,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU511H1",
+        "code": "OMU511H1",
         "name": "English Diction",
         "prereq": null,
         "exclusion": null,
@@ -1179,7 +1179,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU601Y1",
+        "code": "OMU601Y1",
         "name": "Operatic Staging",
         "prereq": null,
         "exclusion": null,
@@ -1188,7 +1188,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU602Y1",
+        "code": "OMU602Y1",
         "name": "Musical Coaching",
         "prereq": null,
         "exclusion": null,
@@ -1197,7 +1197,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU603Y1",
+        "code": "OMU603Y1",
         "name": "Voice",
         "prereq": null,
         "exclusion": null,
@@ -1206,7 +1206,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU604Y1",
+        "code": "OMU604Y1",
         "name": "Acting",
         "prereq": null,
         "exclusion": null,
@@ -1215,7 +1215,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU605H1",
+        "code": "OMU605H1",
         "name": "French Diction",
         "prereq": null,
         "exclusion": null,
@@ -1224,7 +1224,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU606Y1",
+        "code": "OMU606Y1",
         "name": "Dance",
         "prereq": null,
         "exclusion": null,
@@ -1233,7 +1233,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU608H1",
+        "code": "OMU608H1",
         "name": "Italian Diction",
         "prereq": null,
         "exclusion": null,
@@ -1242,7 +1242,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU609H1",
+        "code": "OMU609H1",
         "name": "Makeup",
         "prereq": null,
         "exclusion": null,
@@ -1251,7 +1251,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU610H1",
+        "code": "OMU610H1",
         "name": "German Diction",
         "prereq": null,
         "exclusion": null,
@@ -1260,7 +1260,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU611H1",
+        "code": "OMU611H1",
         "name": "English Diction",
         "prereq": null,
         "exclusion": null,
@@ -1269,7 +1269,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU620Y1",
+        "code": "OMU620Y1",
         "name": "Opera Repetiteur I",
         "prereq": null,
         "exclusion": null,
@@ -1278,7 +1278,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU621Y1",
+        "code": "OMU621Y1",
         "name": "Student Stage Director",
         "prereq": null,
         "exclusion": null,
@@ -1287,7 +1287,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU622Y1",
+        "code": "OMU622Y1",
         "name": "Musical Coaching",
         "prereq": null,
         "exclusion": null,
@@ -1296,7 +1296,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU641Y1",
+        "code": "OMU641Y1",
         "name": "Operatic Staging",
         "prereq": null,
         "exclusion": null,
@@ -1305,7 +1305,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU701Y1",
+        "code": "OMU701Y1",
         "name": "Operatic Staging",
         "prereq": null,
         "exclusion": null,
@@ -1314,7 +1314,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU702Y1",
+        "code": "OMU702Y1",
         "name": "Musical Coaching",
         "prereq": null,
         "exclusion": null,
@@ -1323,7 +1323,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU703Y1",
+        "code": "OMU703Y1",
         "name": "Voice",
         "prereq": null,
         "exclusion": null,
@@ -1332,7 +1332,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU704Y1",
+        "code": "OMU704Y1",
         "name": "Acting",
         "prereq": null,
         "exclusion": null,
@@ -1341,7 +1341,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU705H1",
+        "code": "OMU705H1",
         "name": "French Diction",
         "prereq": null,
         "exclusion": null,
@@ -1350,7 +1350,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=4"
     },
     {
-        "code": " OMU706Y1",
+        "code": "OMU706Y1",
         "name": "Dance",
         "prereq": null,
         "exclusion": null,
@@ -1359,7 +1359,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " OMU708H1",
+        "code": "OMU708H1",
         "name": "Italian Diction",
         "prereq": null,
         "exclusion": null,
@@ -1368,7 +1368,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " OMU709H1",
+        "code": "OMU709H1",
         "name": "Makeup",
         "prereq": null,
         "exclusion": null,
@@ -1377,7 +1377,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " OMU710H1",
+        "code": "OMU710H1",
         "name": "German Diction",
         "prereq": null,
         "exclusion": null,
@@ -1386,7 +1386,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " OMU711H1",
+        "code": "OMU711H1",
         "name": "English Diction",
         "prereq": null,
         "exclusion": null,
@@ -1395,7 +1395,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " OMU720Y1",
+        "code": "OMU720Y1",
         "name": "Opera Repetiteur II",
         "prereq": null,
         "exclusion": null,
@@ -1404,7 +1404,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " OMU721Y1",
+        "code": "OMU721Y1",
         "name": "Student Stage Director",
         "prereq": null,
         "exclusion": null,
@@ -1413,7 +1413,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " OMU722Y1",
+        "code": "OMU722Y1",
         "name": "Musical Coaching",
         "prereq": null,
         "exclusion": null,
@@ -1422,7 +1422,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " OMU741Y1",
+        "code": "OMU741Y1",
         "name": "Operatic Staging",
         "prereq": null,
         "exclusion": null,
@@ -1431,7 +1431,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA135Y1",
+        "code": "PMA135Y1",
         "name": "Lyric Diction",
         "prereq": "Voice Majors or P.I.",
         "exclusion": null,
@@ -1440,7 +1440,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA361Y1",
+        "code": "PMA361Y1",
         "name": "Voice Pedagogy",
         "prereq": "Voice majors or P.I.",
         "exclusion": null,
@@ -1449,7 +1449,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA405Y1",
+        "code": "PMA405Y1",
         "name": "Instrumental Performance Class",
         "prereq": null,
         "exclusion": null,
@@ -1458,7 +1458,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA436Y1",
+        "code": "PMA436Y1",
         "name": "French Melodie",
         "prereq": "Voice majors or P.I.",
         "exclusion": null,
@@ -1467,7 +1467,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA440Y1",
+        "code": "PMA440Y1",
         "name": "Lieder",
         "prereq": "Voice majors or P.I.",
         "exclusion": null,
@@ -1476,7 +1476,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA445Y1",
+        "code": "PMA445Y1",
         "name": "Oratorio Ensemble",
         "prereq": "Voice majors or P.I.",
         "exclusion": null,
@@ -1485,7 +1485,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA451Y1",
+        "code": "PMA451Y1",
         "name": "Piano-Instrumental Master Class",
         "prereq": "Piano majors.",
         "exclusion": null,
@@ -1494,7 +1494,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA452Y1",
+        "code": "PMA452Y1",
         "name": "Piano-Vocal Master Class",
         "prereq": "Piano majors.",
         "exclusion": null,
@@ -1503,7 +1503,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA454Y1",
+        "code": "PMA454Y1",
         "name": "Piano-Instrumental Master Class",
         "prereq": null,
         "exclusion": null,
@@ -1512,7 +1512,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA455Y1",
+        "code": "PMA455Y1",
         "name": "Piano-Vocal Master Class",
         "prereq": null,
         "exclusion": null,
@@ -1530,7 +1530,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA475Y1",
+        "code": "PMA475Y1",
         "name": "Soprano/Alto Chorus",
         "prereq": "By audition.",
         "exclusion": null,
@@ -1539,7 +1539,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA476Y1",
+        "code": "PMA476Y1",
         "name": "Piano Literature",
         "prereq": "Piano majors.",
         "exclusion": null,
@@ -1548,7 +1548,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA478Y1",
+        "code": "PMA478Y1",
         "name": "Orchestral Studies - Strings",
         "prereq": "String majors.",
         "exclusion": null,
@@ -1557,7 +1557,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA479Y1",
+        "code": "PMA479Y1",
         "name": "Orchestral Studies - Winds",
         "prereq": "Brass & Woodwind majors.",
         "exclusion": null,
@@ -1566,7 +1566,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA482Y1",
+        "code": "PMA482Y1",
         "name": "Contemporary Music Ensemble",
         "prereq": "By audition.",
         "exclusion": null,
@@ -1575,7 +1575,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA485Y1",
+        "code": "PMA485Y1",
         "name": "Applied Music & Recital",
         "prereq": null,
         "exclusion": null,
@@ -1584,7 +1584,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA487Y1",
+        "code": "PMA487Y1",
         "name": "Collegium Musicium",
         "prereq": "By audition.",
         "exclusion": null,
@@ -1593,7 +1593,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA489Y1",
+        "code": "PMA489Y1",
         "name": "Schola Cantorum",
         "prereq": "By audition.",
         "exclusion": null,
@@ -1602,7 +1602,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA490Y1",
+        "code": "PMA490Y1",
         "name": "Concert Band",
         "prereq": "By audition.",
         "exclusion": null,
@@ -1611,7 +1611,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA491Y1",
+        "code": "PMA491Y1",
         "name": "Chamber Music",
         "prereq": "By permission of the Division.",
         "exclusion": null,
@@ -1620,7 +1620,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=5"
     },
     {
-        "code": " PMA492Y1",
+        "code": "PMA492Y1",
         "name": "Macmillan Singers",
         "prereq": "By audition.",
         "exclusion": null,
@@ -1638,7 +1638,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMA495Y1",
+        "code": "PMA495Y1",
         "name": "University of Toronto Orchestras",
         "prereq": "By audition.",
         "exclusion": null,
@@ -1647,7 +1647,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU085H1",
+        "code": "PMU085H1",
         "name": "Applied Lessons",
         "prereq": null,
         "exclusion": null,
@@ -1656,7 +1656,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU095H1",
+        "code": "PMU095H1",
         "name": "Major Ensemble",
         "prereq": "By audition.",
         "exclusion": null,
@@ -1665,7 +1665,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU098H1",
+        "code": "PMU098H1",
         "name": "Music Electives",
         "prereq": null,
         "exclusion": null,
@@ -1674,7 +1674,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU105Y1",
+        "code": "PMU105Y1",
         "name": "Instrumental Performance Class",
         "prereq": "Performance majors or P.I., In Year 1.",
         "exclusion": null,
@@ -1683,7 +1683,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU110Y1",
+        "code": "PMU110Y1",
         "name": "Tenor/Bass Chorus",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1692,7 +1692,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU115Y1",
+        "code": "PMU115Y1",
         "name": "Chamber Choir",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1701,7 +1701,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU126H1",
+        "code": "PMU126H1",
         "name": "Flute-Guitar Masterclass",
         "prereq": "In Year 1; Flute or Guitar major.",
         "exclusion": null,
@@ -1710,7 +1710,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU128H1",
+        "code": "PMU128H1",
         "name": "English Art Song",
         "prereq": "Voice performance majors or P.I.",
         "exclusion": "PMU138Y1",
@@ -1719,7 +1719,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU129H1",
+        "code": "PMU129H1",
         "name": "Italian Vocal Repertoire",
         "prereq": "Voice performance majors or P.I.",
         "exclusion": "PMU138Y1",
@@ -1728,7 +1728,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU135Y1",
+        "code": "PMU135Y1",
         "name": "Lyric Diction",
         "prereq": "Voice Majors, or P.I.",
         "exclusion": null,
@@ -1737,7 +1737,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU163Y1",
+        "code": "PMU163Y1",
         "name": "Sight Reading",
         "prereq": "Piano performance majors.",
         "exclusion": null,
@@ -1746,7 +1746,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU175Y1",
+        "code": "PMU175Y1",
         "name": "Soprano/Alto Chorus",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1755,7 +1755,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU182Y1",
+        "code": "PMU182Y1",
         "name": "Contemporary Music Ensemble",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1764,7 +1764,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU183Y1",
+        "code": "PMU183Y1",
         "name": "Guitar Orchestra",
         "prereq": "In Year 1.",
         "exclusion": null,
@@ -1773,7 +1773,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU184Y1",
+        "code": "PMU184Y1",
         "name": "Applied Music",
         "prereq": "In Year 1. For students in the Bachelor of Music program.",
         "exclusion": null,
@@ -1782,7 +1782,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU185Y1",
+        "code": "PMU185Y1",
         "name": "Applied Music",
         "prereq": "In Year 1. For students in the Bachelor of Music in Performance program and the Artist Diploma program.",
         "exclusion": null,
@@ -1791,7 +1791,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU187Y1",
+        "code": "PMU187Y1",
         "name": "Collegium Musicium",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1800,7 +1800,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU189Y1",
+        "code": "PMU189Y1",
         "name": "Schola Cantorum",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1809,7 +1809,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU190Y1",
+        "code": "PMU190Y1",
         "name": "Concert Band",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1818,7 +1818,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU191Y1",
+        "code": "PMU191Y1",
         "name": "Chamber Music",
         "prereq": "By permission of the Division, In Year 1.",
         "exclusion": null,
@@ -1827,7 +1827,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU192Y1",
+        "code": "PMU192Y1",
         "name": "Macmillan Singers",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1836,7 +1836,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU195Y1",
+        "code": "PMU195Y1",
         "name": "University of Toronto Orchestras",
         "prereq": "By audition, In Year 1.",
         "exclusion": null,
@@ -1845,7 +1845,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU205Y1",
+        "code": "PMU205Y1",
         "name": "Instrumental Performance Class",
         "prereq": "Performance majors or P.I., In Year 2.",
         "exclusion": null,
@@ -1854,7 +1854,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU210Y1",
+        "code": "PMU210Y1",
         "name": "Tenor/Bass Chorus",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -1863,7 +1863,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU215Y1",
+        "code": "PMU215Y1",
         "name": "Chamber Choir",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -1872,8 +1872,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU226H1",
-        "name": "Flute-Guitar Masterclass ",
+        "code": "PMU226H1",
+        "name": "Flute-Guitar Masterclass",
         "prereq": "In Year 2, Flute or Guitar majors",
         "exclusion": null,
         "corequisite": null,
@@ -1881,7 +1881,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU228H1",
+        "code": "PMU228H1",
         "name": "English Art Song",
         "prereq": "PMU128H1 ,- Voice Performance majors or P.I.",
         "exclusion": "PMU238Y1",
@@ -1890,7 +1890,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=6"
     },
     {
-        "code": " PMU229H1",
+        "code": "PMU229H1",
         "name": "Italian Vocal Repertoire",
         "prereq": "PMU129H1 - Voice Performance majors or P.I.",
         "exclusion": "PMU238Y1",
@@ -1899,7 +1899,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU230Y1",
+        "code": "PMU230Y1",
         "name": "Topics in Performance Studies",
         "prereq": "PMU185Y1 , Voice Performance majors.",
         "exclusion": null,
@@ -1908,7 +1908,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU251Y1",
+        "code": "PMU251Y1",
         "name": "Piano-Instrumental Master Class",
         "prereq": "Piano Performance majors, In Year 2.",
         "exclusion": null,
@@ -1917,7 +1917,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU252Y1",
+        "code": "PMU252Y1",
         "name": "Piano-Vocal Master Class",
         "prereq": "Piano Performance majors, In Year 2.",
         "exclusion": null,
@@ -1926,7 +1926,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU255Y1",
+        "code": "PMU255Y1",
         "name": "Piano-Vocal Master Class",
         "prereq": "Voice Performance majors or P.I., In Year 2.",
         "exclusion": null,
@@ -1935,7 +1935,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU261H1",
+        "code": "PMU261H1",
         "name": "Introduction to Piano Teaching Methods",
         "prereq": "Piano Majors, Year 2",
         "exclusion": "PMU260Y1",
@@ -1944,8 +1944,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU262H1",
-        "name": "Piano Teaching Methods Practicum ",
+        "code": "PMU262H1",
+        "name": "Piano Teaching Methods Practicum",
         "prereq": "Piano Majors, Year 2.",
         "exclusion": null,
         "corequisite": null,
@@ -1953,7 +1953,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU264Y1",
+        "code": "PMU264Y1",
         "name": "West African Drumming & Dancing",
         "prereq": null,
         "exclusion": "WME264H1",
@@ -1962,7 +1962,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU268Y1",
+        "code": "PMU268Y1",
         "name": "Klezmer Ensemble",
         "prereq": null,
         "exclusion": "WME268H1",
@@ -1971,7 +1971,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU270Y1",
+        "code": "PMU270Y1",
         "name": "Latin American Music Ensemble",
         "prereq": null,
         "exclusion": "WME270H1",
@@ -1980,7 +1980,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU271Y1",
+        "code": "PMU271Y1",
         "name": "Japanese Drumming Ensemble",
         "prereq": null,
         "exclusion": "WME271H1",
@@ -1989,7 +1989,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU272Y1",
+        "code": "PMU272Y1",
         "name": "Steel Pan Ensemble",
         "prereq": null,
         "exclusion": "WME272H1",
@@ -1998,7 +1998,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU275Y1",
+        "code": "PMU275Y1",
         "name": "Soprano/Alto Chorus",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -2007,7 +2007,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU282Y1",
+        "code": "PMU282Y1",
         "name": "Contemporary Music Ensemble",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -2016,7 +2016,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU283Y1",
+        "code": "PMU283Y1",
         "name": "Guitar Orchestra",
         "prereq": "In Year 2.",
         "exclusion": null,
@@ -2025,7 +2025,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU284Y1",
+        "code": "PMU284Y1",
         "name": "Applied Music",
         "prereq": "In Year 2. For students in the Bachelor of Music program.",
         "exclusion": null,
@@ -2034,7 +2034,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU285Y1",
+        "code": "PMU285Y1",
         "name": "Applied Music",
         "prereq": "In Year 2. For students in the Bachelor of Music in Performance program and the Artist Diploma program.",
         "exclusion": null,
@@ -2043,7 +2043,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU287Y1",
+        "code": "PMU287Y1",
         "name": "Collegium Musicium",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -2052,7 +2052,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU288Y1",
+        "code": "PMU288Y1",
         "name": "Historical Keyboard Improvisation/Continuo",
         "prereq": "TMU105Y or P.I.",
         "exclusion": null,
@@ -2061,7 +2061,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU289Y1",
+        "code": "PMU289Y1",
         "name": "Schola Cantorum",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -2070,7 +2070,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU290Y1",
+        "code": "PMU290Y1",
         "name": "Concert Band",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -2079,7 +2079,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU291Y1",
+        "code": "PMU291Y1",
         "name": "Chamber Music",
         "prereq": "By permission of the Division, In Year 2.",
         "exclusion": null,
@@ -2088,7 +2088,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU292Y1",
+        "code": "PMU292Y1",
         "name": "Macmillan Singers",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -2097,7 +2097,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU295Y1",
+        "code": "PMU295Y1",
         "name": "University of Toronto Orchestras",
         "prereq": "By audition, In Year 2.",
         "exclusion": null,
@@ -2106,7 +2106,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU299Y1",
+        "code": "PMU299Y1",
         "name": "Applied Performance",
         "prereq": null,
         "exclusion": null,
@@ -2115,7 +2115,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU300H1",
+        "code": "PMU300H1",
         "name": "Projects in Performance",
         "prereq": "Permission of the Performance Division required.",
         "exclusion": null,
@@ -2124,8 +2124,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU301H1",
-        "name": "Piano Technology for Pianists ",
+        "code": "PMU301H1",
+        "name": "Piano Technology for Pianists",
         "prereq": "Year 3",
         "exclusion": null,
         "corequisite": null,
@@ -2133,7 +2133,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU305Y1",
+        "code": "PMU305Y1",
         "name": "Instrumental Performance Class",
         "prereq": "Performance majors or P.I., In Year 3.",
         "exclusion": null,
@@ -2142,7 +2142,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU310Y1",
+        "code": "PMU310Y1",
         "name": "Tenor/Bass Chorus",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -2151,7 +2151,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU315Y1",
+        "code": "PMU315Y1",
         "name": "Chamber Choir",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -2160,8 +2160,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=7"
     },
     {
-        "code": " PMU326H1",
-        "name": "Flute-Guitar Masterclass ",
+        "code": "PMU326H1",
+        "name": "Flute-Guitar Masterclass",
         "prereq": "In Year 3, Flute or Guitar majors",
         "exclusion": null,
         "corequisite": null,
@@ -2169,8 +2169,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU333Y1",
-        "name": "Introduction to Chinese Song\t",
+        "code": "PMU333Y1",
+        "name": "Introduction to Chinese Song",
         "prereq": "Year 2, PMU135Y1 , Piano or Voice majors",
         "exclusion": null,
         "corequisite": null,
@@ -2178,7 +2178,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU336Y1",
+        "code": "PMU336Y1",
         "name": "French Melodie",
         "prereq": "PMU135Y1 , PMU285Y1 , Voice Performance majors or P.I.",
         "exclusion": null,
@@ -2187,7 +2187,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU339Y1",
+        "code": "PMU339Y1",
         "name": "Oratorio",
         "prereq": "PMU285Y1 Voice Performance majors or P.I.",
         "exclusion": null,
@@ -2196,7 +2196,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU340Y1",
+        "code": "PMU340Y1",
         "name": "Lieder",
         "prereq": "PMU135Y1 , PMU285Y1 , Voice Performance majors or P.I.",
         "exclusion": null,
@@ -2205,7 +2205,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU350Y1",
+        "code": "PMU350Y1",
         "name": "Song Interpretation",
         "prereq": "PMU184Y1 , Voice or Piano majors",
         "exclusion": null,
@@ -2214,7 +2214,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU351Y1",
+        "code": "PMU351Y1",
         "name": "Piano-Instrumental Master Class",
         "prereq": "PMU251Y1 , PMU252Y1 .  Piano Performance majors.",
         "exclusion": null,
@@ -2223,7 +2223,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU352Y1",
+        "code": "PMU352Y1",
         "name": "Piano-Vocal Master Class",
         "prereq": "PMU251Y1 , PMU252Y1 . Piano Performance majors.",
         "exclusion": null,
@@ -2232,7 +2232,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU354Y1",
+        "code": "PMU354Y1",
         "name": "Piano-Instrumental Master Class",
         "prereq": "In Year 3, or P.I.",
         "exclusion": null,
@@ -2241,7 +2241,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU355Y1",
+        "code": "PMU355Y1",
         "name": "Piano-Vocal Master Class",
         "prereq": "Voice Performance majors or P.I., In Year 3.",
         "exclusion": null,
@@ -2250,7 +2250,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU361Y1",
+        "code": "PMU361Y1",
         "name": "Voice Pedagogy",
         "prereq": "Voice majors or P.I., In Year 3.",
         "exclusion": null,
@@ -2259,7 +2259,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU363Y1",
+        "code": "PMU363Y1",
         "name": "Orchestral Studies - Percussion",
         "prereq": "Percussion performance majors or P.I., In Year 3.",
         "exclusion": null,
@@ -2268,8 +2268,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU364Y1",
-        "name": "West African Drumming and Dancing ",
+        "code": "PMU364Y1",
+        "name": "West African Drumming and Dancing",
         "prereq": "PMU264Y1",
         "exclusion": null,
         "corequisite": null,
@@ -2277,7 +2277,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU368Y1",
+        "code": "PMU368Y1",
         "name": "Klezmer Ensemble",
         "prereq": "PMU268Y1",
         "exclusion": null,
@@ -2286,8 +2286,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU370Y1",
-        "name": "Latin American Music Ensemble ",
+        "code": "PMU370Y1",
+        "name": "Latin American Music Ensemble",
         "prereq": "PMU270Y1",
         "exclusion": null,
         "corequisite": null,
@@ -2295,7 +2295,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU371Y1",
+        "code": "PMU371Y1",
         "name": "Japanese Drumming Ensemble",
         "prereq": "PMU271Y1",
         "exclusion": null,
@@ -2304,7 +2304,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU372Y1",
+        "code": "PMU372Y1",
         "name": "Steel Pan Ensemble",
         "prereq": "PMU272Y1",
         "exclusion": null,
@@ -2313,7 +2313,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU375Y1",
+        "code": "PMU375Y1",
         "name": "Soprano/Alto Chorus",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -2322,7 +2322,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU376Y1",
+        "code": "PMU376Y1",
         "name": "Piano Literature I",
         "prereq": "PMU285Y1 . Piano Performance majors or P.I.",
         "exclusion": null,
@@ -2331,7 +2331,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU378Y1",
+        "code": "PMU378Y1",
         "name": "Orchestral Studies - Strings",
         "prereq": "PMU285Y1 , Performance majors or P.I.",
         "exclusion": null,
@@ -2340,7 +2340,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU379Y1",
+        "code": "PMU379Y1",
         "name": "Orchestral Studies - Winds",
         "prereq": "PMU285Y1 , Performance majors or P.I.",
         "exclusion": null,
@@ -2349,7 +2349,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU380Y1",
+        "code": "PMU380Y1",
         "name": "Conducting",
         "prereq": "In Year 3.",
         "exclusion": null,
@@ -2358,7 +2358,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU382Y1",
+        "code": "PMU382Y1",
         "name": "Contemporary Music Ensemble",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -2367,7 +2367,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU383Y1",
+        "code": "PMU383Y1",
         "name": "Guitar Orchestra",
         "prereq": "In Year 3.",
         "exclusion": null,
@@ -2376,7 +2376,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU384Y1",
+        "code": "PMU384Y1",
         "name": "Applied Music",
         "prereq": "In Year 3. For students in the Bachelor of Music program.",
         "exclusion": null,
@@ -2385,7 +2385,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU385Y1",
+        "code": "PMU385Y1",
         "name": "Applied Music & Recital",
         "prereq": "In Year 3. For students in the Bachelor of Music in Performance program and the Artist Diploma program.",
         "exclusion": null,
@@ -2394,7 +2394,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU387Y1",
+        "code": "PMU387Y1",
         "name": "Collegium Musicium",
         "prereq": "In Year 3.",
         "exclusion": null,
@@ -2403,7 +2403,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU388Y1",
+        "code": "PMU388Y1",
         "name": "Harpsichord & Organ",
         "prereq": "PMU288Y1 . Keyboard majors or by audition.",
         "exclusion": null,
@@ -2412,7 +2412,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU389Y1",
+        "code": "PMU389Y1",
         "name": "Schola Cantorum",
         "prereq": "In Year 3.",
         "exclusion": null,
@@ -2421,7 +2421,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU390Y1",
+        "code": "PMU390Y1",
         "name": "Concert Band",
         "prereq": "In Year 3.",
         "exclusion": null,
@@ -2430,7 +2430,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=8"
     },
     {
-        "code": " PMU391Y1",
+        "code": "PMU391Y1",
         "name": "Chamber Music",
         "prereq": "By permission of the Division, In Year 3.",
         "exclusion": null,
@@ -2439,7 +2439,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU392Y1",
+        "code": "PMU392Y1",
         "name": "Macmillan Singers",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -2448,7 +2448,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU394Y1",
+        "code": "PMU394Y1",
         "name": "Opera",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -2457,7 +2457,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU395Y1",
+        "code": "PMU395Y1",
         "name": "University of Toronto Orchestras",
         "prereq": "By audition, In Year 3.",
         "exclusion": null,
@@ -2466,8 +2466,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU401H1",
-        "name": "The Business of Music ",
+        "code": "PMU401H1",
+        "name": "The Business of Music",
         "prereq": "Year 3.",
         "exclusion": null,
         "corequisite": null,
@@ -2475,7 +2475,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU405Y1",
+        "code": "PMU405Y1",
         "name": "Instrumental Performance Class",
         "prereq": "Performance majors only or P.I., In Year 4.",
         "exclusion": null,
@@ -2484,7 +2484,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU408H1",
+        "code": "PMU408H1",
         "name": "Performing as a Freelance Artist in North America",
         "prereq": "PMU401H1",
         "exclusion": null,
@@ -2493,7 +2493,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU410Y1",
+        "code": "PMU410Y1",
         "name": "Tenor/Bass Chorus",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2502,7 +2502,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU415Y1",
+        "code": "PMU415Y1",
         "name": "Chamber Choir",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2511,7 +2511,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU426H1",
+        "code": "PMU426H1",
         "name": "Guitar-Flute Masterclass",
         "prereq": "Year 4 Flute/Guitar majors or P.I.",
         "exclusion": null,
@@ -2520,7 +2520,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU436Y1",
+        "code": "PMU436Y1",
         "name": "French Melodie",
         "prereq": "PMU336Y1 or P.I.",
         "exclusion": null,
@@ -2529,7 +2529,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU440Y1",
+        "code": "PMU440Y1",
         "name": "Lieder",
         "prereq": "PMU135Y1 , PMU340Y1 , or P.I.",
         "exclusion": null,
@@ -2538,7 +2538,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU445Y1",
+        "code": "PMU445Y1",
         "name": "Oratorio Ensemble",
         "prereq": "PMU385Y1 , PMU285Y1 for Art Diploma Students.",
         "exclusion": null,
@@ -2547,7 +2547,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU451Y1",
+        "code": "PMU451Y1",
         "name": "Piano-Instrumental Master Class",
         "prereq": "PMU351Y1 , PMU352Y1 .",
         "exclusion": null,
@@ -2556,7 +2556,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU452Y1",
+        "code": "PMU452Y1",
         "name": "Piano-Vocal Master Class",
         "prereq": "PMU351Y1 , PMU352Y1 .",
         "exclusion": null,
@@ -2565,7 +2565,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU454Y1",
+        "code": "PMU454Y1",
         "name": "Piano-Instrumental Master Class",
         "prereq": "In Year 4 or P.I.",
         "exclusion": null,
@@ -2574,7 +2574,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU455Y1",
+        "code": "PMU455Y1",
         "name": "Piano-Vocal Master Class",
         "prereq": "Voice performance majors or P.I., In Year 4.",
         "exclusion": null,
@@ -2583,7 +2583,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU460Y1",
+        "code": "PMU460Y1",
         "name": "Teaching Methods - Organ",
         "prereq": "Organ majors or Concurrent enrolment in TMU105Y1 or P.I.",
         "exclusion": null,
@@ -2592,7 +2592,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU463Y1",
+        "code": "PMU463Y1",
         "name": "Orchestral Studies - Percussion",
         "prereq": "PMU363Y1 . Percussion performance majors or P.I.",
         "exclusion": null,
@@ -2601,7 +2601,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU475Y1",
+        "code": "PMU475Y1",
         "name": "Soprano/Alto Chorus",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2610,7 +2610,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU476Y1",
+        "code": "PMU476Y1",
         "name": "Piano Literature II",
         "prereq": "Piano majors",
         "exclusion": null,
@@ -2619,7 +2619,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU477Y1",
+        "code": "PMU477Y1",
         "name": "Organ Literature",
         "prereq": "Organ Performance majors or P.I.",
         "exclusion": null,
@@ -2628,7 +2628,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU478Y1",
+        "code": "PMU478Y1",
         "name": "Orchestral Studies - Strings",
         "prereq": "PMU378Y1 . Performance majors or P.I.",
         "exclusion": null,
@@ -2637,7 +2637,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU479Y1",
+        "code": "PMU479Y1",
         "name": "Orchestral Studies - Winds",
         "prereq": "PMU379Y1 . Performance majors or P.I.",
         "exclusion": null,
@@ -2646,7 +2646,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU480Y1",
+        "code": "PMU480Y1",
         "name": "Conducting",
         "prereq": "PMU380Y1",
         "exclusion": null,
@@ -2655,7 +2655,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU482Y1",
+        "code": "PMU482Y1",
         "name": "Contemporary Music Ensemble",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2664,7 +2664,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU483Y1",
+        "code": "PMU483Y1",
         "name": "Guitar Orchestra",
         "prereq": "In Year 4.",
         "exclusion": null,
@@ -2673,7 +2673,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU484Y1",
+        "code": "PMU484Y1",
         "name": "Applied Music",
         "prereq": "In Year 4.  Students in the Bachelor of Music program.",
         "exclusion": null,
@@ -2682,7 +2682,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU485Y1",
+        "code": "PMU485Y1",
         "name": "Applied Music & Recital",
         "prereq": "In Year 4. For students in the Bachelor of Music in Performance program and the Artist Diploma program.",
         "exclusion": null,
@@ -2691,7 +2691,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU487Y1",
+        "code": "PMU487Y1",
         "name": "Collegium Musicium",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2700,7 +2700,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=9"
     },
     {
-        "code": " PMU489Y1",
+        "code": "PMU489Y1",
         "name": "Schola Cantorum",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2709,7 +2709,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " PMU490Y1",
+        "code": "PMU490Y1",
         "name": "Concert Band",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2718,7 +2718,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " PMU491Y1",
+        "code": "PMU491Y1",
         "name": "Chamber Music",
         "prereq": "By permission of the Division, In Year 4.",
         "exclusion": null,
@@ -2727,7 +2727,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " PMU492Y1",
+        "code": "PMU492Y1",
         "name": "Macmillan Singers",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2736,7 +2736,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " PMU494Y1",
+        "code": "PMU494Y1",
         "name": "Opera",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2745,7 +2745,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " PMU495Y1",
+        "code": "PMU495Y1",
         "name": "University of Toronto Orchestras",
         "prereq": "By audition, In Year 4.",
         "exclusion": null,
@@ -2754,7 +2754,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " SMU200H1",
+        "code": "SMU200H1",
         "name": "Healthy Practices for Healthy Musicians",
         "prereq": "In Year 2.",
         "exclusion": null,
@@ -2763,7 +2763,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " SMU400H1",
+        "code": "SMU400H1",
         "name": "Introduction to Music in Healthcare",
         "prereq": "In Year 3.",
         "exclusion": "EMU400H1",
@@ -2772,7 +2772,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " SMU402H1",
+        "code": "SMU402H1",
         "name": "Introduction to Music Therapy",
         "prereq": null,
         "exclusion": null,
@@ -2781,8 +2781,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " SMU499H1",
-        "name": "Independent Study ",
+        "code": "SMU499H1",
+        "name": "Independent Study",
         "prereq": "Year 4",
         "exclusion": null,
         "corequisite": null,
@@ -2790,8 +2790,8 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU010H1",
-        "name": "Composition ",
+        "code": "TMU010H1",
+        "name": "Composition",
         "prereq": null,
         "exclusion": null,
         "corequisite": null,
@@ -2799,7 +2799,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU105Y1",
+        "code": "TMU105Y1",
         "name": "Keyboard Harmony",
         "prereq": "Keyboard majors.",
         "exclusion": "TMU107Y1",
@@ -2808,7 +2808,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU107Y1",
+        "code": "TMU107Y1",
         "name": "Keyboard Skills",
         "prereq": "Non-keyboard majors.",
         "exclusion": "TMU105Y1 .  Incoming students whose major instrument is not keyboard  may be granted exemption by passing a test during the first week of classes or showing proof of RCM Grade 3 Piano.  Students obtaining advanced standing in TMU107Y1 may enrol in TMU105Y1 .",
@@ -2817,7 +2817,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU130H1",
+        "code": "TMU130H1",
         "name": "Music Theory I",
         "prereq": null,
         "exclusion": "TMU120H1",
@@ -2826,7 +2826,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU131H1",
+        "code": "TMU131H1",
         "name": "Music Theory II",
         "prereq": "TMU130H1",
         "exclusion": "TMU121H1 ; TMU220H1",
@@ -2835,7 +2835,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU132H1",
+        "code": "TMU132H1",
         "name": "Musical Skills I",
         "prereq": null,
         "exclusion": "TMU120H1",
@@ -2844,7 +2844,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU133H1",
+        "code": "TMU133H1",
         "name": "Musical Skills II",
         "prereq": "TMU132H1",
         "exclusion": "TMU121H1 ; TMU220H1",
@@ -2853,7 +2853,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU230H1",
+        "code": "TMU230H1",
         "name": "Music Theory III",
         "prereq": "TMU131H1",
         "exclusion": "TMU221H1",
@@ -2862,7 +2862,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU231H1",
+        "code": "TMU231H1",
         "name": "Music Theory IV",
         "prereq": "TMU230H1",
         "exclusion": "TMU302H1",
@@ -2871,7 +2871,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU232H1",
+        "code": "TMU232H1",
         "name": "Musical Skills III",
         "prereq": "TMU131H1 , TMU133H1",
         "exclusion": "TMU221H1",
@@ -2889,7 +2889,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU316H1",
+        "code": "TMU316H1",
         "name": "Counterpoint I",
         "prereq": "TMU130H1 , TMU131H1 , TMU132H1 , TMU133H1",
         "exclusion": null,
@@ -2898,7 +2898,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU317H1",
+        "code": "TMU317H1",
         "name": "Counterpoint II",
         "prereq": "TMU316H1",
         "exclusion": null,
@@ -2907,7 +2907,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU318H1",
+        "code": "TMU318H1",
         "name": "Counterpoint III",
         "prereq": "TMU130H1 , TMU131H1 , TMU132H1 , TMU133H1",
         "exclusion": null,
@@ -2925,7 +2925,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU404H1",
+        "code": "TMU404H1",
         "name": "Extended Tonal Techniques in 20th Century Music",
         "prereq": "TMU230H1 , TMU231H1 , TMU232H1 (or P.I.)",
         "exclusion": null,
@@ -2934,7 +2934,7 @@
         "source_url": "https://music.calendar.utoronto.ca/search-courses?page=10"
     },
     {
-        "code": " TMU499H1",
+        "code": "TMU499H1",
         "name": "Independent Study",
         "prereq": "In Year 4. Permission of Division.",
         "exclusion": null,
